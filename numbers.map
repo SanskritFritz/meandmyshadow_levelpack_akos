@@ -1,0 +1,219 @@
+name="Numbers"
+size=1000,1700
+tile(Block,0,1150)
+tile(Block,50,1100)
+tile(Block,100,1050)
+tile(Block,100,1100)
+tile(Block,100,1150)
+tile(Block,100,1250)
+tile(Block,100,1300)
+tile(Block,250,1050)
+tile(Block,300,1050)
+tile(Block,350,1100)
+tile(Block,350,1150)
+tile(Block,350,1200)
+tile(Block,350,1250)
+tile(Block,300,1300)
+tile(Block,250,1300)
+tile(Block,200,1250)
+tile(Block,200,1200)
+tile(Block,200,1150)
+tile(Block,200,1100)
+tile(ShadowBlock,250,1400)
+tile(ShadowBlock,250,1450)
+tile(ShadowBlock,250,1500)
+tile(ShadowBlock,250,1550)
+tile(ShadowBlock,250,1600)
+tile(ShadowBlock,200,1650)
+tile(ShadowBlock,150,1650)
+tile(ShadowBlock,100,1650)
+tile(ShadowBlock,100,1550)
+tile(ShadowBlock,100,1500)
+tile(ShadowBlock,100,1450)
+tile(ShadowBlock,350,1450)
+tile(ShadowBlock,400,1400)
+tile(ShadowBlock,450,1400)
+tile(ShadowBlock,500,1450)
+tile(ShadowBlock,500,1500)
+tile(ShadowBlock,450,1500)
+tile(ShadowBlock,500,1550)
+tile(ShadowBlock,450,1600)
+tile(ShadowBlock,400,1600)
+tile(ShadowBlock,350,1550)
+tile(ShadowBlock,700,1400)
+tile(ShadowBlock,650,1450)
+tile(ShadowBlock,600,1500)
+tile(ShadowBlock,600,1550)
+tile(ShadowBlock,650,1550)
+tile(ShadowBlock,700,1550)
+tile(ShadowBlock,750,1550)
+tile(ShadowBlock,800,1550)
+tile(ShadowBlock,750,1500)
+tile(ShadowBlock,750,1600)
+tile(Block,600,1150)
+tile(Block,550,1100)
+tile(Block,500,1100)
+tile(Block,450,1150)
+tile(Block,450,1250)
+tile(Block,500,1300)
+tile(Block,550,1300)
+tile(Block,600,1250)
+tile(Block,550,1200)
+tile(Block,500,1200)
+tile(Block,900,800)
+tile(Block,850,800)
+tile(Block,800,800)
+tile(Block,800,0)
+tile(ShadowBlock,750,800)
+tile(ShadowBlock,700,800)
+tile(ShadowBlock,650,750)
+tile(ShadowBlock,450,800)
+tile(ShadowBlock,450,650)
+tile(ShadowBlock,400,750)
+tile(ShadowBlock,300,700)
+tile(ShadowBlock,600,600)
+tile(ShadowBlock,800,600)
+tile(Block,950,800)
+tile(Block,950,600)
+tile(Exit,950,550)
+tile(MovingBlock,850,600){
+	MovingPosCount=2
+	disabled=0
+	id=0
+	loop=1
+	t0=10
+	t1=10
+	x0=0
+	x1=0
+	y0=-50
+	y1=0
+}
+tile(MovingBlock,900,600){
+	MovingPosCount=6
+	disabled=0
+	id=1
+	loop=1
+	t0=10
+	t1=10
+	t2=20
+	t3=10
+	t4=20
+	t5=10
+	x0=0
+	x1=0
+	x2=0
+	x3=-50
+	x4=-50
+	x5=0
+	y0=-50
+	y1=0
+	y2=-100
+	y3=-100
+	y4=0
+	y5=0
+}
+tile(Teleporter,500,1250){
+	automatic=0
+	destination=3
+	id=2
+}
+tile(Teleporter,550,1150){
+	automatic=0
+	destination=13
+	id=3
+}
+tile(Teleporter,500,1150){
+	automatic=0
+	id=4
+}
+tile(Teleporter,700,1500){
+	automatic=0
+	destination=15
+	id=5
+}
+tile(Teleporter,450,1450){
+	automatic=0
+	destination=5
+	id=6
+}
+tile(Teleporter,150,1600){
+	automatic=0
+	destination=12
+	id=7
+}
+tile(MovingShadowBlock,150,1550){
+	MovingPosCount=2
+	disabled=0
+	id=9
+	loop=1
+	t0=62
+	t1=62
+	x0=0
+	x1=0
+	y0=-50
+	y1=0
+}
+tile(Teleporter,150,1450){
+	automatic=0
+	destination=6
+	id=10
+}
+tile(Teleporter,400,1550){
+	automatic=0
+	destination=10
+	id=11
+}
+tile(Teleporter,250,1250){
+	automatic=0
+	destination=15
+	id=12
+}
+tile(Teleporter,250,1100){
+	automatic=0
+	destination=4
+	id=13
+}
+tile(Block,300,1250)
+tile(MovingBlock,250,1200){
+	MovingPosCount=2
+	disabled=0
+	id=14
+	loop=1
+	t0=33
+	t1=33
+	x0=0
+	x1=0
+	y0=-50
+	y1=0
+}
+tile(Teleporter,950,750){
+	automatic=0
+	id=15
+}
+tile(Block,50,1250)
+tile(Block,0,1300)
+tile(Teleporter,0,1250){
+	automatic=0
+	destination=2
+	id=16
+}
+tile(Block,200,1400)
+tile(Teleporter,200,1300){
+	automatic=0
+	destination=18
+	id=17
+}
+tile(Teleporter,50,1150){
+	automatic=0
+	id=18
+}
+tile(ShadowBlock,200,1600)
+tile(Block,150,1400)
+tile(Block,100,1400)
+tile(Block,50,1450)
+tile(Block,750,600)
+tile(Swap,750,550)
+tile(ShadowBlock,500,800)
+tile(PlayerStart,0,1100)
+tile(ShadowStart,100,1600)
+tile(Block,100,1200)

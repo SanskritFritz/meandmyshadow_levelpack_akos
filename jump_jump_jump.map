@@ -1,0 +1,125 @@
+name="Jump jump jump"
+size=2150,700
+tile(Block,1350,550)
+tile(Block,1400,550)
+tile(Block,1450,550)
+tile(Block,1500,550)
+tile(Block,1550,550)
+tile(Block,1600,550)
+tile(Block,1700,550)
+tile(Block,1750,500)
+tile(Block,1750,450)
+tile(Spikes,1650,550)
+tile(MovingBlock,1800,450){
+	MovingPosCount=2
+	disabled=0
+	id=1
+	loop=1
+	t0=282
+	t1=282
+	x0=200
+	x1=0
+	y0=-200
+	y1=0
+}
+tile(Block,2050,250)
+tile(Block,2100,200)
+tile(Block,2100,150)
+tile(ShadowBlock,1450,500)
+tile(ShadowBlock,1350,450)
+tile(ShadowBlock,1300,400)
+tile(ShadowBlock,1400,350)
+tile(ShadowBlock,1450,300)
+tile(ShadowBlock,1550,300)
+tile(ShadowBlock,1600,300)
+tile(Block,1300,550)
+tile(Block,1300,500)
+tile(Block,1300,450)
+tile(Block,1250,400)
+tile(Block,1250,350)
+tile(Block,1250,300)
+tile(Block,1250,250)
+tile(Spikes,1500,300)
+tile(ShadowStart,1350,500)
+tile(Checkpoint,2000,200)
+tile(Checkpoint,1750,350)
+tile(Block,1700,250)
+tile(Block,1750,250)
+tile(Block,1850,250)
+tile(Block,1650,200)
+tile(Block,1600,150)
+tile(Block,1550,100)
+tile(Block,1400,100)
+tile(Block,1200,100)
+tile(Block,1150,150)
+tile(Block,1100,200)
+tile(Block,1050,250)
+tile(Block,1000,300)
+tile(Block,950,350)
+tile(Block,900,400)
+tile(Block,950,650)
+tile(Spikes,900,650)
+tile(Spikes,850,650)
+tile(Spikes,800,650)
+tile(Spikes,750,650)
+tile(Spikes,700,650)
+tile(Spikes,650,650)
+tile(Spikes,600,650)
+tile(Spikes,550,650)
+tile(Spikes,500,650)
+tile(Spikes,450,650)
+tile(Spikes,400,650)
+tile(Block,1050,650)
+tile(Block,1150,650)
+tile(Block,1250,650)
+tile(Block,1300,650)
+tile(Block,1350,650)
+tile(Block,1400,650)
+tile(Block,1450,650)
+tile(Block,1500,650)
+tile(Block,1550,650)
+tile(Block,1600,650)
+tile(Block,1650,650)
+tile(Block,1700,650)
+tile(Block,1750,650)
+tile(Block,1800,650)
+tile(Block,1850,650)
+tile(Exit,1850,600)
+tile(Spikes,1800,500)
+tile(Spikes,1850,500)
+tile(Spikes,1900,500)
+tile(Spikes,1950,500)
+tile(Spikes,2000,500)
+tile(Spikes,1200,250)
+tile(Switch,1600,250){
+	behaviour=toggle
+	id=2
+}
+tile(Switch,1250,200){
+	behaviour=toggle
+	id=3
+}
+tile(MovingShadowBlock,1300,200){
+	MovingPosCount=1
+	disabled=1
+	id=2
+	loop=0
+	t0=150
+	x0=0
+	y0=-150
+}
+tile(MovingBlock,1750,400){
+	MovingPosCount=1
+	disabled=1
+	id=3
+	loop=0
+	t0=100
+	x0=0
+	y0=-100
+}
+tile(ShadowBlock,1350,250)
+tile(Spikes,1800,250)
+tile(Spikes,1450,100)
+tile(Spikes,1500,100)
+tile(Block,1350,100)
+tile(PlayerStart,1400,500)

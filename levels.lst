@@ -1,0 +1,14 @@
+description="Akos level"
+congratulations="You have finished Akos level!"
+levelfile(my_first_map.map,"My first map")
+levelfile(normal.map,"Normal")
+levelfile(conveyor_belt.map,"Conveyor belt")
+levelfile(interesting_level.map,"Interesting level")
+levelfile(brother_idea.map,"Brother's idea")
+levelfile(forward.map,"Forward")
+levelfile(race.map,"Race")
+levelfile(small_holes.map,"Small holes")
+levelfile(jump_jump_jump.map,"Jump jump jump")
+levelfile(looking_easy.map,"Looking easy")
+levelfile(numbers.map,"Numbers")
+levelfile(super_hard.map,"Super hard")

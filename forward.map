@@ -1,0 +1,294 @@
+name="Forward"
+size=3000,1050
+tile(ShadowStart,0,0)
+tile(Block,0,550)
+tile(Block,50,550)
+tile(Block,100,550)
+tile(Block,150,550)
+tile(Block,200,550)
+tile(Block,250,550)
+tile(Block,300,550)
+tile(Block,350,550)
+tile(Block,400,550)
+tile(Block,450,550)
+tile(Block,500,550)
+tile(Block,550,550)
+tile(Block,600,550)
+tile(Block,650,550)
+tile(Block,750,550)
+tile(Block,850,550)
+tile(Block,900,550)
+tile(Block,950,550)
+tile(Block,1000,550)
+tile(Block,1050,550)
+tile(Block,1150,550)
+tile(Block,1250,550)
+tile(Block,1200,550)
+tile(Block,1300,550)
+tile(Block,1350,550)
+tile(Block,1450,550)
+tile(Block,1500,550)
+tile(Block,1550,550)
+tile(Block,1600,550)
+tile(Block,1650,550)
+tile(Block,1700,550)
+tile(Block,1750,550)
+tile(Block,1800,550)
+tile(Block,1850,550)
+tile(Block,1900,550)
+tile(Block,1950,550)
+tile(Block,2000,550)
+tile(Block,2050,550)
+tile(Block,2100,550)
+tile(Block,2150,550)
+tile(Block,2200,550)
+tile(Block,2250,550)
+tile(Block,2300,550)
+tile(Block,2350,550)
+tile(Block,2400,550)
+tile(Block,2450,550)
+tile(Block,2500,550)
+tile(Block,2550,550)
+tile(Block,2600,550)
+tile(Block,2650,550)
+tile(Block,2700,550)
+tile(Block,2750,550)
+tile(Block,2800,550)
+tile(Block,1400,550)
+tile(Block,1100,550)
+tile(Block,800,550)
+tile(Block,700,550)
+tile(Block,0,500)
+tile(Block,0,450)
+tile(Block,2800,500)
+tile(MovingBlock,2450,500){
+	MovingPosCount=2
+	disabled=0
+	id=5
+	loop=1
+	t0=120
+	t1=1080
+	x0=300
+	x1=-2400
+	y0=0
+	y1=0
+}
+tile(MovingBlock,2300,500){
+	MovingPosCount=2
+	disabled=0
+	id=6
+	loop=1
+	t0=180
+	t1=1080
+	x0=450
+	x1=-2250
+	y0=0
+	y1=0
+}
+tile(MovingBlock,2700,450){
+	MovingPosCount=1
+	disabled=0
+	id=7
+	loop=1
+	t0=1325
+	x0=-2650
+	y0=0
+}
+tile(MovingBlock,1850,500){
+	MovingPosCount=2
+	disabled=0
+	id=8
+	loop=1
+	t0=360
+	t1=1080
+	x0=900
+	x1=-1800
+	y0=0
+	y1=0
+}
+tile(MovingBlock,2000,450){
+	MovingPosCount=2
+	disabled=0
+	id=9
+	loop=1
+	t0=320
+	t1=1100
+	x0=800
+	x1=-1950
+	y0=0
+	y1=0
+}
+tile(MovingBlock,1550,500){
+	MovingPosCount=2
+	disabled=0
+	id=10
+	loop=1
+	t0=600
+	t1=1080
+	x0=-1500
+	x1=1200
+	y0=0
+	y1=0
+}
+tile(MovingBlock,950,500){
+	MovingPosCount=2
+	disabled=0
+	id=11
+	loop=1
+	t0=360
+	t1=1080
+	x0=-900
+	x1=1800
+	y0=0
+	y1=0
+}
+tile(MovingBlock,450,500){
+	MovingPosCount=1
+	disabled=0
+	id=12
+	loop=1
+	t0=920
+	x0=2300
+	y0=0
+}
+tile(MovingBlock,50,500){
+	MovingPosCount=1
+	disabled=0
+	id=13
+	loop=1
+	t0=1350
+	x0=2700
+	y0=0
+}
+tile(MovingSpikes,250,500){
+	MovingPosCount=1
+	disabled=0
+	id=14
+	loop=1
+	t0=1250
+	x0=2500
+	y0=0
+}
+tile(MovingSpikes,800,450){
+	MovingPosCount=2
+	disabled=0
+	id=15
+	loop=1
+	t0=300
+	t1=1100
+	x0=-750
+	x1=2000
+	y0=0
+	y1=0
+}
+tile(MovingSpikes,1300,500){
+	MovingPosCount=2
+	disabled=0
+	id=16
+	loop=1
+	t0=580
+	t1=1080
+	x0=1450
+	x1=-1250
+	y0=0
+	y1=0
+}
+tile(MovingSpikes,1700,450){
+	MovingPosCount=2
+	disabled=0
+	id=17
+	loop=1
+	t0=440
+	t1=1100
+	x0=1100
+	x1=-1650
+	y0=0
+	y1=0
+}
+tile(MovingSpikes,2150,500){
+	MovingPosCount=2
+	disabled=0
+	id=18
+	loop=1
+	t0=240
+	t1=1080
+	x0=600
+	x1=-2100
+	y0=0
+	y1=0
+}
+tile(MovingSpikes,2450,450){
+	MovingPosCount=1
+	disabled=0
+	id=19
+	loop=1
+	t0=960
+	x0=-2400
+	y0=0
+}
+tile(MovingSpikes,2750,500){
+	MovingPosCount=1
+	disabled=0
+	id=20
+	loop=1
+	t0=1080
+	x0=-2700
+	y0=0
+}
+tile(Block,2900,500)
+tile(Spikes,2850,700)
+tile(Spikes,2800,650)
+tile(Spikes,2800,600)
+tile(Spikes,2900,550)
+tile(Spikes,2950,600)
+tile(Spikes,2950,650)
+tile(Spikes,2950,700)
+tile(Spikes,2950,750)
+tile(Spikes,2850,750)
+tile(Spikes,2800,800)
+tile(Spikes,2950,800)
+tile(Spikes,2900,900)
+tile(Spikes,2950,850)
+tile(Spikes,2800,850)
+tile(Spikes,2800,900)
+tile(Spikes,2900,950)
+tile(Spikes,2800,950)
+tile(Block,2850,1000)
+tile(Exit,2850,950)
+tile(MovingBlock,2950,400){
+	MovingPosCount=2
+	disabled=0
+	id=21
+	loop=1
+	t0=290
+	t1=290
+	x0=-2900
+	x1=0
+	y0=0
+	y1=0
+}
+tile(PlayerStart,0,400)
+tile(Checkpoint,2900,450)
+tile(Collectable,2800,400)
+tile(Collectable,2550,500)
+tile(Collectable,2300,450)
+tile(Collectable,2000,500)
+tile(Collectable,1750,450)
+tile(Collectable,1550,450)
+tile(Collectable,1250,500)
+tile(Collectable,1000,450)
+tile(Collectable,600,500)
+tile(Checkpoint,200,500)
+tile(Checkpoint,550,450)
+tile(Checkpoint,850,500)
+tile(Checkpoint,1000,400)
+tile(Checkpoint,1200,500)
+tile(Checkpoint,1450,450)
+tile(Checkpoint,1650,500)
+tile(Checkpoint,1600,500)
+tile(Checkpoint,1850,450)
+tile(Checkpoint,1900,350)
+tile(Checkpoint,2200,450)
+tile(Checkpoint,2600,500)
+tile(Checkpoint,2800,450)
+tile(Checkpoint,2800,350)
