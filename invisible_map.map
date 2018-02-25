@@ -1,0 +1,998 @@
+name="Invisible map"
+size=2450,1800
+tile(Block,450,300)
+tile(Block,450,350)
+tile(Block,450,400)
+tile(Block,450,450)
+tile(Block,450,550)
+tile(Block,450,500)
+tile(Block,450,600)
+tile(Block,450,650)
+tile(Block,450,700)
+tile(Block,500,700)
+tile(Block,550,700)
+tile(Block,600,700)
+tile(Block,650,700)
+tile(Block,700,700)
+tile(Block,800,700)
+tile(Block,850,700)
+tile(Block,900,700)
+tile(Block,950,700)
+tile(Block,950,650)
+tile(Block,950,600)
+tile(Block,950,550)
+tile(Block,950,500)
+tile(Block,950,450)
+tile(Block,950,400)
+tile(Block,950,350)
+tile(Block,950,300)
+tile(Block,900,300)
+tile(Block,850,300)
+tile(Block,800,300)
+tile(Block,750,300)
+tile(Block,550,300)
+tile(Block,500,300)
+tile(Exit,900,350)
+tile(PlayerStart,500,650)
+tile(Block,550,650)
+tile(Block,650,600)
+tile(Block,700,650)
+tile(Spikes,750,700)
+tile(Block,850,650)
+tile(Block,900,600)
+tile(Block,900,650)
+tile(Block,800,550)
+tile(Block,750,500)
+tile(Block,600,500)
+tile(MovingBlock,500,550){
+	MovingPosCount=1
+	disabled=1
+	id=1
+	loop=0
+	t0=150
+	x0=0
+	y0=-150
+}
+tile(Switch,500,500){
+	behaviour=toggle
+	id=1
+}
+tile(ConveyorBelt,600,400){
+	disabled=0
+	speed=1
+}
+tile(ConveyorBelt,650,400){
+	disabled=0
+	speed=1
+}
+tile(Spikes,600,300)
+tile(Spikes,700,300)
+tile(Collectable,650,300)
+tile(ConveyorBelt,700,400){
+	disabled=0
+	speed=1
+}
+tile(Block,550,400)
+tile(Block,850,450)
+tile(Block,900,400)
+tile(Block,750,400)
+tile(Fragile,650,500){
+	state=0
+}
+tile(Fragile,700,500){
+	state=0
+}
+tile(Collectable,500,450)
+tile(ShadowBlock,2350,650)
+tile(ShadowBlock,2300,600)
+tile(ShadowBlock,2400,550)
+tile(ShadowBlock,2350,550)
+tile(ShadowBlock,2400,600)
+tile(ShadowBlock,2400,650)
+tile(ShadowBlock,2300,650)
+tile(ShadowBlock,2300,550)
+tile(ShadowStart,2350,600)
+tile(MovingShadowBlock,950,750){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingShadowBlock,900,750){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingShadowBlock,850,750){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingShadowBlock,850,800){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingShadowBlock,900,800){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingShadowBlock,950,800){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingShadowBlock,950,850){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingShadowBlock,900,850){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingShadowBlock,850,850){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingShadowBlock,800,750){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingShadowBlock,750,750){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingShadowBlock,750,800){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingShadowBlock,800,800){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingShadowBlock,800,850){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingShadowBlock,750,850){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingShadowBlock,700,850){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingShadowBlock,650,850){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingShadowBlock,600,850){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingShadowBlock,600,800){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingShadowBlock,600,750){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingShadowBlock,650,800){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingShadowBlock,650,750){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingShadowBlock,700,800){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingShadowBlock,700,750){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingShadowBlock,550,750){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingShadowBlock,550,800){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingShadowBlock,550,850){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingShadowBlock,500,850){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingShadowBlock,500,800){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingShadowBlock,500,750){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingShadowBlock,450,750){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingShadowBlock,450,800){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingShadowBlock,450,850){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingShadowBlock,450,250){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingShadowBlock,450,200){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingShadowBlock,450,150){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingShadowBlock,500,200){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingShadowBlock,500,250){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingShadowBlock,500,150){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingShadowBlock,550,250){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingShadowBlock,550,200){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingShadowBlock,550,150){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingShadowBlock,600,250){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingShadowBlock,600,200){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingShadowBlock,600,150){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingShadowBlock,650,250){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingShadowBlock,650,200){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingShadowBlock,650,150){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingShadowBlock,700,200){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingShadowBlock,700,150){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingShadowBlock,700,250){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingShadowBlock,750,200){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingShadowBlock,850,200){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingShadowBlock,900,200){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingShadowBlock,950,200){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingShadowBlock,950,150){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingShadowBlock,900,150){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingShadowBlock,850,150){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingShadowBlock,800,150){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingShadowBlock,750,150){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingShadowBlock,800,200){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingShadowBlock,750,250){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingShadowBlock,800,250){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingShadowBlock,850,250){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingShadowBlock,950,250){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingShadowBlock,900,250){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingShadowBlock,1000,550){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=25
+	x0=-250
+	y0=0
+}
+tile(MovingShadowBlock,1000,500){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=25
+	x0=-250
+	y0=0
+}
+tile(MovingShadowBlock,1000,450){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=25
+	x0=-250
+	y0=0
+}
+tile(MovingShadowBlock,1050,550){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=25
+	x0=-250
+	y0=0
+}
+tile(MovingShadowBlock,1050,500){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=25
+	x0=-250
+	y0=0
+}
+tile(MovingShadowBlock,1050,450){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=25
+	x0=-250
+	y0=0
+}
+tile(MovingShadowBlock,1100,550){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=25
+	x0=-250
+	y0=0
+}
+tile(MovingShadowBlock,1100,500){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=25
+	x0=-250
+	y0=0
+}
+tile(MovingShadowBlock,1100,450){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=25
+	x0=-250
+	y0=0
+}
+tile(MovingShadowBlock,1150,550){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=25
+	x0=-250
+	y0=0
+}
+tile(MovingShadowBlock,1150,500){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=25
+	x0=-250
+	y0=0
+}
+tile(MovingShadowBlock,1150,450){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=25
+	x0=-250
+	y0=0
+}
+tile(MovingShadowBlock,1200,550){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=25
+	x0=-250
+	y0=0
+}
+tile(MovingShadowBlock,1200,500){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=25
+	x0=-250
+	y0=0
+}
+tile(MovingShadowBlock,1200,450){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=25
+	x0=-250
+	y0=0
+}
+tile(MovingShadowBlock,400,550){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=30
+	x0=300
+	y0=0
+}
+tile(MovingShadowBlock,350,550){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=30
+	x0=300
+	y0=0
+}
+tile(MovingShadowBlock,300,550){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=30
+	x0=300
+	y0=0
+}
+tile(MovingShadowBlock,250,550){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=30
+	x0=300
+	y0=0
+}
+tile(MovingShadowBlock,200,550){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=30
+	x0=300
+	y0=0
+}
+tile(MovingShadowBlock,150,550){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=30
+	x0=300
+	y0=0
+}
+tile(MovingShadowBlock,150,500){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=30
+	x0=300
+	y0=0
+}
+tile(MovingShadowBlock,150,450){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=30
+	x0=300
+	y0=0
+}
+tile(MovingShadowBlock,200,450){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=30
+	x0=300
+	y0=0
+}
+tile(MovingShadowBlock,250,450){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=30
+	x0=300
+	y0=0
+}
+tile(MovingShadowBlock,300,450){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=30
+	x0=300
+	y0=0
+}
+tile(MovingShadowBlock,350,450){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=30
+	x0=300
+	y0=0
+}
+tile(MovingShadowBlock,400,450){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=30
+	x0=300
+	y0=0
+}
+tile(MovingShadowBlock,400,500){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=30
+	x0=300
+	y0=0
+}
+tile(MovingShadowBlock,350,500){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=30
+	x0=300
+	y0=0
+}
+tile(MovingShadowBlock,300,500){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=30
+	x0=300
+	y0=0
+}
+tile(MovingShadowBlock,250,500){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=30
+	x0=300
+	y0=0
+}
+tile(MovingShadowBlock,200,500){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=30
+	x0=300
+	y0=0
+}
+tile(MovingSpikes,550,600){
+	MovingPosCount=1
+	disabled=1
+	id=202
+	loop=0
+	t0=30
+	x0=0
+	y0=300
+}
+tile(Switch,500,600){
+	behaviour=on
+	id=202
+}

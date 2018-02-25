@@ -1,0 +1,12142 @@
+name="Roller coaster"
+size=24500,13600
+tile(ConveyorBelt,1800,1000){
+	disabled=0
+	speed=3
+}
+tile(ConveyorBelt,1850,1000){
+	disabled=0
+	speed=3
+}
+tile(ConveyorBelt,1900,1000){
+	disabled=0
+	speed=3
+}
+tile(ConveyorBelt,1950,1000){
+	disabled=0
+	speed=3
+}
+tile(ConveyorBelt,2000,1000){
+	disabled=0
+	speed=3
+}
+tile(ConveyorBelt,2050,1000){
+	disabled=0
+	speed=3
+}
+tile(ConveyorBelt,2100,1000){
+	disabled=0
+	speed=3
+}
+tile(ConveyorBelt,2150,1000){
+	disabled=0
+	speed=3
+}
+tile(Teleporter,2200,950){
+	automatic=1
+	destination=3
+	id=0
+}
+tile(Teleporter,2200,900){
+	automatic=0
+	id=1
+}
+tile(Teleporter,2250,950){
+	automatic=1
+	destination=5
+	id=2
+}
+tile(Teleporter,2250,900){
+	automatic=0
+	id=3
+}
+tile(Teleporter,2300,950){
+	automatic=1
+	destination=7
+	id=4
+}
+tile(Teleporter,2300,900){
+	automatic=0
+	id=5
+}
+tile(Teleporter,2350,950){
+	automatic=1
+	destination=8
+	id=6
+}
+tile(Teleporter,2350,900){
+	automatic=0
+	id=7
+}
+tile(Teleporter,2400,950){
+	automatic=0
+	id=8
+}
+tile(Teleporter,2400,1000){
+	automatic=1
+	destination=10
+	id=9
+}
+tile(Teleporter,2450,1000){
+	automatic=0
+	id=10
+}
+tile(Teleporter,2450,1050){
+	automatic=1
+	destination=12
+	id=11
+}
+tile(Teleporter,2500,1050){
+	automatic=0
+	id=12
+}
+tile(Teleporter,2500,1100){
+	automatic=1
+	destination=14
+	id=13
+}
+tile(Teleporter,2550,1150){
+	automatic=0
+	id=14
+}
+tile(Teleporter,2550,1200){
+	automatic=1
+	destination=16
+	id=15
+}
+tile(Teleporter,2600,1250){
+	automatic=0
+	id=16
+}
+tile(Teleporter,2600,1300){
+	automatic=1
+	destination=19
+	id=17
+}
+tile(Teleporter,2650,1350){
+	automatic=0
+	id=18
+}
+tile(Teleporter,2650,1400){
+	automatic=0
+	id=19
+}
+tile(Teleporter,2650,1450){
+	automatic=1
+	destination=22
+	id=20
+}
+tile(Teleporter,2700,1500){
+	automatic=0
+	id=21
+}
+tile(Teleporter,2700,1550){
+	automatic=0
+	id=22
+}
+tile(Teleporter,2700,1600){
+	automatic=1
+	destination=25
+	id=23
+}
+tile(Teleporter,2750,1650){
+	automatic=0
+	id=24
+}
+tile(Teleporter,2750,1700){
+	automatic=0
+	id=25
+}
+tile(Teleporter,2750,1750){
+	automatic=1
+	destination=28
+	id=26
+}
+tile(Teleporter,2800,1800){
+	automatic=0
+	id=27
+}
+tile(Teleporter,2800,1850){
+	automatic=0
+	id=28
+}
+tile(Teleporter,2800,1900){
+	automatic=1
+	destination=31
+	id=29
+}
+tile(Teleporter,2850,1950){
+	automatic=0
+	id=30
+}
+tile(Teleporter,2850,2000){
+	automatic=0
+	id=31
+}
+tile(Teleporter,2850,2050){
+	automatic=1
+	destination=34
+	id=32
+}
+tile(ShadowBlock,2200,1000)
+tile(ShadowBlock,2250,1000)
+tile(ShadowBlock,2300,1000)
+tile(ShadowBlock,2350,1000)
+tile(ShadowBlock,2400,1050)
+tile(ShadowBlock,2450,1100)
+tile(ShadowBlock,2500,1150)
+tile(ShadowBlock,2500,1200)
+tile(ShadowBlock,2550,1250)
+tile(ShadowBlock,2550,1300)
+tile(ShadowBlock,2600,1350)
+tile(ShadowBlock,2600,1400)
+tile(ShadowBlock,2600,1450)
+tile(ShadowBlock,2650,1500)
+tile(ShadowBlock,2650,1550)
+tile(ShadowBlock,2650,1600)
+tile(ShadowBlock,2700,1650)
+tile(ShadowBlock,2700,1700)
+tile(ShadowBlock,2700,1750)
+tile(ShadowBlock,2750,1800)
+tile(ShadowBlock,2750,1850)
+tile(ShadowBlock,2750,1900)
+tile(ShadowBlock,2800,1950)
+tile(ShadowBlock,2800,2000)
+tile(ShadowBlock,2800,2050)
+tile(Teleporter,2900,2100){
+	automatic=0
+	id=33
+}
+tile(Teleporter,2900,2150){
+	automatic=0
+	id=34
+}
+tile(Teleporter,2900,2200){
+	automatic=1
+	destination=37
+	id=35
+}
+tile(Teleporter,2950,2250){
+	automatic=0
+	id=36
+}
+tile(Teleporter,2950,2300){
+	automatic=0
+	id=37
+}
+tile(Teleporter,2950,2350){
+	automatic=1
+	destination=40
+	id=38
+}
+tile(Teleporter,3000,2400){
+	automatic=0
+	id=39
+}
+tile(Teleporter,3000,2450){
+	automatic=0
+	id=40
+}
+tile(Teleporter,3000,2500){
+	automatic=1
+	destination=43
+	id=41
+}
+tile(Teleporter,3050,2550){
+	automatic=0
+	id=42
+}
+tile(Teleporter,3050,2600){
+	automatic=0
+	id=43
+}
+tile(Teleporter,3050,2650){
+	automatic=1
+	destination=46
+	id=44
+}
+tile(Teleporter,3100,2700){
+	automatic=0
+	id=45
+}
+tile(Teleporter,3100,2750){
+	automatic=0
+	id=46
+}
+tile(Teleporter,3100,2800){
+	automatic=1
+	destination=49
+	id=47
+}
+tile(Teleporter,3150,2850){
+	automatic=0
+	id=48
+}
+tile(Teleporter,3150,2900){
+	automatic=0
+	id=49
+}
+tile(Teleporter,3150,2950){
+	automatic=1
+	destination=52
+	id=50
+}
+tile(Teleporter,3200,3000){
+	automatic=0
+	id=51
+}
+tile(Teleporter,3200,3050){
+	automatic=0
+	id=52
+}
+tile(Teleporter,3200,3100){
+	automatic=1
+	destination=54
+	id=53
+}
+tile(Teleporter,3250,3100){
+	automatic=0
+	id=54
+}
+tile(Teleporter,3250,3150){
+	automatic=1
+	destination=56
+	id=55
+}
+tile(Teleporter,3300,3150){
+	automatic=0
+	id=56
+}
+tile(Teleporter,3300,3200){
+	automatic=1
+	destination=58
+	id=57
+}
+tile(Teleporter,3350,3200){
+	automatic=0
+	id=58
+}
+tile(Teleporter,3350,3250){
+	automatic=1
+	destination=60
+	id=59
+}
+tile(Teleporter,3400,3200){
+	automatic=0
+	id=60
+}
+tile(Teleporter,3400,3250){
+	automatic=1
+	destination=62
+	id=61
+}
+tile(Teleporter,3450,3200){
+	automatic=0
+	id=62
+}
+tile(Teleporter,3450,3250){
+	automatic=1
+	destination=64
+	id=63
+}
+tile(Teleporter,3500,3150){
+	automatic=0
+	id=64
+}
+tile(Teleporter,3500,3200){
+	automatic=1
+	destination=66
+	id=65
+}
+tile(Teleporter,3550,3100){
+	automatic=0
+	id=66
+}
+tile(Teleporter,3550,3150){
+	automatic=1
+	destination=68
+	id=67
+}
+tile(Teleporter,3600,3050){
+	automatic=0
+	id=68
+}
+tile(Teleporter,3600,3100){
+	automatic=1
+	destination=71
+	id=69
+}
+tile(ShadowBlock,3600,3150)
+tile(ShadowBlock,3550,3200)
+tile(ShadowBlock,3500,3250)
+tile(ShadowBlock,3450,3300)
+tile(ShadowBlock,3400,3300)
+tile(ShadowBlock,3350,3300)
+tile(ShadowBlock,3300,3250)
+tile(ShadowBlock,3250,3200)
+tile(ShadowBlock,3200,3150)
+tile(ShadowBlock,3150,3000)
+tile(ShadowBlock,3150,3050)
+tile(ShadowBlock,3150,3100)
+tile(ShadowBlock,3100,2950)
+tile(ShadowBlock,3100,2900)
+tile(ShadowBlock,3100,2850)
+tile(ShadowBlock,3050,2800)
+tile(ShadowBlock,3050,2750)
+tile(ShadowBlock,3050,2700)
+tile(ShadowBlock,3000,2650)
+tile(ShadowBlock,3000,2600)
+tile(ShadowBlock,3000,2550)
+tile(ShadowBlock,2950,2500)
+tile(ShadowBlock,2950,2450)
+tile(ShadowBlock,2950,2400)
+tile(ShadowBlock,2900,2350)
+tile(ShadowBlock,2900,2250)
+tile(ShadowBlock,2900,2300)
+tile(ShadowBlock,2850,2200)
+tile(ShadowBlock,2850,2150)
+tile(ShadowBlock,2850,2100)
+tile(ShadowBlock,1800,3300)
+tile(ShadowBlock,1850,3300)
+tile(ShadowBlock,1900,3300)
+tile(ShadowBlock,1900,3250)
+tile(ShadowBlock,1900,3200)
+tile(ShadowBlock,1850,3200)
+tile(ShadowBlock,1800,3200)
+tile(ShadowBlock,1800,3250)
+tile(ShadowBlock,3650,3100)
+tile(ShadowBlock,3650,3050)
+tile(ShadowBlock,3700,3000)
+tile(ShadowBlock,3700,2950)
+tile(Teleporter,3650,3000){
+	automatic=1
+	destination=73
+	id=70
+}
+tile(Teleporter,3650,2950){
+	automatic=0
+	id=71
+}
+tile(Teleporter,3700,2900){
+	automatic=1
+	destination=75
+	id=72
+}
+tile(Teleporter,3700,2850){
+	automatic=0
+	id=73
+}
+tile(Teleporter,3750,2800){
+	automatic=1
+	destination=77
+	id=74
+}
+tile(Teleporter,3750,2750){
+	automatic=0
+	id=75
+}
+tile(Teleporter,3800,2700){
+	automatic=1
+	destination=79
+	id=76
+}
+tile(Teleporter,3800,2650){
+	automatic=0
+	id=77
+}
+tile(Teleporter,3850,2650){
+	automatic=1
+	destination=81
+	id=78
+}
+tile(Teleporter,3850,2600){
+	automatic=0
+	id=79
+}
+tile(Teleporter,3900,2600){
+	automatic=1
+	destination=83
+	id=80
+}
+tile(Teleporter,3900,2550){
+	automatic=0
+	id=81
+}
+tile(Teleporter,3950,2550){
+	automatic=1
+	destination=85
+	id=82
+}
+tile(Teleporter,3950,2500){
+	automatic=0
+	id=83
+}
+tile(Teleporter,4000,2500){
+	automatic=1
+	destination=87
+	id=84
+}
+tile(Teleporter,4000,2450){
+	automatic=0
+	id=85
+}
+tile(Teleporter,4050,2450){
+	automatic=1
+	destination=89
+	id=86
+}
+tile(Teleporter,4050,2400){
+	automatic=0
+	id=87
+}
+tile(Teleporter,4100,2400){
+	automatic=1
+	destination=91
+	id=88
+}
+tile(Teleporter,4100,2350){
+	automatic=0
+	id=89
+}
+tile(Teleporter,4150,2350){
+	automatic=1
+	destination=93
+	id=90
+}
+tile(Teleporter,4150,2300){
+	automatic=0
+	id=91
+}
+tile(Teleporter,4200,2350){
+	automatic=1
+	destination=95
+	id=92
+}
+tile(Teleporter,4200,2300){
+	automatic=0
+	id=93
+}
+tile(Teleporter,4250,2350){
+	automatic=1
+	destination=97
+	id=94
+}
+tile(Teleporter,4250,2300){
+	automatic=0
+	id=95
+}
+tile(Teleporter,4300,2350){
+	automatic=1
+	destination=99
+	id=96
+}
+tile(Teleporter,4300,2300){
+	automatic=0
+	id=97
+}
+tile(Teleporter,4350,2350){
+	automatic=1
+	destination=101
+	id=98
+}
+tile(Teleporter,4350,2300){
+	automatic=0
+	id=99
+}
+tile(Teleporter,4400,2350){
+	automatic=1
+	destination=103
+	id=100
+}
+tile(Teleporter,4400,2300){
+	automatic=0
+	id=101
+}
+tile(Teleporter,4450,2350){
+	automatic=1
+	destination=105
+	id=102
+}
+tile(Teleporter,4450,2300){
+	automatic=0
+	id=103
+}
+tile(Teleporter,4500,2350){
+	automatic=1
+	destination=107
+	id=104
+}
+tile(Teleporter,4500,2300){
+	automatic=0
+	id=105
+}
+tile(Teleporter,4550,2400){
+	automatic=1
+	destination=108
+	id=106
+}
+tile(Teleporter,4550,2350){
+	automatic=0
+	id=107
+}
+tile(Teleporter,4600,2400){
+	automatic=0
+	id=108
+}
+tile(Teleporter,4600,2450){
+	automatic=1
+	destination=110
+	id=109
+}
+tile(Teleporter,4650,2450){
+	automatic=0
+	id=110
+}
+tile(Teleporter,4650,2500){
+	automatic=1
+	destination=112
+	id=111
+}
+tile(Teleporter,4700,2500){
+	automatic=0
+	id=112
+}
+tile(Teleporter,4700,2550){
+	automatic=1
+	destination=114
+	id=113
+}
+tile(Teleporter,4750,2550){
+	automatic=0
+	id=114
+}
+tile(Teleporter,4750,2600){
+	automatic=1
+	destination=116
+	id=115
+}
+tile(Teleporter,4800,2600){
+	automatic=0
+	id=116
+}
+tile(Teleporter,4800,2650){
+	automatic=1
+	destination=118
+	id=117
+}
+tile(Teleporter,4850,2650){
+	automatic=0
+	id=118
+}
+tile(Teleporter,4850,2700){
+	automatic=1
+	destination=120
+	id=119
+}
+tile(Teleporter,4900,2750){
+	automatic=0
+	id=120
+}
+tile(Teleporter,4900,2800){
+	automatic=1
+	destination=122
+	id=121
+}
+tile(Teleporter,4950,2850){
+	automatic=0
+	id=122
+}
+tile(Teleporter,4950,2900){
+	automatic=1
+	destination=124
+	id=123
+}
+tile(ShadowBlock,4950,2950)
+tile(ShadowBlock,4950,3000)
+tile(ShadowBlock,5000,3050)
+tile(ShadowBlock,5000,3100)
+tile(ShadowBlock,5050,3150)
+tile(ShadowBlock,5100,3200)
+tile(ShadowBlock,5150,3250)
+tile(ShadowBlock,5200,3300)
+tile(ShadowBlock,5250,3300)
+tile(ShadowBlock,5300,3300)
+tile(ShadowBlock,5350,3300)
+tile(ShadowBlock,5400,3300)
+tile(ShadowBlock,5450,3300)
+tile(ShadowBlock,5500,3300)
+tile(ShadowBlock,5550,3300)
+tile(ShadowBlock,5650,3300)
+tile(ShadowBlock,5600,3300)
+tile(ShadowBlock,5700,3300)
+tile(ShadowBlock,5750,3300)
+tile(ShadowBlock,5800,3300)
+tile(ShadowBlock,5850,3300)
+tile(ShadowBlock,5950,3300)
+tile(ShadowBlock,5900,3300)
+tile(Teleporter,5000,2950){
+	automatic=0
+	id=124
+}
+tile(Teleporter,5000,3000){
+	automatic=1
+	destination=126
+	id=125
+}
+tile(Teleporter,5050,3050){
+	automatic=0
+	id=126
+}
+tile(Teleporter,5050,3100){
+	automatic=1
+	destination=128
+	id=127
+}
+tile(Teleporter,5100,3100){
+	automatic=0
+	id=128
+}
+tile(Teleporter,5100,3150){
+	automatic=1
+	destination=130
+	id=129
+}
+tile(Teleporter,5150,3150){
+	automatic=0
+	id=130
+}
+tile(Teleporter,5150,3200){
+	automatic=1
+	destination=132
+	id=131
+}
+tile(Teleporter,5200,3200){
+	automatic=0
+	id=132
+}
+tile(Teleporter,5200,3250){
+	automatic=1
+	destination=134
+	id=133
+}
+tile(Teleporter,5250,3200){
+	automatic=0
+	id=134
+}
+tile(Teleporter,5250,3250){
+	automatic=1
+	destination=136
+	id=135
+}
+tile(Teleporter,5300,3200){
+	automatic=0
+	id=136
+}
+tile(Teleporter,5300,3250){
+	automatic=1
+	destination=138
+	id=137
+}
+tile(Teleporter,5350,3200){
+	automatic=0
+	id=138
+}
+tile(Teleporter,5350,3250){
+	automatic=1
+	destination=140
+	id=139
+}
+tile(Teleporter,5400,3200){
+	automatic=0
+	id=140
+}
+tile(Teleporter,5400,3250){
+	automatic=1
+	destination=142
+	id=141
+}
+tile(Teleporter,5450,3200){
+	automatic=0
+	id=142
+}
+tile(Teleporter,5450,3250){
+	automatic=1
+	destination=144
+	id=143
+}
+tile(Teleporter,5500,3200){
+	automatic=0
+	id=144
+}
+tile(Teleporter,5500,3250){
+	automatic=1
+	destination=146
+	id=145
+}
+tile(Teleporter,5550,3200){
+	automatic=0
+	id=146
+}
+tile(Teleporter,5550,3250){
+	automatic=1
+	destination=148
+	id=147
+}
+tile(Teleporter,5600,3200){
+	automatic=0
+	id=148
+}
+tile(Teleporter,5600,3250){
+	automatic=1
+	destination=150
+	id=149
+}
+tile(Teleporter,5650,3200){
+	automatic=0
+	id=150
+}
+tile(Teleporter,5650,3250){
+	automatic=1
+	destination=152
+	id=151
+}
+tile(Teleporter,5700,3200){
+	automatic=0
+	id=152
+}
+tile(Teleporter,5700,3250){
+	automatic=1
+	destination=154
+	id=153
+}
+tile(Teleporter,5750,3200){
+	automatic=0
+	id=154
+}
+tile(Teleporter,5750,3250){
+	automatic=1
+	destination=156
+	id=155
+}
+tile(Teleporter,5800,3200){
+	automatic=0
+	id=156
+}
+tile(Teleporter,5800,3250){
+	automatic=1
+	destination=158
+	id=157
+}
+tile(Teleporter,5850,3200){
+	automatic=0
+	id=158
+}
+tile(Teleporter,5850,3250){
+	automatic=1
+	destination=160
+	id=159
+}
+tile(Teleporter,5900,3200){
+	automatic=0
+	id=160
+}
+tile(Teleporter,5900,3250){
+	automatic=1
+	destination=162
+	id=161
+}
+tile(Teleporter,5950,3200){
+	automatic=0
+	id=162
+}
+tile(Teleporter,5950,3250){
+	automatic=1
+	destination=164
+	id=163
+}
+tile(ShadowBlock,6000,3300)
+tile(ShadowBlock,6050,3300)
+tile(ShadowBlock,6100,3250)
+tile(ShadowBlock,6150,3250)
+tile(ShadowBlock,6200,3250)
+tile(ShadowBlock,6250,3250)
+tile(ShadowBlock,6300,3200)
+tile(ShadowBlock,6400,3200)
+tile(ShadowBlock,6350,3200)
+tile(ShadowBlock,6450,3150)
+tile(ShadowBlock,6500,3150)
+tile(ShadowBlock,6550,3100)
+tile(ShadowBlock,6600,3050)
+tile(ShadowBlock,6650,3000)
+tile(ShadowBlock,6700,2950)
+tile(ShadowBlock,6700,2900)
+tile(ShadowBlock,6750,2850)
+tile(ShadowBlock,6750,2800)
+tile(ShadowBlock,6750,2750)
+tile(ShadowBlock,6800,2700)
+tile(ShadowBlock,6800,2650)
+tile(ShadowBlock,6800,2600)
+tile(ShadowBlock,6800,2550)
+tile(ShadowBlock,6850,2500)
+tile(ShadowBlock,6850,2450)
+tile(ShadowBlock,6850,2400)
+tile(ShadowBlock,6850,2350)
+tile(ShadowBlock,6850,2300)
+tile(ShadowBlock,6800,2250)
+tile(ShadowBlock,6800,2200)
+tile(ShadowBlock,6800,2150)
+tile(ShadowBlock,6800,2100)
+tile(ShadowBlock,6750,2050)
+tile(ShadowBlock,6750,2000)
+tile(ShadowBlock,6750,1950)
+tile(ShadowBlock,6700,1900)
+tile(ShadowBlock,6700,1850)
+tile(ShadowBlock,6650,1800)
+tile(ShadowBlock,6600,1750)
+tile(ShadowBlock,6500,1650)
+tile(ShadowBlock,6550,1700)
+tile(ShadowBlock,6450,1650)
+tile(ShadowBlock,6400,1600)
+tile(ShadowBlock,6350,1600)
+tile(ShadowBlock,6300,1600)
+tile(ShadowBlock,6250,1550)
+tile(ShadowBlock,6200,1550)
+tile(ShadowBlock,6150,1550)
+tile(ShadowBlock,6100,1550)
+tile(ShadowBlock,6050,1500)
+tile(ShadowBlock,6000,1500)
+tile(ShadowBlock,5950,1500)
+tile(ShadowBlock,5900,1500)
+tile(ShadowBlock,5850,1500)
+tile(ShadowBlock,5800,1550)
+tile(ShadowBlock,5750,1550)
+tile(ShadowBlock,5700,1550)
+tile(ShadowBlock,5650,1550)
+tile(ShadowBlock,5600,1600)
+tile(ShadowBlock,5550,1600)
+tile(ShadowBlock,5500,1600)
+tile(ShadowBlock,5450,1650)
+tile(ShadowBlock,5400,1650)
+tile(ShadowBlock,5350,1700)
+tile(ShadowBlock,5300,1750)
+tile(ShadowBlock,5250,1800)
+tile(ShadowBlock,5200,1850)
+tile(ShadowBlock,5200,1900)
+tile(ShadowBlock,5150,1950)
+tile(ShadowBlock,5150,2000)
+tile(ShadowBlock,5150,2050)
+tile(ShadowBlock,5100,2100)
+tile(ShadowBlock,5100,2150)
+tile(ShadowBlock,5100,2200)
+tile(ShadowBlock,5100,2250)
+tile(ShadowBlock,5050,2300)
+tile(ShadowBlock,5050,2350)
+tile(ShadowBlock,5050,2400)
+tile(ShadowBlock,5050,2450)
+tile(ShadowBlock,5050,2500)
+tile(ShadowBlock,5100,2550)
+tile(ShadowBlock,5100,2600)
+tile(ShadowBlock,5100,2650)
+tile(ShadowBlock,5150,2800)
+tile(ShadowBlock,5150,2750)
+tile(ShadowBlock,5100,2700)
+tile(ShadowBlock,5150,2850)
+tile(ShadowBlock,5200,2900)
+tile(ShadowBlock,5200,2950)
+tile(ShadowBlock,5250,3000)
+tile(ShadowBlock,5300,3050)
+tile(ShadowBlock,5400,3150)
+tile(ShadowBlock,5350,3100)
+tile(ShadowBlock,5450,3150)
+tile(ShadowBlock,5500,3150)
+tile(ShadowBlock,5550,3150)
+tile(ShadowBlock,5600,3150)
+tile(ShadowBlock,5650,3150)
+tile(ShadowBlock,5700,3150)
+tile(ShadowBlock,5750,3150)
+tile(ShadowBlock,5800,3150)
+tile(ShadowBlock,5850,3150)
+tile(ShadowBlock,5900,3150)
+tile(ShadowBlock,5950,3150)
+tile(ShadowBlock,6500,3300)
+tile(ShadowBlock,6550,3300)
+tile(ShadowBlock,6600,3300)
+tile(ShadowBlock,6650,3300)
+tile(ShadowBlock,6400,3250)
+tile(ShadowBlock,6350,3250)
+tile(ShadowBlock,6300,3250)
+tile(Teleporter,6000,3200){
+	automatic=0
+	id=164
+}
+tile(Teleporter,6000,3250){
+	automatic=1
+	destination=166
+	id=165
+}
+tile(Teleporter,6050,3200){
+	automatic=0
+	id=166
+}
+tile(Teleporter,6050,3250){
+	automatic=1
+	destination=168
+	id=167
+}
+tile(Teleporter,6100,3150){
+	automatic=0
+	id=168
+}
+tile(Teleporter,6100,3200){
+	automatic=1
+	destination=170
+	id=169
+}
+tile(Teleporter,6150,3150){
+	automatic=0
+	id=170
+}
+tile(Teleporter,6150,3200){
+	automatic=1
+	destination=172
+	id=171
+}
+tile(Teleporter,6200,3150){
+	automatic=0
+	id=172
+}
+tile(Teleporter,6200,3200){
+	automatic=1
+	destination=174
+	id=173
+}
+tile(Teleporter,6250,3150){
+	automatic=0
+	id=174
+}
+tile(Teleporter,6250,3200){
+	automatic=1
+	destination=176
+	id=175
+}
+tile(Teleporter,6300,3100){
+	automatic=0
+	id=176
+}
+tile(Teleporter,6300,3150){
+	automatic=1
+	destination=178
+	id=177
+}
+tile(Teleporter,6350,3100){
+	automatic=0
+	id=178
+}
+tile(Teleporter,6350,3150){
+	automatic=1
+	destination=180
+	id=179
+}
+tile(Teleporter,6400,3100){
+	automatic=0
+	id=180
+}
+tile(Teleporter,6400,3150){
+	automatic=1
+	destination=182
+	id=181
+}
+tile(Teleporter,6450,3050){
+	automatic=0
+	id=182
+}
+tile(Teleporter,6450,3100){
+	automatic=1
+	destination=184
+	id=183
+}
+tile(Teleporter,6500,3050){
+	automatic=0
+	id=184
+}
+tile(Teleporter,6500,3100){
+	automatic=1
+	destination=186
+	id=185
+}
+tile(Teleporter,6550,3000){
+	automatic=0
+	id=186
+}
+tile(Teleporter,6550,3050){
+	automatic=1
+	destination=188
+	id=187
+}
+tile(Teleporter,6600,2950){
+	automatic=0
+	id=188
+}
+tile(Teleporter,6600,3000){
+	automatic=1
+	destination=190
+	id=189
+}
+tile(Teleporter,6650,2900){
+	automatic=0
+	id=190
+}
+tile(Teleporter,6650,2950){
+	automatic=1
+	destination=192
+	id=191
+}
+tile(Teleporter,6700,2800){
+	automatic=1
+	destination=195
+	id=192
+}
+tile(Teleporter,6700,2850){
+	automatic=1
+	destination=194
+	id=193
+}
+tile(Teleporter,6700,2750){
+	automatic=0
+	id=194
+}
+tile(Teleporter,6750,2650){
+	automatic=0
+	id=195
+}
+tile(Teleporter,6750,2700){
+	automatic=1
+	destination=197
+	id=196
+}
+tile(Teleporter,6750,2550){
+	automatic=0
+	id=197
+}
+tile(Teleporter,6750,2600){
+	automatic=1
+	destination=199
+	id=198
+}
+tile(Teleporter,6800,2450){
+	automatic=0
+	id=199
+}
+tile(Teleporter,6800,2500){
+	automatic=1
+	destination=201
+	id=200
+}
+tile(Teleporter,6800,2350){
+	automatic=1
+	destination=208
+	id=201
+}
+tile(Teleporter,6800,2400){
+	automatic=1
+	destination=203
+	id=202
+}
+tile(Teleporter,6800,2300){
+	automatic=0
+	id=203
+}
+tile(Teleporter,6750,2250){
+	automatic=1
+	destination=206
+	id=204
+}
+tile(Teleporter,6750,2100){
+	automatic=0
+	id=206
+}
+tile(Teleporter,6750,2150){
+	automatic=1
+	destination=210
+	id=207
+}
+tile(Teleporter,6750,2200){
+	automatic=0
+	id=208
+}
+tile(Teleporter,6700,1950){
+	automatic=0
+	id=209
+}
+tile(Teleporter,6700,2000){
+	automatic=1
+	destination=212
+	id=210
+}
+tile(Teleporter,6700,2050){
+	automatic=1
+	destination=209
+	id=211
+}
+tile(Teleporter,6650,1850){
+	automatic=0
+	id=212
+}
+tile(Teleporter,6650,1900){
+	automatic=1
+	destination=214
+	id=213
+}
+tile(Teleporter,6600,1800){
+	automatic=0
+	id=214
+}
+tile(Teleporter,6600,1850){
+	automatic=1
+	destination=216
+	id=215
+}
+tile(Teleporter,6550,1750){
+	automatic=0
+	id=216
+}
+tile(Teleporter,6550,1800){
+	automatic=1
+	destination=218
+	id=217
+}
+tile(Teleporter,6500,1700){
+	automatic=0
+	id=218
+}
+tile(Teleporter,6500,1750){
+	automatic=1
+	destination=220
+	id=219
+}
+tile(Teleporter,6450,1700){
+	automatic=0
+	id=220
+}
+tile(Teleporter,6450,1750){
+	automatic=1
+	destination=223
+	id=221
+}
+tile(Teleporter,6400,1700){
+	automatic=1
+	destination=225
+	id=222
+}
+tile(Teleporter,6400,1650){
+	automatic=0
+	id=223
+}
+tile(Teleporter,6350,1700){
+	automatic=1
+	destination=227
+	id=224
+}
+tile(Teleporter,6350,1650){
+	automatic=0
+	id=225
+}
+tile(Teleporter,6300,1700){
+	automatic=1
+	destination=229
+	id=226
+}
+tile(Teleporter,6300,1650){
+	automatic=0
+	id=227
+}
+tile(Teleporter,6250,1650){
+	automatic=1
+	destination=231
+	id=228
+}
+tile(Teleporter,6250,1600){
+	automatic=0
+	id=229
+}
+tile(Teleporter,6200,1650){
+	automatic=1
+	destination=233
+	id=230
+}
+tile(Teleporter,6200,1600){
+	automatic=0
+	id=231
+}
+tile(Teleporter,6150,1650){
+	automatic=1
+	destination=235
+	id=232
+}
+tile(Teleporter,6150,1600){
+	automatic=0
+	id=233
+}
+tile(Teleporter,6100,1650){
+	automatic=1
+	destination=237
+	id=234
+}
+tile(Teleporter,6100,1600){
+	automatic=0
+	id=235
+}
+tile(Teleporter,6050,1600){
+	automatic=1
+	destination=239
+	id=236
+}
+tile(Teleporter,6050,1550){
+	automatic=0
+	id=237
+}
+tile(Teleporter,6000,1600){
+	automatic=1
+	destination=241
+	id=238
+}
+tile(Teleporter,6000,1550){
+	automatic=0
+	id=239
+}
+tile(Teleporter,5950,1600){
+	automatic=1
+	destination=243
+	id=240
+}
+tile(Teleporter,5950,1550){
+	automatic=0
+	id=241
+}
+tile(Teleporter,5900,1600){
+	automatic=1
+	destination=245
+	id=242
+}
+tile(Teleporter,5900,1550){
+	automatic=0
+	id=243
+}
+tile(Teleporter,5850,1600){
+	automatic=1
+	destination=247
+	id=244
+}
+tile(Teleporter,5850,1550){
+	automatic=0
+	id=245
+}
+tile(Teleporter,5800,1650){
+	automatic=1
+	destination=249
+	id=246
+}
+tile(Teleporter,5800,1600){
+	automatic=0
+	id=247
+}
+tile(Teleporter,5750,1650){
+	automatic=1
+	destination=251
+	id=248
+}
+tile(Teleporter,5750,1600){
+	automatic=0
+	id=249
+}
+tile(Teleporter,5700,1650){
+	automatic=1
+	destination=253
+	id=250
+}
+tile(Teleporter,5700,1600){
+	automatic=0
+	id=251
+}
+tile(Teleporter,5650,1650){
+	automatic=1
+	destination=255
+	id=252
+}
+tile(Teleporter,5650,1600){
+	automatic=0
+	id=253
+}
+tile(Teleporter,5600,1700){
+	automatic=1
+	destination=257
+	id=254
+}
+tile(Teleporter,5600,1650){
+	automatic=0
+	id=255
+}
+tile(Teleporter,5550,1700){
+	automatic=1
+	destination=259
+	id=256
+}
+tile(Teleporter,5550,1650){
+	automatic=0
+	id=257
+}
+tile(Teleporter,5500,1700){
+	automatic=1
+	destination=261
+	id=258
+}
+tile(Teleporter,5500,1650){
+	automatic=0
+	id=259
+}
+tile(Teleporter,5450,1750){
+	automatic=1
+	destination=263
+	id=260
+}
+tile(Teleporter,5450,1700){
+	automatic=0
+	id=261
+}
+tile(Teleporter,5400,1750){
+	automatic=1
+	destination=264
+	id=262
+}
+tile(Teleporter,5400,1700){
+	automatic=0
+	id=263
+}
+tile(Teleporter,5350,1750){
+	automatic=0
+	id=264
+}
+tile(Teleporter,5350,1800){
+	automatic=1
+	destination=266
+	id=265
+}
+tile(Teleporter,5300,1800){
+	automatic=0
+	id=266
+}
+tile(Teleporter,5300,1850){
+	automatic=1
+	destination=268
+	id=267
+}
+tile(Teleporter,5250,1850){
+	automatic=0
+	id=268
+}
+tile(Teleporter,5250,1900){
+	automatic=1
+	destination=270
+	id=269
+}
+tile(Teleporter,5200,1950){
+	automatic=0
+	id=270
+}
+tile(Teleporter,5200,2000){
+	automatic=1
+	destination=273
+	id=271
+}
+tile(Teleporter,5200,2050){
+	automatic=0
+	id=272
+}
+tile(Teleporter,5150,2100){
+	automatic=0
+	id=273
+}
+tile(Teleporter,5150,2150){
+	automatic=1
+	destination=275
+	id=274
+}
+tile(Teleporter,5150,2200){
+	automatic=0
+	id=275
+}
+tile(Teleporter,5150,2250){
+	automatic=1
+	destination=277
+	id=276
+}
+tile(Teleporter,5100,2300){
+	automatic=0
+	id=277
+}
+tile(Teleporter,5100,2350){
+	automatic=1
+	destination=279
+	id=278
+}
+tile(Teleporter,5100,2400){
+	automatic=0
+	id=279
+}
+tile(Teleporter,5100,2450){
+	automatic=1
+	destination=282
+	id=280
+}
+tile(Teleporter,5100,2500){
+	automatic=0
+	id=281
+}
+tile(Teleporter,5150,2550){
+	automatic=0
+	id=282
+}
+tile(Teleporter,5150,2600){
+	automatic=1
+	destination=284
+	id=283
+}
+tile(Teleporter,5150,2650){
+	automatic=0
+	id=284
+}
+tile(Teleporter,5150,2700){
+	automatic=1
+	destination=286
+	id=285
+}
+tile(Teleporter,5200,2750){
+	automatic=0
+	id=286
+}
+tile(Teleporter,5200,2800){
+	automatic=1
+	destination=289
+	id=287
+}
+tile(Teleporter,5200,2850){
+	automatic=0
+	id=288
+}
+tile(Teleporter,5250,2900){
+	automatic=0
+	id=289
+}
+tile(Teleporter,5250,2950){
+	automatic=1
+	destination=291
+	id=290
+}
+tile(Teleporter,5300,2950){
+	automatic=0
+	id=291
+}
+tile(Teleporter,5300,3000){
+	automatic=1
+	destination=293
+	id=292
+}
+tile(Teleporter,5350,3000){
+	automatic=0
+	id=293
+}
+tile(Teleporter,5350,3050){
+	automatic=1
+	destination=295
+	id=294
+}
+tile(Teleporter,5400,3050){
+	automatic=0
+	id=295
+}
+tile(Teleporter,5400,3100){
+	automatic=1
+	destination=297
+	id=296
+}
+tile(Teleporter,5450,3050){
+	automatic=0
+	id=297
+}
+tile(Teleporter,5500,3100){
+	automatic=1
+	destination=301
+	id=298
+}
+tile(Teleporter,5450,3100){
+	automatic=1
+	destination=300
+	id=299
+}
+tile(Teleporter,5500,3050){
+	automatic=0
+	id=300
+}
+tile(Teleporter,5550,3050){
+	automatic=0
+	id=301
+}
+tile(Teleporter,5550,3100){
+	automatic=1
+	destination=303
+	id=302
+}
+tile(Teleporter,5600,3050){
+	automatic=0
+	id=303
+}
+tile(Teleporter,5600,3100){
+	automatic=1
+	destination=305
+	id=304
+}
+tile(Teleporter,5650,3050){
+	automatic=0
+	id=305
+}
+tile(Teleporter,5650,3100){
+	automatic=1
+	destination=307
+	id=306
+}
+tile(Teleporter,5700,3050){
+	automatic=0
+	id=307
+}
+tile(Teleporter,5700,3100){
+	automatic=1
+	destination=309
+	id=308
+}
+tile(Teleporter,5750,3050){
+	automatic=0
+	id=309
+}
+tile(Teleporter,5750,3100){
+	automatic=1
+	destination=311
+	id=310
+}
+tile(Teleporter,5800,3050){
+	automatic=0
+	id=311
+}
+tile(Teleporter,5800,3100){
+	automatic=1
+	destination=313
+	id=312
+}
+tile(Teleporter,5850,3050){
+	automatic=0
+	id=313
+}
+tile(Teleporter,5850,3100){
+	automatic=1
+	destination=315
+	id=314
+}
+tile(Teleporter,5900,3050){
+	automatic=0
+	id=315
+}
+tile(Teleporter,5900,3100){
+	automatic=1
+	destination=317
+	id=316
+}
+tile(Teleporter,5950,3050){
+	automatic=0
+	id=317
+}
+tile(Teleporter,5950,3100){
+	automatic=1
+	destination=320
+	id=318
+}
+tile(Teleporter,6450,3200){
+	automatic=0
+	id=320
+}
+tile(Teleporter,6500,3250){
+	automatic=1
+	destination=324
+	id=321
+}
+tile(Teleporter,6500,3200){
+	automatic=0
+	id=322
+}
+tile(Teleporter,6550,3250){
+	automatic=1
+	destination=326
+	id=323
+}
+tile(Teleporter,6550,3200){
+	automatic=0
+	id=324
+}
+tile(Teleporter,6600,3250){
+	automatic=1
+	destination=328
+	id=325
+}
+tile(Teleporter,6600,3200){
+	automatic=0
+	id=326
+}
+tile(Teleporter,6650,3250){
+	automatic=1
+	destination=330
+	id=327
+}
+tile(Teleporter,6650,3200){
+	automatic=0
+	id=328
+}
+tile(ShadowBlock,6700,3300)
+tile(ShadowBlock,6750,3300)
+tile(ShadowBlock,6800,3300)
+tile(ShadowBlock,6850,3300)
+tile(ShadowBlock,6900,3300)
+tile(ShadowBlock,6950,3300)
+tile(ShadowBlock,7000,3300)
+tile(ShadowBlock,7050,3300)
+tile(ShadowBlock,7100,3300)
+tile(ShadowBlock,7150,3300)
+tile(ShadowBlock,7200,3300)
+tile(ShadowBlock,7250,3300)
+tile(ShadowBlock,7300,3300)
+tile(ShadowBlock,7350,3300)
+tile(ShadowBlock,7400,3300)
+tile(ShadowBlock,7450,3300)
+tile(ShadowBlock,7500,3300)
+tile(ShadowBlock,7550,3300)
+tile(Teleporter,6700,3250){
+	automatic=1
+	destination=332
+	id=329
+}
+tile(Teleporter,6700,3200){
+	automatic=0
+	id=330
+}
+tile(Teleporter,6750,3250){
+	automatic=1
+	destination=334
+	id=331
+}
+tile(Teleporter,6750,3200){
+	automatic=0
+	id=332
+}
+tile(Teleporter,6800,3250){
+	automatic=1
+	destination=336
+	id=333
+}
+tile(Teleporter,6800,3200){
+	automatic=0
+	id=334
+}
+tile(Teleporter,6850,3250){
+	automatic=1
+	destination=338
+	id=335
+}
+tile(Teleporter,6850,3200){
+	automatic=0
+	id=336
+}
+tile(Teleporter,6900,3250){
+	automatic=1
+	destination=340
+	id=337
+}
+tile(Teleporter,6900,3200){
+	automatic=0
+	id=338
+}
+tile(Teleporter,6950,3250){
+	automatic=1
+	destination=342
+	id=339
+}
+tile(Teleporter,6950,3200){
+	automatic=0
+	id=340
+}
+tile(Teleporter,7000,3250){
+	automatic=1
+	destination=344
+	id=341
+}
+tile(Teleporter,7000,3200){
+	automatic=0
+	id=342
+}
+tile(Teleporter,7050,3250){
+	automatic=1
+	destination=346
+	id=343
+}
+tile(Teleporter,7050,3200){
+	automatic=0
+	id=344
+}
+tile(Teleporter,7100,3250){
+	automatic=1
+	destination=348
+	id=345
+}
+tile(Teleporter,7100,3200){
+	automatic=0
+	id=346
+}
+tile(Teleporter,7150,3250){
+	automatic=1
+	destination=350
+	id=347
+}
+tile(Teleporter,7150,3200){
+	automatic=0
+	id=348
+}
+tile(Teleporter,7200,3250){
+	automatic=1
+	destination=352
+	id=349
+}
+tile(Teleporter,7200,3200){
+	automatic=0
+	id=350
+}
+tile(Teleporter,7300,3250){
+	automatic=1
+	destination=356
+	id=351
+}
+tile(Teleporter,7250,3200){
+	automatic=0
+	id=352
+}
+tile(Teleporter,7250,3250){
+	automatic=1
+	destination=354
+	id=353
+}
+tile(Teleporter,7300,3200){
+	automatic=0
+	id=354
+}
+tile(Teleporter,7350,3250){
+	automatic=1
+	destination=358
+	id=355
+}
+tile(Teleporter,7350,3200){
+	automatic=0
+	id=356
+}
+tile(Teleporter,7400,3250){
+	automatic=1
+	destination=360
+	id=357
+}
+tile(Teleporter,7400,3200){
+	automatic=0
+	id=358
+}
+tile(Teleporter,7450,3250){
+	automatic=1
+	destination=362
+	id=359
+}
+tile(Teleporter,7450,3200){
+	automatic=0
+	id=360
+}
+tile(Teleporter,7500,3250){
+	automatic=1
+	destination=365
+	id=361
+}
+tile(Teleporter,7500,3200){
+	automatic=0
+	id=362
+}
+tile(Teleporter,7550,3250){
+	automatic=1
+	destination=367
+	id=364
+}
+tile(Teleporter,7550,3200){
+	automatic=0
+	id=365
+}
+tile(Teleporter,7600,3200){
+	automatic=1
+	destination=369
+	id=366
+}
+tile(Teleporter,7600,3150){
+	automatic=0
+	id=367
+}
+tile(Teleporter,7650,3150){
+	automatic=1
+	destination=371
+	id=368
+}
+tile(Teleporter,7650,3100){
+	automatic=0
+	id=369
+}
+tile(Teleporter,7700,3100){
+	automatic=1
+	destination=373
+	id=370
+}
+tile(Teleporter,7700,3050){
+	automatic=0
+	id=371
+}
+tile(Teleporter,7750,3050){
+	automatic=1
+	destination=375
+	id=372
+}
+tile(Teleporter,7750,3000){
+	automatic=0
+	id=373
+}
+tile(Teleporter,7800,3000){
+	automatic=1
+	destination=377
+	id=374
+}
+tile(Teleporter,7800,2950){
+	automatic=0
+	id=375
+}
+tile(Teleporter,7850,2950){
+	automatic=1
+	destination=379
+	id=376
+}
+tile(Teleporter,7850,2900){
+	automatic=0
+	id=377
+}
+tile(Teleporter,7900,2900){
+	automatic=1
+	destination=381
+	id=378
+}
+tile(Teleporter,7900,2850){
+	automatic=0
+	id=379
+}
+tile(Teleporter,7950,2850){
+	automatic=1
+	destination=383
+	id=380
+}
+tile(Teleporter,7950,2800){
+	automatic=0
+	id=381
+}
+tile(Teleporter,8000,2800){
+	automatic=1
+	destination=385
+	id=382
+}
+tile(Teleporter,8000,2750){
+	automatic=0
+	id=383
+}
+tile(Teleporter,7950,2750){
+	automatic=1
+	destination=387
+	id=384
+}
+tile(Teleporter,7950,2700){
+	automatic=0
+	id=385
+}
+tile(Teleporter,7900,2700){
+	automatic=1
+	destination=389
+	id=386
+}
+tile(Teleporter,7900,2650){
+	automatic=0
+	id=387
+}
+tile(Teleporter,7850,2650){
+	automatic=1
+	destination=391
+	id=388
+}
+tile(Teleporter,7850,2600){
+	automatic=0
+	id=389
+}
+tile(Teleporter,7800,2600){
+	automatic=1
+	destination=393
+	id=390
+}
+tile(Teleporter,7800,2550){
+	automatic=0
+	id=391
+}
+tile(Teleporter,7750,2550){
+	automatic=1
+	destination=395
+	id=392
+}
+tile(Teleporter,7750,2500){
+	automatic=0
+	id=393
+}
+tile(Teleporter,7700,2500){
+	automatic=1
+	destination=397
+	id=394
+}
+tile(Teleporter,7700,2450){
+	automatic=0
+	id=395
+}
+tile(Teleporter,7650,2450){
+	automatic=1
+	destination=399
+	id=396
+}
+tile(Teleporter,7650,2400){
+	automatic=0
+	id=397
+}
+tile(Teleporter,7600,2400){
+	automatic=1
+	destination=401
+	id=398
+}
+tile(Teleporter,7600,2350){
+	automatic=0
+	id=399
+}
+tile(Teleporter,7550,2350){
+	automatic=1
+	destination=405
+	id=400
+}
+tile(Teleporter,7550,2300){
+	automatic=0
+	id=401
+}
+tile(Teleporter,7600,2300){
+	automatic=1
+	destination=407
+	id=404
+}
+tile(Teleporter,7600,2250){
+	automatic=0
+	id=405
+}
+tile(ShadowBlock,7600,3250)
+tile(ShadowBlock,7650,3200)
+tile(ShadowBlock,7700,3150)
+tile(ShadowBlock,7750,3100)
+tile(ShadowBlock,7800,3050)
+tile(ShadowBlock,7850,3000)
+tile(ShadowBlock,7900,2950)
+tile(ShadowBlock,7950,2900)
+tile(ShadowBlock,8000,2850)
+tile(ShadowBlock,7900,2750)
+tile(ShadowBlock,7850,2700)
+tile(ShadowBlock,7800,2650)
+tile(ShadowBlock,7750,2600)
+tile(ShadowBlock,7700,2550)
+tile(ShadowBlock,7650,2500)
+tile(ShadowBlock,7600,2450)
+tile(ShadowBlock,7550,2400)
+tile(ShadowBlock,7650,2300)
+tile(ShadowBlock,7700,2250)
+tile(ShadowBlock,7750,2200)
+tile(ShadowBlock,7800,2150)
+tile(ShadowBlock,7850,2100)
+tile(ShadowBlock,7900,2050)
+tile(ShadowBlock,7950,2000)
+tile(ShadowBlock,8000,1950)
+tile(Teleporter,7650,2250){
+	automatic=1
+	destination=409
+	id=406
+}
+tile(Teleporter,7650,2200){
+	automatic=0
+	id=407
+}
+tile(Teleporter,7700,2200){
+	automatic=1
+	destination=411
+	id=408
+}
+tile(Teleporter,7700,2150){
+	automatic=0
+	id=409
+}
+tile(Teleporter,7750,2150){
+	automatic=1
+	destination=413
+	id=410
+}
+tile(Teleporter,7750,2100){
+	automatic=0
+	id=411
+}
+tile(Teleporter,7800,2100){
+	automatic=1
+	destination=415
+	id=412
+}
+tile(Teleporter,7800,2050){
+	automatic=0
+	id=413
+}
+tile(Teleporter,7850,2050){
+	automatic=1
+	destination=417
+	id=414
+}
+tile(Teleporter,7850,2000){
+	automatic=0
+	id=415
+}
+tile(Teleporter,7900,2000){
+	automatic=1
+	destination=419
+	id=416
+}
+tile(Teleporter,7900,1950){
+	automatic=0
+	id=417
+}
+tile(Teleporter,7950,1950){
+	automatic=1
+	destination=421
+	id=418
+}
+tile(Teleporter,7950,1900){
+	automatic=0
+	id=419
+}
+tile(Teleporter,8000,1900){
+	automatic=1
+	destination=423
+	id=420
+}
+tile(Teleporter,8000,1850){
+	automatic=0
+	id=421
+}
+tile(Teleporter,7950,1850){
+	automatic=1
+	destination=425
+	id=422
+}
+tile(Teleporter,7950,1800){
+	automatic=0
+	id=423
+}
+tile(Teleporter,7900,1800){
+	automatic=1
+	destination=427
+	id=424
+}
+tile(Teleporter,7900,1750){
+	automatic=0
+	id=425
+}
+tile(ShadowBlock,7900,1850)
+tile(ShadowBlock,7850,1800)
+tile(ShadowBlock,7800,1750)
+tile(ShadowBlock,7750,1700)
+tile(ShadowBlock,7700,1650)
+tile(ShadowBlock,7650,1600)
+tile(ShadowBlock,7600,1550)
+tile(ShadowBlock,7550,1500)
+tile(Teleporter,7850,1750){
+	automatic=1
+	destination=428
+	id=426
+}
+tile(Teleporter,7850,1700){
+	automatic=0
+	id=427
+}
+tile(Teleporter,7800,1650){
+	automatic=0
+	id=428
+}
+tile(Teleporter,7800,1700){
+	automatic=1
+	destination=431
+	id=429
+}
+tile(Teleporter,7750,1650){
+	automatic=1
+	destination=433
+	id=430
+}
+tile(Teleporter,7750,1600){
+	automatic=0
+	id=431
+}
+tile(Teleporter,7700,1600){
+	automatic=1
+	destination=435
+	id=432
+}
+tile(Teleporter,7700,1550){
+	automatic=0
+	id=433
+}
+tile(Teleporter,7650,1550){
+	automatic=1
+	destination=437
+	id=434
+}
+tile(Teleporter,7650,1500){
+	automatic=0
+	id=435
+}
+tile(Teleporter,7600,1500){
+	automatic=1
+	destination=439
+	id=436
+}
+tile(Teleporter,7600,1450){
+	automatic=0
+	id=437
+}
+tile(Teleporter,7550,1450){
+	automatic=1
+	destination=441
+	id=438
+}
+tile(Teleporter,7550,1400){
+	automatic=0
+	id=439
+}
+tile(Teleporter,7600,1400){
+	automatic=1
+	destination=443
+	id=440
+}
+tile(Teleporter,7600,1350){
+	automatic=0
+	id=441
+}
+tile(Teleporter,7650,1350){
+	automatic=1
+	destination=445
+	id=442
+}
+tile(Teleporter,7650,1300){
+	automatic=0
+	id=443
+}
+tile(Teleporter,7700,1300){
+	automatic=1
+	destination=447
+	id=444
+}
+tile(Teleporter,7700,1250){
+	automatic=0
+	id=445
+}
+tile(Teleporter,7750,1250){
+	automatic=1
+	destination=449
+	id=446
+}
+tile(Teleporter,7750,1200){
+	automatic=0
+	id=447
+}
+tile(ShadowBlock,7650,1400)
+tile(ShadowBlock,7700,1350)
+tile(ShadowBlock,7750,1300)
+tile(ShadowBlock,7800,1250)
+tile(ShadowBlock,7850,1200)
+tile(ShadowBlock,7900,1150)
+tile(ShadowBlock,7950,1100)
+tile(ShadowBlock,8000,1050)
+tile(Teleporter,7800,1200){
+	automatic=1
+	destination=451
+	id=448
+}
+tile(Teleporter,7800,1150){
+	automatic=0
+	id=449
+}
+tile(Teleporter,7850,1150){
+	automatic=1
+	destination=453
+	id=450
+}
+tile(Teleporter,7850,1100){
+	automatic=0
+	id=451
+}
+tile(Teleporter,7900,1100){
+	automatic=1
+	destination=455
+	id=452
+}
+tile(Teleporter,7900,1050){
+	automatic=0
+	id=453
+}
+tile(Teleporter,7950,1050){
+	automatic=1
+	destination=457
+	id=454
+}
+tile(Teleporter,7950,1000){
+	automatic=0
+	id=455
+}
+tile(Teleporter,8000,1000){
+	automatic=1
+	destination=460
+	id=456
+}
+tile(Teleporter,8000,950){
+	automatic=0
+	id=457
+}
+tile(ShadowBlock,8050,1050)
+tile(ShadowBlock,8100,1050)
+tile(ShadowBlock,8150,1050)
+tile(ShadowBlock,8200,1050)
+tile(ShadowBlock,8250,1050)
+tile(ShadowBlock,8300,1050)
+tile(ShadowBlock,8350,1050)
+tile(ShadowBlock,8400,1050)
+tile(ShadowBlock,8450,1050)
+tile(ShadowBlock,8500,1050)
+tile(ShadowBlock,8550,1050)
+tile(ShadowBlock,8600,1050)
+tile(ShadowBlock,8650,1050)
+tile(ShadowBlock,8700,1050)
+tile(ShadowBlock,8750,1050)
+tile(ShadowBlock,8800,1050)
+tile(ShadowBlock,8850,1050)
+tile(ShadowBlock,8900,1050)
+tile(ShadowBlock,8950,1050)
+tile(ShadowBlock,9000,1050)
+tile(ShadowBlock,9050,1050)
+tile(ShadowBlock,9100,1050)
+tile(ShadowBlock,9150,1050)
+tile(ShadowBlock,9200,1050)
+tile(ShadowBlock,9250,1050)
+tile(ShadowBlock,9300,1050)
+tile(ShadowBlock,9350,1050)
+tile(ShadowBlock,9400,1050)
+tile(ShadowBlock,9450,1050)
+tile(ShadowBlock,9500,1050)
+tile(ShadowBlock,9550,1050)
+tile(ShadowBlock,9600,1050)
+tile(ShadowBlock,9650,1050)
+tile(ShadowBlock,9700,1050)
+tile(ShadowBlock,9750,1050)
+tile(ShadowBlock,9800,1050)
+tile(ShadowBlock,9850,1050)
+tile(Teleporter,8050,1000){
+	automatic=1
+	destination=461
+	id=459
+}
+tile(Teleporter,8050,950){
+	automatic=0
+	id=460
+}
+tile(Teleporter,8100,950){
+	automatic=0
+	id=461
+}
+tile(Teleporter,8100,1000){
+	automatic=1
+	destination=464
+	id=462
+}
+tile(Teleporter,8150,1000){
+	automatic=1
+	destination=466
+	id=463
+}
+tile(Teleporter,8150,950){
+	automatic=0
+	id=464
+}
+tile(Teleporter,8200,1000){
+	automatic=1
+	destination=468
+	id=465
+}
+tile(Teleporter,8200,950){
+	automatic=0
+	id=466
+}
+tile(Teleporter,8250,1000){
+	automatic=1
+	destination=470
+	id=467
+}
+tile(Teleporter,8250,950){
+	automatic=0
+	id=468
+}
+tile(Teleporter,8300,1000){
+	automatic=1
+	destination=472
+	id=469
+}
+tile(Teleporter,8300,950){
+	automatic=0
+	id=470
+}
+tile(Teleporter,8350,1000){
+	automatic=1
+	destination=474
+	id=471
+}
+tile(Teleporter,8350,950){
+	automatic=0
+	id=472
+}
+tile(Teleporter,8400,1000){
+	automatic=1
+	destination=476
+	id=473
+}
+tile(Teleporter,8400,950){
+	automatic=0
+	id=474
+}
+tile(Teleporter,8450,1000){
+	automatic=1
+	destination=478
+	id=475
+}
+tile(Teleporter,8450,950){
+	automatic=0
+	id=476
+}
+tile(Teleporter,8500,1000){
+	automatic=1
+	destination=480
+	id=477
+}
+tile(Teleporter,8500,950){
+	automatic=0
+	id=478
+}
+tile(Teleporter,8550,1000){
+	automatic=1
+	destination=482
+	id=479
+}
+tile(Teleporter,8550,950){
+	automatic=0
+	id=480
+}
+tile(Teleporter,8600,1000){
+	automatic=1
+	destination=484
+	id=481
+}
+tile(Teleporter,8600,950){
+	automatic=0
+	id=482
+}
+tile(Teleporter,8650,1000){
+	automatic=1
+	destination=486
+	id=483
+}
+tile(Teleporter,8650,950){
+	automatic=0
+	id=484
+}
+tile(Teleporter,8700,1000){
+	automatic=1
+	destination=488
+	id=485
+}
+tile(Teleporter,8700,950){
+	automatic=0
+	id=486
+}
+tile(Teleporter,8750,1000){
+	automatic=1
+	destination=490
+	id=487
+}
+tile(Teleporter,8750,950){
+	automatic=0
+	id=488
+}
+tile(Teleporter,8800,1000){
+	automatic=1
+	destination=492
+	id=489
+}
+tile(Teleporter,8800,950){
+	automatic=0
+	id=490
+}
+tile(Teleporter,8850,1000){
+	automatic=1
+	destination=494
+	id=491
+}
+tile(Teleporter,8850,950){
+	automatic=0
+	id=492
+}
+tile(Teleporter,8900,1000){
+	automatic=1
+	destination=496
+	id=493
+}
+tile(Teleporter,8900,950){
+	automatic=0
+	id=494
+}
+tile(Teleporter,8950,1000){
+	automatic=1
+	destination=498
+	id=495
+}
+tile(Teleporter,8950,950){
+	automatic=0
+	id=496
+}
+tile(Teleporter,9000,1000){
+	automatic=1
+	destination=500
+	id=497
+}
+tile(Teleporter,9000,950){
+	automatic=0
+	id=498
+}
+tile(Teleporter,9050,1000){
+	automatic=1
+	destination=502
+	id=499
+}
+tile(Teleporter,9050,950){
+	automatic=0
+	id=500
+}
+tile(Teleporter,9100,1000){
+	automatic=1
+	destination=504
+	id=501
+}
+tile(Teleporter,9100,950){
+	automatic=0
+	id=502
+}
+tile(Teleporter,9150,1000){
+	automatic=1
+	destination=506
+	id=503
+}
+tile(Teleporter,9150,950){
+	automatic=0
+	id=504
+}
+tile(Teleporter,9200,1000){
+	automatic=1
+	destination=508
+	id=505
+}
+tile(Teleporter,9200,950){
+	automatic=0
+	id=506
+}
+tile(Teleporter,9250,1000){
+	automatic=1
+	destination=510
+	id=507
+}
+tile(Teleporter,9250,950){
+	automatic=0
+	id=508
+}
+tile(Teleporter,9300,1000){
+	automatic=1
+	destination=512
+	id=509
+}
+tile(Teleporter,9300,950){
+	automatic=0
+	id=510
+}
+tile(Teleporter,9350,1000){
+	automatic=1
+	destination=514
+	id=511
+}
+tile(Teleporter,9350,950){
+	automatic=0
+	id=512
+}
+tile(Teleporter,9400,1000){
+	automatic=1
+	destination=516
+	id=513
+}
+tile(Teleporter,9400,950){
+	automatic=0
+	id=514
+}
+tile(Teleporter,9450,1000){
+	automatic=1
+	destination=518
+	id=515
+}
+tile(Teleporter,9450,950){
+	automatic=0
+	id=516
+}
+tile(Teleporter,9500,1000){
+	automatic=1
+	destination=520
+	id=517
+}
+tile(Teleporter,9500,950){
+	automatic=0
+	id=518
+}
+tile(Teleporter,9550,1000){
+	automatic=1
+	destination=522
+	id=519
+}
+tile(Teleporter,9550,950){
+	automatic=0
+	id=520
+}
+tile(Teleporter,9600,1000){
+	automatic=1
+	destination=524
+	id=521
+}
+tile(Teleporter,9600,950){
+	automatic=0
+	id=522
+}
+tile(Teleporter,9650,1000){
+	automatic=1
+	destination=526
+	id=523
+}
+tile(Teleporter,9650,950){
+	automatic=0
+	id=524
+}
+tile(Teleporter,9700,1000){
+	automatic=1
+	destination=528
+	id=525
+}
+tile(Teleporter,9700,950){
+	automatic=0
+	id=526
+}
+tile(Teleporter,9750,1000){
+	automatic=1
+	destination=530
+	id=527
+}
+tile(Teleporter,9750,950){
+	automatic=0
+	id=528
+}
+tile(Teleporter,9800,1000){
+	automatic=1
+	destination=532
+	id=529
+}
+tile(Teleporter,9800,950){
+	automatic=0
+	id=530
+}
+tile(Teleporter,9850,1000){
+	automatic=1
+	destination=534
+	id=531
+}
+tile(Teleporter,9850,950){
+	automatic=0
+	id=532
+}
+tile(ShadowStart,1850,3250)
+tile(ShadowBlock,9900,1100)
+tile(ShadowBlock,9950,1100)
+tile(ShadowBlock,10000,1100)
+tile(ShadowBlock,10050,1100)
+tile(ShadowBlock,10100,1100)
+tile(ShadowBlock,10150,1150)
+tile(ShadowBlock,10200,1150)
+tile(ShadowBlock,10250,1150)
+tile(ShadowBlock,10300,1150)
+tile(ShadowBlock,10350,1200)
+tile(ShadowBlock,10400,1200)
+tile(ShadowBlock,10450,1200)
+tile(ShadowBlock,10500,1250)
+tile(ShadowBlock,10550,1250)
+tile(ShadowBlock,10600,1300)
+tile(ShadowBlock,10650,1350)
+tile(ShadowBlock,10700,1400)
+tile(ShadowBlock,10750,1450)
+tile(ShadowBlock,10750,1500)
+tile(ShadowBlock,10800,1550)
+tile(ShadowBlock,10800,1600)
+tile(ShadowBlock,10800,1650)
+tile(ShadowBlock,10850,1700)
+tile(ShadowBlock,10850,1750)
+tile(ShadowBlock,10850,1800)
+tile(ShadowBlock,10850,1850)
+tile(ShadowBlock,10900,1900)
+tile(ShadowBlock,10900,1950)
+tile(ShadowBlock,10900,2000)
+tile(ShadowBlock,10900,2100)
+tile(ShadowBlock,10900,2050)
+tile(ShadowBlock,10850,2150)
+tile(ShadowBlock,10850,2200)
+tile(ShadowBlock,10850,2250)
+tile(ShadowBlock,10850,2300)
+tile(ShadowBlock,10800,2350)
+tile(ShadowBlock,10800,2400)
+tile(ShadowBlock,10800,2450)
+tile(ShadowBlock,10750,2500)
+tile(ShadowBlock,10750,2550)
+tile(ShadowBlock,10700,2600)
+tile(ShadowBlock,10650,2650)
+tile(ShadowBlock,10600,2700)
+tile(ShadowBlock,10550,2750)
+tile(ShadowBlock,10500,2750)
+tile(ShadowBlock,10450,2800)
+tile(ShadowBlock,10400,2800)
+tile(ShadowBlock,10350,2800)
+tile(ShadowBlock,10300,2850)
+tile(ShadowBlock,10250,2850)
+tile(ShadowBlock,10200,2850)
+tile(ShadowBlock,10150,2900)
+tile(ShadowBlock,10100,2900)
+tile(ShadowBlock,10050,2900)
+tile(ShadowBlock,10000,2950)
+tile(ShadowBlock,9950,2950)
+tile(ShadowBlock,9900,2950)
+tile(ShadowBlock,9850,3000)
+tile(ShadowBlock,9800,3000)
+tile(ShadowBlock,9750,3000)
+tile(ShadowBlock,9700,3050)
+tile(ShadowBlock,9600,3050)
+tile(ShadowBlock,9650,3050)
+tile(ShadowBlock,9550,3100)
+tile(ShadowBlock,9500,3100)
+tile(ShadowBlock,9450,3100)
+tile(ShadowBlock,9400,3150)
+tile(ShadowBlock,9350,3150)
+tile(ShadowBlock,9300,3150)
+tile(ShadowBlock,9250,3200)
+tile(ShadowBlock,9200,3200)
+tile(ShadowBlock,9150,3250)
+tile(ShadowBlock,9100,3300)
+tile(ShadowBlock,9050,3350)
+tile(ShadowBlock,9000,3400)
+tile(ShadowBlock,9000,3450)
+tile(ShadowBlock,9000,3500)
+tile(ShadowBlock,8950,3550)
+tile(ShadowBlock,8950,3600)
+tile(ShadowBlock,8950,3650)
+tile(ShadowBlock,9000,3700)
+tile(ShadowBlock,9000,3750)
+tile(ShadowBlock,9000,3800)
+tile(ShadowBlock,9050,3850)
+tile(ShadowBlock,9100,3900)
+tile(ShadowBlock,9150,3950)
+tile(ShadowBlock,9200,4000)
+tile(ShadowBlock,9250,4000)
+tile(ShadowBlock,9300,4000)
+tile(ShadowBlock,9350,4050)
+tile(ShadowBlock,9400,4050)
+tile(ShadowBlock,9450,4050)
+tile(ShadowBlock,9500,4050)
+tile(ShadowBlock,9550,4050)
+tile(ShadowBlock,9600,4050)
+tile(ShadowBlock,9650,4050)
+tile(ShadowBlock,9700,4050)
+tile(ShadowBlock,9800,4050)
+tile(ShadowBlock,9850,4050)
+tile(ShadowBlock,9900,4050)
+tile(ShadowBlock,9950,4050)
+tile(ShadowBlock,10000,4050)
+tile(ShadowBlock,10050,4050)
+tile(ShadowBlock,9750,4050)
+tile(Teleporter,9900,1050){
+	automatic=1
+	destination=536
+	id=533
+}
+tile(Teleporter,9900,1000){
+	automatic=0
+	id=534
+}
+tile(Teleporter,9950,1050){
+	automatic=1
+	destination=538
+	id=535
+}
+tile(Teleporter,9950,1000){
+	automatic=0
+	id=536
+}
+tile(Teleporter,10000,1050){
+	automatic=1
+	destination=540
+	id=537
+}
+tile(Teleporter,10000,1000){
+	automatic=0
+	id=538
+}
+tile(Teleporter,10050,1050){
+	automatic=1
+	destination=542
+	id=539
+}
+tile(Teleporter,10050,1000){
+	automatic=0
+	id=540
+}
+tile(Teleporter,10100,1050){
+	automatic=1
+	destination=544
+	id=541
+}
+tile(Teleporter,10100,1000){
+	automatic=0
+	id=542
+}
+tile(Teleporter,10150,1100){
+	automatic=1
+	destination=546
+	id=543
+}
+tile(Teleporter,10150,1050){
+	automatic=0
+	id=544
+}
+tile(Teleporter,10200,1100){
+	automatic=1
+	destination=548
+	id=545
+}
+tile(Teleporter,10200,1050){
+	automatic=0
+	id=546
+}
+tile(Teleporter,10250,1100){
+	automatic=1
+	destination=550
+	id=547
+}
+tile(Teleporter,10250,1050){
+	automatic=0
+	id=548
+}
+tile(Teleporter,10300,1100){
+	automatic=1
+	destination=552
+	id=549
+}
+tile(Teleporter,10300,1050){
+	automatic=0
+	id=550
+}
+tile(Teleporter,10350,1150){
+	automatic=1
+	destination=554
+	id=551
+}
+tile(Teleporter,10350,1100){
+	automatic=0
+	id=552
+}
+tile(Teleporter,10400,1150){
+	automatic=1
+	destination=556
+	id=553
+}
+tile(Teleporter,10400,1100){
+	automatic=0
+	id=554
+}
+tile(Teleporter,10450,1150){
+	automatic=1
+	destination=558
+	id=555
+}
+tile(Teleporter,10450,1100){
+	automatic=0
+	id=556
+}
+tile(Teleporter,10500,1200){
+	automatic=1
+	destination=560
+	id=557
+}
+tile(Teleporter,10500,1150){
+	automatic=0
+	id=558
+}
+tile(Teleporter,10550,1200){
+	automatic=1
+	destination=562
+	id=559
+}
+tile(Teleporter,10550,1150){
+	automatic=0
+	id=560
+}
+tile(Teleporter,10600,1250){
+	automatic=1
+	destination=564
+	id=561
+}
+tile(Teleporter,10600,1200){
+	automatic=0
+	id=562
+}
+tile(Teleporter,10650,1300){
+	automatic=1
+	destination=566
+	id=563
+}
+tile(Teleporter,10650,1250){
+	automatic=0
+	id=564
+}
+tile(Teleporter,10700,1350){
+	automatic=1
+	destination=568
+	id=565
+}
+tile(Teleporter,10700,1300){
+	automatic=0
+	id=566
+}
+tile(Teleporter,10750,1400){
+	automatic=1
+	destination=570
+	id=567
+}
+tile(Teleporter,10750,1350){
+	automatic=0
+	id=568
+}
+tile(Teleporter,10800,1500){
+	automatic=1
+	destination=573
+	id=569
+}
+tile(Teleporter,10800,1450){
+	automatic=0
+	id=570
+}
+tile(Teleporter,10850,1650){
+	automatic=0
+	id=571
+}
+tile(Teleporter,10850,1600){
+	automatic=1
+	destination=577
+	id=572
+}
+tile(Teleporter,10850,1550){
+	automatic=0
+	id=573
+}
+tile(Teleporter,10900,1850){
+	automatic=1
+	destination=582
+	id=574
+}
+tile(Teleporter,10900,1800){
+	automatic=0
+	id=575
+}
+tile(Teleporter,10900,1750){
+	automatic=1
+	destination=575
+	id=576
+}
+tile(Teleporter,10900,1700){
+	automatic=0
+	id=577
+}
+tile(Teleporter,10950,2100){
+	automatic=0
+	id=578
+}
+tile(Teleporter,10950,2050){
+	automatic=1
+	destination=583
+	id=579
+}
+tile(Teleporter,10950,2000){
+	automatic=0
+	id=580
+}
+tile(Teleporter,10950,1950){
+	automatic=1
+	destination=580
+	id=581
+}
+tile(Teleporter,10950,1900){
+	automatic=0
+	id=582
+}
+tile(Teleporter,10900,2150){
+	automatic=1
+	id=583
+}
+tile(Teleporter,10900,2200){
+	automatic=1
+	destination=585
+	id=584
+}
+tile(Teleporter,10900,2250){
+	automatic=1
+	id=585
+}
+tile(Teleporter,10900,2300){
+	automatic=1
+	destination=587
+	id=586
+}
+tile(Teleporter,10850,2350){
+	automatic=0
+	id=587
+}
+tile(Teleporter,10850,2400){
+	automatic=1
+	destination=590
+	id=588
+}
+tile(Teleporter,10850,2450){
+	automatic=0
+	id=589
+}
+tile(Teleporter,10800,2500){
+	automatic=0
+	id=590
+}
+tile(Teleporter,10800,2550){
+	automatic=1
+	destination=592
+	id=591
+}
+tile(Teleporter,10750,2600){
+	automatic=0
+	id=592
+}
+tile(Teleporter,10750,2650){
+	automatic=1
+	destination=594
+	id=593
+}
+tile(Teleporter,10700,2650){
+	automatic=0
+	id=594
+}
+tile(Teleporter,10700,2700){
+	automatic=1
+	destination=596
+	id=595
+}
+tile(Teleporter,10650,2700){
+	automatic=0
+	id=596
+}
+tile(Teleporter,10650,2750){
+	automatic=1
+	destination=598
+	id=597
+}
+tile(Teleporter,10600,2750){
+	automatic=0
+	id=598
+}
+tile(Teleporter,10600,2800){
+	automatic=1
+	destination=600
+	id=599
+}
+tile(Teleporter,10550,2800){
+	automatic=0
+	id=600
+}
+tile(Teleporter,10550,2850){
+	automatic=1
+	destination=602
+	id=601
+}
+tile(Teleporter,10500,2800){
+	automatic=0
+	id=602
+}
+tile(Teleporter,10500,2850){
+	automatic=1
+	destination=604
+	id=603
+}
+tile(Teleporter,10450,2850){
+	automatic=0
+	id=604
+}
+tile(Teleporter,10450,2900){
+	automatic=1
+	destination=606
+	id=605
+}
+tile(Teleporter,10400,2850){
+	automatic=0
+	id=606
+}
+tile(Teleporter,10400,2900){
+	automatic=1
+	destination=608
+	id=607
+}
+tile(Teleporter,10350,2850){
+	automatic=0
+	id=608
+}
+tile(Teleporter,10350,2900){
+	automatic=1
+	destination=610
+	id=609
+}
+tile(Teleporter,10300,2900){
+	automatic=0
+	id=610
+}
+tile(Teleporter,10300,2950){
+	automatic=1
+	destination=612
+	id=611
+}
+tile(Teleporter,10250,2900){
+	automatic=0
+	id=612
+}
+tile(Teleporter,10250,2950){
+	automatic=1
+	destination=614
+	id=613
+}
+tile(Teleporter,10200,2900){
+	automatic=0
+	id=614
+}
+tile(Teleporter,10200,2950){
+	automatic=1
+	destination=616
+	id=615
+}
+tile(Teleporter,10150,2950){
+	automatic=0
+	id=616
+}
+tile(Teleporter,10150,3000){
+	automatic=1
+	destination=618
+	id=617
+}
+tile(Teleporter,10100,2950){
+	automatic=0
+	id=618
+}
+tile(Teleporter,10100,3000){
+	automatic=1
+	destination=620
+	id=619
+}
+tile(Teleporter,10050,2950){
+	automatic=0
+	id=620
+}
+tile(Teleporter,10050,3000){
+	automatic=1
+	destination=622
+	id=621
+}
+tile(Teleporter,10000,3000){
+	automatic=0
+	id=622
+}
+tile(Teleporter,10000,3050){
+	automatic=1
+	destination=624
+	id=623
+}
+tile(Teleporter,9950,3000){
+	automatic=0
+	id=624
+}
+tile(Teleporter,9950,3050){
+	automatic=1
+	destination=626
+	id=625
+}
+tile(Teleporter,9900,3000){
+	automatic=0
+	id=626
+}
+tile(Teleporter,9900,3050){
+	automatic=1
+	destination=628
+	id=627
+}
+tile(Teleporter,9850,3050){
+	automatic=0
+	id=628
+}
+tile(Teleporter,9850,3100){
+	automatic=1
+	destination=630
+	id=629
+}
+tile(Teleporter,9800,3050){
+	automatic=0
+	id=630
+}
+tile(Teleporter,9800,3100){
+	automatic=1
+	destination=632
+	id=631
+}
+tile(Teleporter,9750,3050){
+	automatic=0
+	id=632
+}
+tile(Teleporter,9750,3100){
+	automatic=1
+	destination=634
+	id=633
+}
+tile(Teleporter,9700,3100){
+	automatic=0
+	id=634
+}
+tile(Teleporter,9700,3150){
+	automatic=1
+	destination=636
+	id=635
+}
+tile(Teleporter,9650,3100){
+	automatic=0
+	id=636
+}
+tile(Teleporter,9650,3150){
+	automatic=1
+	destination=638
+	id=637
+}
+tile(Teleporter,9600,3100){
+	automatic=0
+	id=638
+}
+tile(Teleporter,9600,3150){
+	automatic=1
+	destination=640
+	id=639
+}
+tile(Teleporter,9550,3150){
+	automatic=0
+	id=640
+}
+tile(Teleporter,9550,3200){
+	automatic=1
+	destination=642
+	id=641
+}
+tile(Teleporter,9500,3150){
+	automatic=0
+	id=642
+}
+tile(Teleporter,9500,3200){
+	automatic=1
+	destination=644
+	id=643
+}
+tile(Teleporter,9450,3150){
+	automatic=0
+	id=644
+}
+tile(Teleporter,9450,3200){
+	automatic=1
+	destination=646
+	id=645
+}
+tile(Teleporter,9400,3200){
+	automatic=0
+	id=646
+}
+tile(Teleporter,9400,3250){
+	automatic=1
+	destination=648
+	id=647
+}
+tile(Teleporter,9350,3200){
+	automatic=0
+	id=648
+}
+tile(Teleporter,9350,3250){
+	automatic=1
+	destination=650
+	id=649
+}
+tile(Teleporter,9300,3200){
+	automatic=0
+	id=650
+}
+tile(Teleporter,9300,3250){
+	automatic=1
+	destination=652
+	id=651
+}
+tile(Teleporter,9250,3250){
+	automatic=0
+	id=652
+}
+tile(Teleporter,9250,3300){
+	automatic=1
+	destination=654
+	id=653
+}
+tile(Teleporter,9200,3250){
+	automatic=0
+	id=654
+}
+tile(Teleporter,9200,3300){
+	automatic=1
+	destination=656
+	id=655
+}
+tile(Teleporter,9150,3300){
+	automatic=0
+	id=656
+}
+tile(Teleporter,9150,3350){
+	automatic=1
+	destination=658
+	id=657
+}
+tile(Teleporter,9100,3350){
+	automatic=0
+	id=658
+}
+tile(Teleporter,9100,3400){
+	automatic=1
+	destination=660
+	id=659
+}
+tile(Teleporter,9050,3400){
+	automatic=0
+	id=660
+}
+tile(Teleporter,9050,3450){
+	automatic=1
+	destination=663
+	id=661
+}
+tile(Teleporter,9050,3500){
+	automatic=0
+	id=662
+}
+tile(Teleporter,9000,3550){
+	automatic=0
+	id=663
+}
+tile(Teleporter,9000,3600){
+	automatic=1
+	destination=666
+	id=664
+}
+tile(Teleporter,9000,3650){
+	automatic=0
+	id=665
+}
+tile(Teleporter,9050,3700){
+	automatic=0
+	id=666
+}
+tile(Teleporter,9050,3750){
+	automatic=1
+	destination=669
+	id=667
+}
+tile(Teleporter,9050,3800){
+	automatic=0
+	id=668
+}
+tile(Teleporter,9100,3800){
+	automatic=0
+	id=669
+}
+tile(Teleporter,9100,3850){
+	automatic=1
+	destination=671
+	id=670
+}
+tile(Teleporter,9150,3850){
+	automatic=0
+	id=671
+}
+tile(Teleporter,9150,3900){
+	automatic=1
+	destination=673
+	id=672
+}
+tile(Teleporter,9200,3900){
+	automatic=0
+	id=673
+}
+tile(Teleporter,9200,3950){
+	automatic=1
+	destination=675
+	id=674
+}
+tile(Teleporter,9250,3900){
+	automatic=0
+	id=675
+}
+tile(Teleporter,9250,3950){
+	automatic=1
+	destination=677
+	id=676
+}
+tile(Teleporter,9300,3900){
+	automatic=0
+	id=677
+}
+tile(Teleporter,9300,3950){
+	automatic=1
+	destination=679
+	id=678
+}
+tile(Teleporter,9350,3950){
+	automatic=0
+	id=679
+}
+tile(Teleporter,9350,4000){
+	automatic=1
+	destination=682
+	id=680
+}
+tile(Teleporter,9450,3950){
+	automatic=0
+	id=681
+}
+tile(Teleporter,9400,3950){
+	automatic=0
+	id=682
+}
+tile(Teleporter,9400,4000){
+	automatic=1
+	destination=681
+	id=683
+}
+tile(Teleporter,9450,4000){
+	automatic=1
+	destination=686
+	id=684
+}
+tile(ShadowBlock,10100,4050)
+tile(ShadowBlock,10150,4050)
+tile(ShadowBlock,10200,4050)
+tile(ShadowBlock,10250,4050)
+tile(ShadowBlock,10300,4050)
+tile(ShadowBlock,10350,4050)
+tile(ShadowBlock,10400,4050)
+tile(ShadowBlock,10450,4050)
+tile(ShadowBlock,10500,4050)
+tile(ShadowBlock,10550,4050)
+tile(ShadowBlock,10600,4050)
+tile(ShadowBlock,10650,4050)
+tile(ShadowBlock,10700,4050)
+tile(ShadowBlock,10750,4050)
+tile(ShadowBlock,10800,4050)
+tile(ShadowBlock,10850,4050)
+tile(ShadowBlock,10900,4050)
+tile(ShadowBlock,10950,4050)
+tile(ShadowBlock,11000,4050)
+tile(ShadowBlock,11050,4050)
+tile(ShadowBlock,11100,4050)
+tile(ShadowBlock,11150,4050)
+tile(ShadowBlock,11200,4050)
+tile(ShadowBlock,11250,4050)
+tile(ShadowBlock,11300,4050)
+tile(ShadowBlock,11350,4050)
+tile(ShadowBlock,11400,4050)
+tile(ShadowBlock,11450,4050)
+tile(ShadowBlock,11500,4050)
+tile(ShadowBlock,11550,4050)
+tile(ShadowBlock,11600,4050)
+tile(ShadowBlock,11650,4100)
+tile(ShadowBlock,11700,4100)
+tile(ShadowBlock,11750,4100)
+tile(ShadowBlock,11800,4100)
+tile(ShadowBlock,11850,4150)
+tile(ShadowBlock,11900,4150)
+tile(ShadowBlock,11950,4150)
+tile(ShadowBlock,12000,4200)
+tile(ShadowBlock,12050,4200)
+tile(ShadowBlock,12100,4250)
+tile(ShadowBlock,12150,4300)
+tile(ShadowBlock,12200,4350)
+tile(ShadowBlock,12250,4400)
+tile(ShadowBlock,12250,4450)
+tile(ShadowBlock,12300,4500)
+tile(ShadowBlock,12300,4550)
+tile(ShadowBlock,12300,4600)
+tile(ShadowBlock,12350,4650)
+tile(ShadowBlock,12350,4700)
+tile(ShadowBlock,12350,4750)
+tile(ShadowBlock,12350,4800)
+tile(ShadowBlock,12400,4850)
+tile(ShadowBlock,12400,4900)
+tile(ShadowBlock,12400,4950)
+tile(ShadowBlock,12400,5000)
+tile(ShadowBlock,12400,5050)
+tile(ShadowBlock,12350,5100)
+tile(ShadowBlock,12350,5150)
+tile(ShadowBlock,12350,5200)
+tile(ShadowBlock,12350,5250)
+tile(ShadowBlock,12300,5300)
+tile(ShadowBlock,12300,5350)
+tile(ShadowBlock,12300,5400)
+tile(ShadowBlock,12250,5450)
+tile(ShadowBlock,12250,5500)
+tile(ShadowBlock,12200,5550)
+tile(ShadowBlock,12150,5600)
+tile(ShadowBlock,12100,5650)
+tile(ShadowBlock,12050,5700)
+tile(ShadowBlock,12000,5700)
+tile(ShadowBlock,11950,5750)
+tile(ShadowBlock,11900,5750)
+tile(ShadowBlock,11850,5750)
+tile(ShadowBlock,11800,5800)
+tile(ShadowBlock,11750,5800)
+tile(ShadowBlock,11700,5800)
+tile(ShadowBlock,11650,5800)
+tile(ShadowBlock,11600,5850)
+tile(ShadowBlock,11550,5850)
+tile(ShadowBlock,11500,5850)
+tile(ShadowBlock,11450,5850)
+tile(ShadowBlock,11400,5850)
+tile(ShadowBlock,11350,5850)
+tile(ShadowBlock,11300,5850)
+tile(ShadowBlock,11250,5850)
+tile(ShadowBlock,11200,5850)
+tile(ShadowBlock,11150,5850)
+tile(ShadowBlock,11100,5850)
+tile(ShadowBlock,11050,5850)
+tile(ShadowBlock,11000,5850)
+tile(ShadowBlock,10900,5850)
+tile(ShadowBlock,10950,5850)
+tile(ShadowBlock,10850,5850)
+tile(ShadowBlock,10800,5850)
+tile(ShadowBlock,10750,5850)
+tile(ShadowBlock,10700,5800)
+tile(ShadowBlock,10500,5800)
+tile(ShadowBlock,10450,5750)
+tile(ShadowBlock,10400,5750)
+tile(ShadowBlock,10350,5750)
+tile(ShadowBlock,10300,5750)
+tile(ShadowBlock,10250,5750)
+tile(ShadowBlock,10200,5750)
+tile(ShadowBlock,10150,5750)
+tile(ShadowBlock,10100,5750)
+tile(ShadowBlock,10050,5750)
+tile(ShadowBlock,10000,5750)
+tile(Teleporter,9500,4000){
+	automatic=1
+	destination=688
+	id=685
+}
+tile(Teleporter,9500,3950){
+	automatic=0
+	id=686
+}
+tile(Teleporter,9550,4000){
+	automatic=1
+	destination=690
+	id=687
+}
+tile(Teleporter,9550,3950){
+	automatic=0
+	id=688
+}
+tile(Teleporter,9600,4000){
+	automatic=1
+	destination=692
+	id=689
+}
+tile(Teleporter,9600,3950){
+	automatic=0
+	id=690
+}
+tile(Teleporter,9650,4000){
+	automatic=1
+	destination=694
+	id=691
+}
+tile(Teleporter,9650,3950){
+	automatic=0
+	id=692
+}
+tile(Teleporter,9700,4000){
+	automatic=1
+	destination=697
+	id=693
+}
+tile(Teleporter,9700,3950){
+	automatic=0
+	id=694
+}
+tile(Teleporter,9800,4000){
+	automatic=1
+	destination=700
+	id=695
+}
+tile(Teleporter,9750,4000){
+	automatic=1
+	destination=698
+	id=696
+}
+tile(Teleporter,9750,3950){
+	automatic=0
+	id=697
+}
+tile(Teleporter,9800,3950){
+	automatic=0
+	id=698
+}
+tile(Teleporter,9850,4000){
+	automatic=1
+	destination=702
+	id=699
+}
+tile(Teleporter,9850,3950){
+	automatic=0
+	id=700
+}
+tile(Teleporter,9900,4000){
+	automatic=1
+	destination=704
+	id=701
+}
+tile(Teleporter,9900,3950){
+	automatic=0
+	id=702
+}
+tile(Teleporter,9950,4000){
+	automatic=1
+	destination=706
+	id=703
+}
+tile(Teleporter,9950,3950){
+	automatic=0
+	id=704
+}
+tile(Teleporter,10000,4000){
+	automatic=1
+	destination=708
+	id=705
+}
+tile(Teleporter,10000,3950){
+	automatic=0
+	id=706
+}
+tile(Teleporter,10050,4000){
+	automatic=1
+	destination=710
+	id=707
+}
+tile(Teleporter,10050,3950){
+	automatic=0
+	id=708
+}
+tile(Teleporter,10100,4000){
+	automatic=1
+	destination=712
+	id=709
+}
+tile(Teleporter,10100,3950){
+	automatic=0
+	id=710
+}
+tile(Teleporter,10150,4000){
+	automatic=1
+	destination=714
+	id=711
+}
+tile(Teleporter,10150,3950){
+	automatic=0
+	id=712
+}
+tile(Teleporter,10200,4000){
+	automatic=1
+	destination=716
+	id=713
+}
+tile(Teleporter,10200,3950){
+	automatic=0
+	id=714
+}
+tile(Teleporter,10250,4000){
+	automatic=1
+	destination=718
+	id=715
+}
+tile(Teleporter,10250,3950){
+	automatic=0
+	id=716
+}
+tile(Teleporter,10300,4000){
+	automatic=1
+	destination=720
+	id=717
+}
+tile(Teleporter,10300,3950){
+	automatic=0
+	id=718
+}
+tile(Teleporter,10350,4000){
+	automatic=1
+	destination=722
+	id=719
+}
+tile(Teleporter,10350,3950){
+	automatic=0
+	id=720
+}
+tile(Teleporter,10400,4000){
+	automatic=1
+	destination=724
+	id=721
+}
+tile(Teleporter,10400,3950){
+	automatic=0
+	id=722
+}
+tile(Teleporter,10450,4000){
+	automatic=1
+	destination=726
+	id=723
+}
+tile(Teleporter,10450,3950){
+	automatic=0
+	id=724
+}
+tile(Teleporter,10500,4000){
+	automatic=1
+	destination=728
+	id=725
+}
+tile(Teleporter,10500,3950){
+	automatic=0
+	id=726
+}
+tile(Teleporter,10550,4000){
+	automatic=1
+	destination=730
+	id=727
+}
+tile(Teleporter,10550,3950){
+	automatic=0
+	id=728
+}
+tile(Teleporter,10600,4000){
+	automatic=1
+	destination=732
+	id=729
+}
+tile(Teleporter,10600,3950){
+	automatic=0
+	id=730
+}
+tile(Teleporter,10650,4000){
+	automatic=1
+	destination=734
+	id=731
+}
+tile(Teleporter,10650,3950){
+	automatic=0
+	id=732
+}
+tile(Teleporter,10700,4000){
+	automatic=1
+	destination=736
+	id=733
+}
+tile(Teleporter,10700,3950){
+	automatic=0
+	id=734
+}
+tile(Teleporter,10750,4000){
+	automatic=1
+	destination=738
+	id=735
+}
+tile(Teleporter,10750,3950){
+	automatic=0
+	id=736
+}
+tile(Teleporter,10800,4000){
+	automatic=1
+	destination=740
+	id=737
+}
+tile(Teleporter,10800,3950){
+	automatic=0
+	id=738
+}
+tile(Teleporter,10850,4000){
+	automatic=1
+	destination=742
+	id=739
+}
+tile(Teleporter,10850,3950){
+	automatic=0
+	id=740
+}
+tile(Teleporter,10900,4000){
+	automatic=1
+	destination=744
+	id=741
+}
+tile(Teleporter,10900,3950){
+	automatic=0
+	id=742
+}
+tile(Teleporter,10950,4000){
+	automatic=1
+	destination=746
+	id=743
+}
+tile(Teleporter,10950,3950){
+	automatic=0
+	id=744
+}
+tile(Teleporter,11000,4000){
+	automatic=1
+	destination=748
+	id=745
+}
+tile(Teleporter,11000,3950){
+	automatic=0
+	id=746
+}
+tile(Teleporter,11050,4000){
+	automatic=1
+	destination=750
+	id=747
+}
+tile(Teleporter,11050,3950){
+	automatic=0
+	id=748
+}
+tile(Teleporter,11100,4000){
+	automatic=1
+	destination=752
+	id=749
+}
+tile(Teleporter,11100,3950){
+	automatic=0
+	id=750
+}
+tile(Teleporter,11150,4000){
+	automatic=1
+	destination=754
+	id=751
+}
+tile(Teleporter,11150,3950){
+	automatic=0
+	id=752
+}
+tile(Teleporter,11200,4000){
+	automatic=1
+	destination=756
+	id=753
+}
+tile(Teleporter,11200,3950){
+	automatic=0
+	id=754
+}
+tile(Teleporter,11250,4000){
+	automatic=1
+	destination=758
+	id=755
+}
+tile(Teleporter,11250,3950){
+	automatic=0
+	id=756
+}
+tile(Teleporter,11300,4000){
+	automatic=1
+	destination=760
+	id=757
+}
+tile(Teleporter,11300,3950){
+	automatic=0
+	id=758
+}
+tile(Teleporter,11350,4000){
+	automatic=1
+	destination=762
+	id=759
+}
+tile(Teleporter,11350,3950){
+	automatic=0
+	id=760
+}
+tile(Teleporter,11400,4000){
+	automatic=1
+	destination=764
+	id=761
+}
+tile(Teleporter,11400,3950){
+	automatic=0
+	id=762
+}
+tile(Teleporter,11450,4000){
+	automatic=1
+	destination=766
+	id=763
+}
+tile(Teleporter,11450,3950){
+	automatic=0
+	id=764
+}
+tile(Teleporter,11500,4000){
+	automatic=1
+	destination=768
+	id=765
+}
+tile(Teleporter,11500,3950){
+	automatic=0
+	id=766
+}
+tile(Teleporter,11550,4000){
+	automatic=1
+	destination=770
+	id=767
+}
+tile(Teleporter,11550,3950){
+	automatic=0
+	id=768
+}
+tile(Teleporter,11600,4000){
+	automatic=1
+	destination=772
+	id=769
+}
+tile(Teleporter,11600,3950){
+	automatic=0
+	id=770
+}
+tile(Teleporter,11650,4050){
+	automatic=1
+	destination=774
+	id=771
+}
+tile(Teleporter,11650,4000){
+	automatic=0
+	id=772
+}
+tile(Teleporter,11700,4050){
+	automatic=1
+	destination=776
+	id=773
+}
+tile(Teleporter,11700,4000){
+	automatic=0
+	id=774
+}
+tile(Teleporter,11750,4050){
+	automatic=1
+	destination=778
+	id=775
+}
+tile(Teleporter,11750,4000){
+	automatic=0
+	id=776
+}
+tile(Teleporter,11800,4050){
+	automatic=1
+	destination=780
+	id=777
+}
+tile(Teleporter,11800,4000){
+	automatic=0
+	id=778
+}
+tile(Teleporter,11850,4100){
+	automatic=1
+	destination=782
+	id=779
+}
+tile(Teleporter,11850,4050){
+	automatic=0
+	id=780
+}
+tile(Teleporter,11900,4100){
+	automatic=1
+	destination=784
+	id=781
+}
+tile(Teleporter,11900,4050){
+	automatic=0
+	id=782
+}
+tile(Teleporter,11950,4100){
+	automatic=1
+	destination=786
+	id=783
+}
+tile(Teleporter,11950,4050){
+	automatic=0
+	id=784
+}
+tile(Teleporter,12000,4150){
+	automatic=1
+	destination=788
+	id=785
+}
+tile(Teleporter,12000,4100){
+	automatic=0
+	id=786
+}
+tile(Teleporter,12050,4150){
+	automatic=1
+	destination=790
+	id=787
+}
+tile(Teleporter,12050,4100){
+	automatic=0
+	id=788
+}
+tile(Teleporter,12100,4200){
+	automatic=1
+	destination=792
+	id=789
+}
+tile(Teleporter,12100,4150){
+	automatic=0
+	id=790
+}
+tile(Teleporter,12150,4250){
+	automatic=1
+	destination=794
+	id=791
+}
+tile(Teleporter,12150,4200){
+	automatic=0
+	id=792
+}
+tile(Teleporter,12200,4300){
+	automatic=1
+	destination=796
+	id=793
+}
+tile(Teleporter,12200,4250){
+	automatic=0
+	id=794
+}
+tile(Teleporter,12250,4350){
+	automatic=1
+	destination=798
+	id=795
+}
+tile(Teleporter,12250,4300){
+	automatic=0
+	id=796
+}
+tile(Teleporter,12300,4450){
+	automatic=1
+	destination=801
+	id=797
+}
+tile(Teleporter,12300,4400){
+	automatic=0
+	id=798
+}
+tile(Teleporter,12350,4600){
+	automatic=0
+	id=799
+}
+tile(Teleporter,12350,4550){
+	automatic=1
+	destination=805
+	id=800
+}
+tile(Teleporter,12350,4500){
+	automatic=0
+	id=801
+}
+tile(Teleporter,12400,4800){
+	automatic=1
+	destination=810
+	id=802
+}
+tile(Teleporter,12400,4750){
+	automatic=0
+	id=803
+}
+tile(Teleporter,12400,4700){
+	automatic=1
+	destination=803
+	id=804
+}
+tile(Teleporter,12400,4650){
+	automatic=0
+	id=805
+}
+tile(Teleporter,12450,5050){
+	automatic=0
+	id=806
+}
+tile(Teleporter,12450,5000){
+	automatic=1
+	destination=811
+	id=807
+}
+tile(Teleporter,12450,4950){
+	automatic=0
+	id=808
+}
+tile(Teleporter,12450,4900){
+	automatic=1
+	destination=808
+	id=809
+}
+tile(Teleporter,12450,4850){
+	automatic=0
+	id=810
+}
+tile(Teleporter,12400,5100){
+	automatic=0
+	id=811
+}
+tile(Teleporter,12400,5150){
+	automatic=1
+	destination=813
+	id=812
+}
+tile(Teleporter,12400,5200){
+	automatic=0
+	id=813
+}
+tile(Teleporter,12400,5250){
+	automatic=1
+	destination=815
+	id=814
+}
+tile(Teleporter,12350,5300){
+	automatic=0
+	id=815
+}
+tile(Teleporter,12350,5350){
+	automatic=1
+	destination=818
+	id=816
+}
+tile(Teleporter,12350,5400){
+	automatic=0
+	id=817
+}
+tile(Teleporter,12300,5450){
+	automatic=0
+	id=818
+}
+tile(Teleporter,12300,5500){
+	automatic=1
+	destination=820
+	id=819
+}
+tile(Teleporter,12250,5550){
+	automatic=0
+	id=820
+}
+tile(Teleporter,12250,5600){
+	automatic=1
+	destination=822
+	id=821
+}
+tile(Teleporter,12200,5600){
+	automatic=0
+	id=822
+}
+tile(Teleporter,12200,5650){
+	automatic=1
+	destination=824
+	id=823
+}
+tile(Teleporter,12150,5650){
+	automatic=0
+	id=824
+}
+tile(Teleporter,12150,5700){
+	automatic=1
+	destination=826
+	id=825
+}
+tile(Teleporter,12100,5700){
+	automatic=0
+	id=826
+}
+tile(Teleporter,12100,5750){
+	automatic=1
+	destination=828
+	id=827
+}
+tile(Teleporter,12050,5750){
+	automatic=0
+	id=828
+}
+tile(Teleporter,12050,5800){
+	automatic=1
+	destination=830
+	id=829
+}
+tile(Teleporter,12000,5750){
+	automatic=0
+	id=830
+}
+tile(Teleporter,12000,5800){
+	automatic=1
+	destination=832
+	id=831
+}
+tile(Teleporter,11950,5800){
+	automatic=0
+	id=832
+}
+tile(Teleporter,11950,5850){
+	automatic=1
+	destination=834
+	id=833
+}
+tile(Teleporter,11900,5800){
+	automatic=0
+	id=834
+}
+tile(Teleporter,11900,5850){
+	automatic=1
+	destination=836
+	id=835
+}
+tile(Teleporter,11850,5800){
+	automatic=0
+	id=836
+}
+tile(Teleporter,11850,5850){
+	automatic=1
+	destination=838
+	id=837
+}
+tile(Teleporter,11800,5850){
+	automatic=0
+	id=838
+}
+tile(Teleporter,11800,5900){
+	automatic=1
+	destination=840
+	id=839
+}
+tile(Teleporter,11750,5850){
+	automatic=0
+	id=840
+}
+tile(Teleporter,11750,5900){
+	automatic=1
+	destination=842
+	id=841
+}
+tile(Teleporter,11700,5850){
+	automatic=0
+	id=842
+}
+tile(Teleporter,11700,5900){
+	automatic=1
+	destination=844
+	id=843
+}
+tile(Teleporter,11650,5850){
+	automatic=0
+	id=844
+}
+tile(Teleporter,11650,5900){
+	automatic=1
+	destination=846
+	id=845
+}
+tile(Teleporter,11600,5900){
+	automatic=0
+	id=846
+}
+tile(Teleporter,11600,5950){
+	automatic=1
+	destination=848
+	id=847
+}
+tile(Teleporter,11550,5900){
+	automatic=0
+	id=848
+}
+tile(Teleporter,11550,5950){
+	automatic=1
+	destination=850
+	id=849
+}
+tile(Teleporter,11500,5900){
+	automatic=0
+	id=850
+}
+tile(Teleporter,11500,5950){
+	automatic=1
+	destination=852
+	id=851
+}
+tile(Teleporter,11450,5900){
+	automatic=0
+	id=852
+}
+tile(Teleporter,11450,5950){
+	automatic=1
+	destination=854
+	id=853
+}
+tile(Teleporter,11400,5900){
+	automatic=0
+	id=854
+}
+tile(Teleporter,11400,5950){
+	automatic=1
+	destination=856
+	id=855
+}
+tile(Teleporter,11350,5900){
+	automatic=0
+	id=856
+}
+tile(Teleporter,11350,5950){
+	automatic=1
+	destination=858
+	id=857
+}
+tile(Teleporter,11300,5900){
+	automatic=0
+	id=858
+}
+tile(Teleporter,11300,5950){
+	automatic=1
+	destination=860
+	id=859
+}
+tile(Teleporter,11250,5900){
+	automatic=0
+	id=860
+}
+tile(Teleporter,11250,5950){
+	automatic=1
+	destination=862
+	id=861
+}
+tile(Teleporter,11200,5900){
+	automatic=0
+	id=862
+}
+tile(Teleporter,11200,5950){
+	automatic=1
+	destination=864
+	id=863
+}
+tile(Teleporter,11150,5900){
+	automatic=0
+	id=864
+}
+tile(Teleporter,11150,5950){
+	automatic=1
+	destination=866
+	id=865
+}
+tile(Teleporter,11100,5900){
+	automatic=0
+	id=866
+}
+tile(Teleporter,11050,5950){
+	automatic=1
+	destination=870
+	id=867
+}
+tile(Teleporter,11050,5900){
+	automatic=0
+	id=868
+}
+tile(Teleporter,11100,5950){
+	automatic=1
+	destination=868
+	id=869
+}
+tile(Teleporter,11000,5900){
+	automatic=0
+	id=870
+}
+tile(Teleporter,11000,5950){
+	automatic=1
+	destination=872
+	id=871
+}
+tile(Teleporter,10950,5900){
+	automatic=0
+	id=872
+}
+tile(Teleporter,10950,5950){
+	automatic=1
+	destination=874
+	id=873
+}
+tile(Teleporter,10900,5900){
+	automatic=0
+	id=874
+}
+tile(Teleporter,10900,5950){
+	automatic=1
+	destination=876
+	id=875
+}
+tile(Teleporter,10850,5900){
+	automatic=0
+	id=876
+}
+tile(Teleporter,10850,5950){
+	automatic=1
+	destination=878
+	id=877
+}
+tile(Teleporter,10800,5900){
+	automatic=0
+	id=878
+}
+tile(Teleporter,10800,5950){
+	automatic=1
+	destination=880
+	id=879
+}
+tile(Teleporter,10750,5900){
+	automatic=0
+	id=880
+}
+tile(Teleporter,10750,5950){
+	automatic=1
+	destination=882
+	id=881
+}
+tile(Teleporter,10700,5850){
+	automatic=0
+	id=882
+}
+tile(Teleporter,10700,5900){
+	automatic=1
+	destination=913
+	id=883
+}
+tile(Teleporter,10650,5850){
+	automatic=1
+	destination=888
+	id=884
+}
+tile(Teleporter,10650,5900){
+	automatic=0
+	id=885
+}
+tile(Teleporter,10550,5700){
+	automatic=0
+	id=886
+}
+tile(Teleporter,10600,5850){
+	automatic=0
+	id=887
+}
+tile(Teleporter,10600,5750){
+	automatic=0
+	id=888
+}
+tile(Teleporter,10550,5750){
+	automatic=1
+	destination=890
+	id=889
+}
+tile(Teleporter,10500,5700){
+	automatic=0
+	id=890
+}
+tile(Teleporter,10500,5750){
+	automatic=1
+	destination=892
+	id=891
+}
+tile(Teleporter,10450,5650){
+	automatic=0
+	id=892
+}
+tile(Teleporter,10450,5700){
+	automatic=1
+	destination=894
+	id=893
+}
+tile(Teleporter,10400,5650){
+	automatic=0
+	id=894
+}
+tile(Teleporter,10350,5700){
+	automatic=1
+	destination=898
+	id=895
+}
+tile(Teleporter,10350,5650){
+	automatic=0
+	id=896
+}
+tile(Teleporter,10400,5700){
+	automatic=1
+	destination=896
+	id=897
+}
+tile(Teleporter,10300,5650){
+	automatic=0
+	id=898
+}
+tile(Teleporter,10300,5700){
+	automatic=1
+	destination=900
+	id=899
+}
+tile(Teleporter,10250,5650){
+	automatic=0
+	id=900
+}
+tile(Teleporter,10250,5700){
+	automatic=1
+	destination=902
+	id=901
+}
+tile(Teleporter,10200,5650){
+	automatic=0
+	id=902
+}
+tile(Teleporter,10200,5700){
+	automatic=1
+	destination=904
+	id=903
+}
+tile(Teleporter,10150,5650){
+	automatic=0
+	id=904
+}
+tile(Teleporter,10150,5700){
+	automatic=1
+	destination=906
+	id=905
+}
+tile(Teleporter,10100,5650){
+	automatic=0
+	id=906
+}
+tile(Teleporter,10100,5700){
+	automatic=1
+	destination=908
+	id=907
+}
+tile(Teleporter,10050,5650){
+	automatic=0
+	id=908
+}
+tile(Teleporter,10050,5700){
+	automatic=1
+	destination=910
+	id=909
+}
+tile(Teleporter,10000,5650){
+	automatic=0
+	id=910
+}
+tile(Teleporter,10000,5700){
+	automatic=1
+	destination=920
+	id=911
+}
+tile(ShadowBlock,6450,3300)
+tile(ShadowBlock,6400,3300)
+tile(ShadowBlock,6350,3300)
+tile(ShadowBlock,6300,3300)
+tile(ShadowBlock,6250,3300)
+tile(ShadowBlock,6200,3300)
+tile(ShadowBlock,6150,3300)
+tile(ShadowBlock,6100,3300)
+tile(Teleporter,6450,3250){
+	automatic=1
+	destination=322
+	id=912
+}
+tile(Teleporter,10650,5800){
+	automatic=0
+	id=913
+}
+tile(Teleporter,10600,5800){
+	automatic=1
+	destination=886
+	id=914
+}
+tile(Teleporter,10550,5800){
+	automatic=0
+	id=915
+}
+tile(MovingShadowBlock,10550,5850){
+	MovingPosCount=1
+	disabled=0
+	id=916
+	loop=0
+	t0=5
+	x0=0
+	y0=-50
+}
+tile(MovingShadowBlock,10600,5900){
+	MovingPosCount=1
+	disabled=0
+	id=917
+	loop=0
+	t0=10
+	x0=0
+	y0=-100
+}
+tile(MovingShadowBlock,10650,5950){
+	MovingPosCount=1
+	disabled=0
+	id=918
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(ShadowBlock,8950,5750)
+tile(ShadowBlock,8900,5750)
+tile(ShadowBlock,8850,5750)
+tile(ShadowBlock,8800,5750)
+tile(ShadowBlock,8750,5750)
+tile(ShadowBlock,8700,5750)
+tile(ShadowBlock,8650,5750)
+tile(ShadowBlock,8600,5750)
+tile(ShadowBlock,9000,5750)
+tile(ShadowBlock,9050,5750)
+tile(ShadowBlock,9100,5750)
+tile(ShadowBlock,9150,5750)
+tile(ShadowBlock,9250,5750)
+tile(ShadowBlock,9200,5750)
+tile(ShadowBlock,9300,5750)
+tile(ShadowBlock,9350,5750)
+tile(ShadowBlock,9450,5750)
+tile(ShadowBlock,9400,5750)
+tile(ShadowBlock,9500,5750)
+tile(ShadowBlock,9600,5750)
+tile(ShadowBlock,9550,5750)
+tile(ShadowBlock,9650,5750)
+tile(ShadowBlock,9700,5750)
+tile(ShadowBlock,9800,5750)
+tile(ShadowBlock,9750,5750)
+tile(ShadowBlock,9950,5750)
+tile(ShadowBlock,9900,5750)
+tile(ShadowBlock,9850,5750)
+tile(ShadowBlock,8550,5800)
+tile(ShadowBlock,8500,5800)
+tile(ShadowBlock,8450,5800)
+tile(ShadowBlock,8400,5800)
+tile(ShadowBlock,8350,5850)
+tile(ShadowBlock,8300,5850)
+tile(ShadowBlock,8250,5850)
+tile(ShadowBlock,8100,5950)
+tile(ShadowBlock,8200,5900)
+tile(ShadowBlock,8150,5900)
+tile(ShadowBlock,8050,6000)
+tile(ShadowBlock,8000,6050)
+tile(ShadowBlock,7950,6100)
+tile(ShadowBlock,7950,6150)
+tile(ShadowBlock,7900,6200)
+tile(ShadowBlock,7900,6250)
+tile(ShadowBlock,7900,6300)
+tile(ShadowBlock,7850,6350)
+tile(ShadowBlock,7850,6400)
+tile(ShadowBlock,7850,6450)
+tile(ShadowBlock,7850,6500)
+tile(ShadowBlock,7800,6550)
+tile(ShadowBlock,7800,6600)
+tile(ShadowBlock,7800,6650)
+tile(ShadowBlock,7800,6700)
+tile(ShadowBlock,7800,6750)
+tile(ShadowBlock,7800,6800)
+tile(ShadowBlock,7800,6850)
+tile(ShadowBlock,7800,6900)
+tile(ShadowBlock,7800,6950)
+tile(ShadowBlock,7800,7000)
+tile(ShadowBlock,7800,7050)
+tile(ShadowBlock,7800,7100)
+tile(ShadowBlock,7800,7150)
+tile(ShadowBlock,7800,7200)
+tile(ShadowBlock,7800,7250)
+tile(ShadowBlock,7800,7300)
+tile(ShadowBlock,7800,7350)
+tile(ShadowBlock,7800,7400)
+tile(ShadowBlock,7800,7450)
+tile(ShadowBlock,7800,7500)
+tile(ShadowBlock,7800,7550)
+tile(ShadowBlock,7850,7600)
+tile(ShadowBlock,7850,7650)
+tile(ShadowBlock,7850,7700)
+tile(ShadowBlock,7900,7750)
+tile(ShadowBlock,7950,7850)
+tile(ShadowBlock,7900,7800)
+tile(ShadowBlock,8000,7900)
+tile(ShadowBlock,8050,7950)
+tile(ShadowBlock,8100,7950)
+tile(ShadowBlock,8150,8000)
+tile(ShadowBlock,8200,8000)
+tile(ShadowBlock,8250,8000)
+tile(ShadowBlock,8300,8050)
+tile(ShadowBlock,8350,8050)
+tile(ShadowBlock,8400,8050)
+tile(ShadowBlock,8450,8050)
+tile(ShadowBlock,8500,8000)
+tile(ShadowBlock,8550,8000)
+tile(ShadowBlock,8600,8000)
+tile(ShadowBlock,8650,7950)
+tile(ShadowBlock,8700,7950)
+tile(ShadowBlock,8750,7900)
+tile(ShadowBlock,8800,7850)
+tile(ShadowBlock,8850,7800)
+tile(ShadowBlock,8850,7750)
+tile(ShadowBlock,8900,7700)
+tile(ShadowBlock,8900,7650)
+tile(ShadowBlock,8900,7600)
+tile(ShadowBlock,8950,7550)
+tile(ShadowBlock,8950,7500)
+tile(ShadowBlock,8950,7450)
+tile(ShadowBlock,8950,7400)
+tile(ShadowBlock,8900,7350)
+tile(ShadowBlock,8900,7300)
+tile(ShadowBlock,8900,7250)
+tile(ShadowBlock,8850,7200)
+tile(ShadowBlock,8850,7150)
+tile(ShadowBlock,8800,7100)
+tile(ShadowBlock,8750,7050)
+tile(ShadowBlock,8700,7000)
+tile(ShadowBlock,8650,7000)
+tile(ShadowBlock,8600,6950)
+tile(ShadowBlock,8550,6950)
+tile(ShadowBlock,8500,6950)
+tile(ShadowBlock,8450,6900)
+tile(ShadowBlock,8400,6900)
+tile(ShadowBlock,8350,6900)
+tile(ShadowBlock,8300,6900)
+tile(ShadowBlock,8250,6900)
+tile(ShadowBlock,8200,6900)
+tile(ShadowBlock,8150,6900)
+tile(ShadowBlock,8100,6900)
+tile(ShadowBlock,8050,6900)
+tile(ShadowBlock,8000,6900)
+tile(ShadowBlock,7950,6900)
+tile(ShadowBlock,7900,6900)
+tile(ShadowBlock,7850,6900)
+tile(ShadowBlock,7700,6900)
+tile(ShadowBlock,7650,6900)
+tile(ShadowBlock,7600,6900)
+tile(Teleporter,9950,5700){
+	automatic=1
+	destination=923
+	id=919
+}
+tile(Teleporter,9950,5650){
+	automatic=0
+	id=920
+}
+tile(Teleporter,9900,5700){
+	automatic=1
+	destination=922
+	id=921
+}
+tile(Teleporter,9850,5650){
+	automatic=0
+	id=922
+}
+tile(Teleporter,9900,5650){
+	automatic=0
+	id=923
+}
+tile(Teleporter,9850,5700){
+	automatic=1
+	destination=926
+	id=924
+}
+tile(Teleporter,9800,5700){
+	automatic=1
+	destination=928
+	id=925
+}
+tile(Teleporter,9800,5650){
+	automatic=0
+	id=926
+}
+tile(Teleporter,9750,5700){
+	automatic=1
+	destination=930
+	id=927
+}
+tile(Teleporter,9750,5650){
+	automatic=0
+	id=928
+}
+tile(Teleporter,9700,5700){
+	automatic=1
+	destination=932
+	id=929
+}
+tile(Teleporter,9700,5650){
+	automatic=0
+	id=930
+}
+tile(Teleporter,9650,5700){
+	automatic=1
+	destination=934
+	id=931
+}
+tile(Teleporter,9650,5650){
+	automatic=0
+	id=932
+}
+tile(Teleporter,9600,5700){
+	automatic=1
+	destination=936
+	id=933
+}
+tile(Teleporter,9600,5650){
+	automatic=0
+	id=934
+}
+tile(Teleporter,9550,5700){
+	automatic=1
+	destination=938
+	id=935
+}
+tile(Teleporter,9550,5650){
+	automatic=0
+	id=936
+}
+tile(Teleporter,9500,5700){
+	automatic=1
+	destination=940
+	id=937
+}
+tile(Teleporter,9500,5650){
+	automatic=0
+	id=938
+}
+tile(Teleporter,9450,5700){
+	automatic=1
+	destination=942
+	id=939
+}
+tile(Teleporter,9450,5650){
+	automatic=0
+	id=940
+}
+tile(Teleporter,9400,5700){
+	automatic=1
+	destination=944
+	id=941
+}
+tile(Teleporter,9400,5650){
+	automatic=0
+	id=942
+}
+tile(Teleporter,9350,5700){
+	automatic=1
+	destination=946
+	id=943
+}
+tile(Teleporter,9350,5650){
+	automatic=0
+	id=944
+}
+tile(Teleporter,9300,5700){
+	automatic=1
+	destination=948
+	id=945
+}
+tile(Teleporter,9300,5650){
+	automatic=0
+	id=946
+}
+tile(Teleporter,9250,5700){
+	automatic=1
+	destination=950
+	id=947
+}
+tile(Teleporter,9250,5650){
+	automatic=0
+	id=948
+}
+tile(Teleporter,9200,5700){
+	automatic=1
+	destination=952
+	id=949
+}
+tile(Teleporter,9200,5650){
+	automatic=0
+	id=950
+}
+tile(Teleporter,9150,5700){
+	automatic=1
+	destination=954
+	id=951
+}
+tile(Teleporter,9150,5650){
+	automatic=0
+	id=952
+}
+tile(Teleporter,9100,5700){
+	automatic=1
+	destination=956
+	id=953
+}
+tile(Teleporter,9100,5650){
+	automatic=0
+	id=954
+}
+tile(Teleporter,9050,5700){
+	automatic=1
+	destination=958
+	id=955
+}
+tile(Teleporter,9050,5650){
+	automatic=0
+	id=956
+}
+tile(Teleporter,9000,5700){
+	automatic=1
+	destination=960
+	id=957
+}
+tile(Teleporter,9000,5650){
+	automatic=0
+	id=958
+}
+tile(Teleporter,8950,5700){
+	automatic=1
+	destination=962
+	id=959
+}
+tile(Teleporter,8950,5650){
+	automatic=0
+	id=960
+}
+tile(Teleporter,8900,5700){
+	automatic=1
+	destination=964
+	id=961
+}
+tile(Teleporter,8900,5650){
+	automatic=0
+	id=962
+}
+tile(Teleporter,8850,5700){
+	automatic=1
+	destination=966
+	id=963
+}
+tile(Teleporter,8850,5650){
+	automatic=0
+	id=964
+}
+tile(Teleporter,8800,5700){
+	automatic=1
+	destination=968
+	id=965
+}
+tile(Teleporter,8800,5650){
+	automatic=0
+	id=966
+}
+tile(Teleporter,8750,5700){
+	automatic=1
+	destination=970
+	id=967
+}
+tile(Teleporter,8750,5650){
+	automatic=0
+	id=968
+}
+tile(Teleporter,8700,5700){
+	automatic=1
+	destination=972
+	id=969
+}
+tile(Teleporter,8700,5650){
+	automatic=0
+	id=970
+}
+tile(Teleporter,8650,5700){
+	automatic=1
+	destination=974
+	id=971
+}
+tile(Teleporter,8650,5650){
+	automatic=0
+	id=972
+}
+tile(Teleporter,8600,5700){
+	automatic=1
+	destination=976
+	id=973
+}
+tile(Teleporter,8600,5650){
+	automatic=0
+	id=974
+}
+tile(Teleporter,8550,5750){
+	automatic=1
+	destination=978
+	id=975
+}
+tile(Teleporter,8550,5700){
+	automatic=0
+	id=976
+}
+tile(Teleporter,8500,5750){
+	automatic=1
+	destination=980
+	id=977
+}
+tile(Teleporter,8500,5700){
+	automatic=0
+	id=978
+}
+tile(Teleporter,8450,5750){
+	automatic=1
+	destination=982
+	id=979
+}
+tile(Teleporter,8450,5700){
+	automatic=0
+	id=980
+}
+tile(Teleporter,8400,5750){
+	automatic=1
+	destination=984
+	id=981
+}
+tile(Teleporter,8400,5700){
+	automatic=0
+	id=982
+}
+tile(Teleporter,8350,5800){
+	automatic=1
+	destination=986
+	id=983
+}
+tile(Teleporter,8350,5750){
+	automatic=0
+	id=984
+}
+tile(Teleporter,8300,5800){
+	automatic=1
+	destination=988
+	id=985
+}
+tile(Teleporter,8300,5750){
+	automatic=0
+	id=986
+}
+tile(Teleporter,8250,5800){
+	automatic=1
+	destination=990
+	id=987
+}
+tile(Teleporter,8250,5750){
+	automatic=0
+	id=988
+}
+tile(Teleporter,8200,5850){
+	automatic=1
+	destination=992
+	id=989
+}
+tile(Teleporter,8200,5800){
+	automatic=0
+	id=990
+}
+tile(Teleporter,8150,5850){
+	automatic=1
+	destination=994
+	id=991
+}
+tile(Teleporter,8150,5800){
+	automatic=0
+	id=992
+}
+tile(Teleporter,8100,5900){
+	automatic=1
+	destination=996
+	id=993
+}
+tile(Teleporter,8100,5850){
+	automatic=0
+	id=994
+}
+tile(Teleporter,8050,5950){
+	automatic=1
+	destination=998
+	id=995
+}
+tile(Teleporter,8050,5900){
+	automatic=0
+	id=996
+}
+tile(Teleporter,8000,6000){
+	automatic=1
+	destination=1000
+	id=997
+}
+tile(Teleporter,8000,5950){
+	automatic=0
+	id=998
+}
+tile(Teleporter,7950,6050){
+	automatic=1
+	destination=1002
+	id=999
+}
+tile(Teleporter,7950,6000){
+	automatic=0
+	id=1000
+}
+tile(Teleporter,7900,6150){
+	automatic=1
+	destination=1005
+	id=1001
+}
+tile(Teleporter,7900,6100){
+	automatic=0
+	id=1002
+}
+tile(Teleporter,7850,6300){
+	automatic=0
+	id=1003
+}
+tile(Teleporter,7850,6250){
+	automatic=1
+	destination=1009
+	id=1004
+}
+tile(Teleporter,7850,6200){
+	automatic=0
+	id=1005
+}
+tile(Teleporter,7800,6500){
+	automatic=1
+	destination=1010
+	id=1006
+}
+tile(Teleporter,7800,6450){
+	automatic=0
+	id=1007
+}
+tile(Teleporter,7800,6400){
+	automatic=1
+	destination=1007
+	id=1008
+}
+tile(Teleporter,7800,6350){
+	automatic=0
+	id=1009
+}
+tile(Teleporter,7750,6550){
+	automatic=0
+	id=1010
+}
+tile(Teleporter,7750,6600){
+	automatic=1
+	destination=1012
+	id=1011
+}
+tile(Teleporter,7750,6650){
+	automatic=0
+	id=1012
+}
+tile(Teleporter,7750,6700){
+	automatic=1
+	destination=1014
+	id=1013
+}
+tile(Teleporter,7750,6750){
+	automatic=0
+	id=1014
+}
+tile(Teleporter,7750,6800){
+	automatic=1
+	destination=1016
+	id=1015
+}
+tile(Teleporter,7750,6850){
+	automatic=0
+	id=1016
+}
+tile(Teleporter,7750,6900){
+	automatic=1
+	destination=1018
+	id=1017
+}
+tile(Teleporter,7750,6950){
+	automatic=0
+	id=1018
+}
+tile(Teleporter,7750,7000){
+	automatic=1
+	destination=1020
+	id=1019
+}
+tile(Teleporter,7750,7050){
+	automatic=0
+	id=1020
+}
+tile(Teleporter,7750,7100){
+	automatic=1
+	destination=1022
+	id=1021
+}
+tile(Teleporter,7750,7150){
+	automatic=0
+	id=1022
+}
+tile(Teleporter,7750,7200){
+	automatic=1
+	destination=1024
+	id=1023
+}
+tile(Teleporter,7750,7250){
+	automatic=0
+	id=1024
+}
+tile(Teleporter,7750,7300){
+	automatic=1
+	destination=1026
+	id=1025
+}
+tile(Teleporter,7750,7350){
+	automatic=0
+	id=1026
+}
+tile(Teleporter,7750,7400){
+	automatic=1
+	destination=1028
+	id=1027
+}
+tile(Teleporter,7750,7450){
+	automatic=0
+	id=1028
+}
+tile(Teleporter,7750,7500){
+	automatic=1
+	destination=1031
+	id=1029
+}
+tile(Teleporter,7750,7550){
+	automatic=0
+	id=1030
+}
+tile(Teleporter,7800,7600){
+	automatic=0
+	id=1031
+}
+tile(Teleporter,7800,7700){
+	automatic=0
+	id=1032
+}
+tile(Teleporter,7800,7650){
+	automatic=1
+	destination=1034
+	id=1033
+}
+tile(Teleporter,7850,7750){
+	automatic=0
+	id=1034
+}
+tile(Teleporter,7850,7800){
+	automatic=1
+	destination=1036
+	id=1035
+}
+tile(Teleporter,7900,7850){
+	automatic=0
+	id=1036
+}
+tile(Teleporter,7900,7900){
+	automatic=1
+	destination=1038
+	id=1037
+}
+tile(Teleporter,7950,7900){
+	automatic=0
+	id=1038
+}
+tile(Teleporter,7950,7950){
+	automatic=1
+	destination=1040
+	id=1039
+}
+tile(Teleporter,8000,7950){
+	automatic=0
+	id=1040
+}
+tile(Teleporter,8000,8000){
+	automatic=1
+	destination=1042
+	id=1041
+}
+tile(Teleporter,8050,8000){
+	automatic=0
+	id=1042
+}
+tile(Teleporter,8050,8050){
+	automatic=1
+	destination=1044
+	id=1043
+}
+tile(Teleporter,8100,8000){
+	automatic=0
+	id=1044
+}
+tile(Teleporter,8100,8050){
+	automatic=1
+	destination=1046
+	id=1045
+}
+tile(Teleporter,8150,8050){
+	automatic=0
+	id=1046
+}
+tile(Teleporter,8150,8100){
+	automatic=1
+	destination=1048
+	id=1047
+}
+tile(Teleporter,8200,8050){
+	automatic=0
+	id=1048
+}
+tile(Teleporter,8200,8100){
+	automatic=1
+	destination=1050
+	id=1049
+}
+tile(Teleporter,8250,8050){
+	automatic=0
+	id=1050
+}
+tile(Teleporter,8250,8100){
+	automatic=1
+	destination=1052
+	id=1051
+}
+tile(Teleporter,8300,8100){
+	automatic=0
+	id=1052
+}
+tile(Teleporter,8300,8150){
+	automatic=1
+	destination=1054
+	id=1053
+}
+tile(Teleporter,8350,8100){
+	automatic=0
+	id=1054
+}
+tile(Teleporter,8350,8150){
+	automatic=1
+	destination=1056
+	id=1055
+}
+tile(Teleporter,8400,8100){
+	automatic=0
+	id=1056
+}
+tile(Teleporter,8400,8150){
+	automatic=1
+	destination=1058
+	id=1057
+}
+tile(Teleporter,8450,8100){
+	automatic=0
+	id=1058
+}
+tile(Teleporter,8450,8150){
+	automatic=1
+	destination=1061
+	id=1059
+}
+tile(Teleporter,8500,8100){
+	automatic=1
+	destination=1063
+	id=1060
+}
+tile(Teleporter,8500,8050){
+	automatic=0
+	id=1061
+}
+tile(Teleporter,8550,8100){
+	automatic=1
+	destination=1065
+	id=1062
+}
+tile(Teleporter,8550,8050){
+	automatic=0
+	id=1063
+}
+tile(Teleporter,8600,8100){
+	automatic=1
+	destination=1067
+	id=1064
+}
+tile(Teleporter,8600,8050){
+	automatic=0
+	id=1065
+}
+tile(Teleporter,8650,8050){
+	automatic=1
+	destination=1069
+	id=1066
+}
+tile(Teleporter,8650,8000){
+	automatic=0
+	id=1067
+}
+tile(Teleporter,8700,8050){
+	automatic=1
+	destination=1071
+	id=1068
+}
+tile(Teleporter,8700,8000){
+	automatic=0
+	id=1069
+}
+tile(Teleporter,8750,8000){
+	automatic=1
+	destination=1072
+	id=1070
+}
+tile(Teleporter,8750,7950){
+	automatic=0
+	id=1071
+}
+tile(Teleporter,8800,7900){
+	automatic=0
+	id=1072
+}
+tile(Teleporter,8800,7950){
+	automatic=1
+	destination=1074
+	id=1073
+}
+tile(Teleporter,8850,7850){
+	automatic=0
+	id=1074
+}
+tile(Teleporter,8850,7900){
+	automatic=1
+	destination=1076
+	id=1075
+}
+tile(Teleporter,8900,7750){
+	automatic=0
+	id=1076
+}
+tile(Teleporter,8900,7800){
+	automatic=1
+	destination=1079
+	id=1077
+}
+tile(Teleporter,8950,7700){
+	automatic=1
+	destination=1080
+	id=1078
+}
+tile(Teleporter,8950,7650){
+	automatic=1
+	destination=1082
+	id=1079
+}
+tile(Teleporter,8950,7600){
+	automatic=0
+	id=1080
+}
+tile(Teleporter,9000,7550){
+	automatic=1
+	destination=1084
+	id=1081
+}
+tile(Teleporter,9000,7500){
+	automatic=0
+	id=1082
+}
+tile(Teleporter,9000,7450){
+	automatic=1
+	destination=1086
+	id=1083
+}
+tile(Teleporter,9000,7400){
+	automatic=0
+	id=1084
+}
+tile(Teleporter,8950,7350){
+	automatic=1
+	destination=1087
+	id=1085
+}
+tile(Teleporter,8950,7300){
+	automatic=1
+	destination=1089
+	id=1086
+}
+tile(Teleporter,8950,7250){
+	automatic=0
+	id=1087
+}
+tile(Teleporter,8900,7200){
+	automatic=1
+	destination=1091
+	id=1088
+}
+tile(Teleporter,8900,7150){
+	automatic=0
+	id=1089
+}
+tile(Teleporter,8850,7100){
+	automatic=1
+	destination=1093
+	id=1090
+}
+tile(Teleporter,8850,7050){
+	automatic=0
+	id=1091
+}
+tile(Teleporter,8800,7050){
+	automatic=1
+	destination=1095
+	id=1092
+}
+tile(Teleporter,8800,7000){
+	automatic=0
+	id=1093
+}
+tile(Teleporter,8750,7000){
+	automatic=1
+	destination=1098
+	id=1094
+}
+tile(Teleporter,8750,6950){
+	automatic=0
+	id=1095
+}
+tile(Teleporter,8650,6950){
+	automatic=1
+	destination=1105
+	id=1096
+}
+tile(Teleporter,8700,6950){
+	automatic=1
+	destination=1099
+	id=1097
+}
+tile(Teleporter,8700,6900){
+	automatic=0
+	id=1098
+}
+tile(Teleporter,8650,6900){
+	automatic=0
+	id=1099
+}
+tile(Teleporter,8600,6900){
+	automatic=1
+	destination=1104
+	id=1100
+}
+tile(Teleporter,8550,6900){
+	automatic=1
+	destination=1103
+	id=1101
+}
+tile(Teleporter,8500,6900){
+	automatic=1
+	destination=1107
+	id=1102
+}
+tile(Teleporter,8500,6850){
+	automatic=0
+	id=1103
+}
+tile(Teleporter,8550,6850){
+	automatic=0
+	id=1104
+}
+tile(Teleporter,8600,6850){
+	automatic=0
+	id=1105
+}
+tile(Teleporter,8450,6850){
+	automatic=1
+	destination=1109
+	id=1106
+}
+tile(Teleporter,8450,6800){
+	automatic=0
+	id=1107
+}
+tile(Teleporter,8400,6850){
+	automatic=1
+	destination=1111
+	id=1108
+}
+tile(Teleporter,8400,6800){
+	automatic=0
+	id=1109
+}
+tile(Teleporter,8350,6850){
+	automatic=1
+	destination=1112
+	id=1110
+}
+tile(Teleporter,8350,6800){
+	automatic=0
+	id=1111
+}
+tile(Teleporter,8300,6800){
+	automatic=0
+	id=1112
+}
+tile(Teleporter,8300,6850){
+	automatic=1
+	destination=1115
+	id=1113
+}
+tile(Teleporter,8250,6850){
+	automatic=1
+	destination=1117
+	id=1114
+}
+tile(Teleporter,8250,6800){
+	automatic=0
+	id=1115
+}
+tile(Teleporter,8200,6850){
+	automatic=1
+	destination=1119
+	id=1116
+}
+tile(Teleporter,8200,6800){
+	automatic=0
+	id=1117
+}
+tile(Teleporter,8150,6850){
+	automatic=1
+	destination=1121
+	id=1118
+}
+tile(Teleporter,8150,6800){
+	automatic=0
+	id=1119
+}
+tile(Teleporter,8100,6850){
+	automatic=1
+	destination=1123
+	id=1120
+}
+tile(Teleporter,8100,6800){
+	automatic=0
+	id=1121
+}
+tile(Teleporter,8050,6850){
+	automatic=1
+	destination=1125
+	id=1122
+}
+tile(Teleporter,8050,6800){
+	automatic=0
+	id=1123
+}
+tile(Teleporter,8000,6850){
+	automatic=1
+	destination=1127
+	id=1124
+}
+tile(Teleporter,8000,6800){
+	automatic=0
+	id=1125
+}
+tile(Teleporter,7950,6850){
+	automatic=1
+	destination=1129
+	id=1126
+}
+tile(Teleporter,7950,6800){
+	automatic=0
+	id=1127
+}
+tile(Teleporter,7900,6850){
+	automatic=1
+	destination=1131
+	id=1128
+}
+tile(Teleporter,7900,6800){
+	automatic=0
+	id=1129
+}
+tile(Teleporter,7850,6850){
+	automatic=1
+	destination=1133
+	id=1130
+}
+tile(Teleporter,7850,6800){
+	automatic=0
+	id=1131
+}
+tile(Teleporter,7700,6850){
+	automatic=1
+	destination=1135
+	id=1132
+}
+tile(Teleporter,7700,6800){
+	automatic=0
+	id=1133
+}
+tile(Teleporter,7650,6850){
+	automatic=1
+	destination=1137
+	id=1134
+}
+tile(Teleporter,7650,6800){
+	automatic=0
+	id=1135
+}
+tile(Teleporter,7600,6850){
+	automatic=1
+	destination=1157
+	id=1136
+}
+tile(Teleporter,7600,6800){
+	automatic=0
+	id=1137
+}
+tile(ShadowBlock,7550,6900)
+tile(ShadowBlock,7450,6900)
+tile(ShadowBlock,7500,6900)
+tile(ShadowBlock,7400,6900)
+tile(ShadowBlock,7300,6900)
+tile(ShadowBlock,7350,6900)
+tile(ShadowBlock,7250,6900)
+tile(ShadowBlock,7200,6900)
+tile(ShadowBlock,7150,6900)
+tile(ShadowBlock,7100,6900)
+tile(ShadowBlock,7050,6900)
+tile(ShadowBlock,7000,6900)
+tile(ShadowBlock,6950,6900)
+tile(ShadowBlock,6900,6900)
+tile(ShadowBlock,6850,6900)
+tile(ShadowBlock,6800,6900)
+tile(ShadowBlock,6750,6900)
+tile(ShadowBlock,6700,6900)
+tile(ShadowBlock,6650,6900)
+tile(ShadowBlock,6600,6900)
+tile(ShadowBlock,6550,6900)
+tile(ShadowBlock,6500,6900)
+tile(ShadowBlock,6450,6900)
+tile(ShadowBlock,6400,6900)
+tile(ShadowBlock,6350,6900)
+tile(ShadowBlock,6300,6900)
+tile(ShadowBlock,6250,6900)
+tile(ShadowBlock,6200,6900)
+tile(ShadowBlock,6150,6900)
+tile(ShadowBlock,6100,6900)
+tile(ShadowBlock,6050,6900)
+tile(ShadowBlock,6000,6900)
+tile(ShadowBlock,5950,6900)
+tile(ShadowBlock,5900,6850)
+tile(ShadowBlock,5850,6850)
+tile(ShadowBlock,5800,6850)
+tile(ShadowBlock,5750,6800)
+tile(ShadowBlock,5700,6800)
+tile(ShadowBlock,5650,6750)
+tile(ShadowBlock,5600,6700)
+tile(ShadowBlock,5550,6650)
+tile(ShadowBlock,5500,6600)
+tile(ShadowBlock,5450,6600)
+tile(ShadowBlock,5400,6550)
+tile(ShadowBlock,5350,6550)
+tile(ShadowBlock,5300,6550)
+tile(ShadowBlock,5250,6500)
+tile(ShadowBlock,5200,6500)
+tile(ShadowBlock,5150,6500)
+tile(ShadowBlock,5100,6500)
+tile(ShadowBlock,5050,6550)
+tile(ShadowBlock,4950,6550)
+tile(ShadowBlock,5000,6550)
+tile(ShadowBlock,4900,6600)
+tile(ShadowBlock,4850,6600)
+tile(ShadowBlock,4800,6650)
+tile(ShadowBlock,4750,6700)
+tile(ShadowBlock,4700,6750)
+tile(ShadowBlock,4650,6800)
+tile(ShadowBlock,4600,6800)
+tile(ShadowBlock,4550,6850)
+tile(ShadowBlock,4500,6850)
+tile(ShadowBlock,4450,6850)
+tile(ShadowBlock,4400,6900)
+tile(ShadowBlock,4350,6900)
+tile(ShadowBlock,4300,6900)
+tile(ShadowBlock,4250,6900)
+tile(ShadowBlock,4200,6950)
+tile(ShadowBlock,4150,6950)
+tile(ShadowBlock,4100,6950)
+tile(ShadowBlock,4050,7000)
+tile(ShadowBlock,4000,7000)
+tile(ShadowBlock,3950,7050)
+tile(ShadowBlock,3900,7100)
+tile(ShadowBlock,3850,7150)
+tile(ShadowBlock,3800,7200)
+tile(ShadowBlock,3750,7200)
+tile(ShadowBlock,3700,7250)
+tile(ShadowBlock,3650,7250)
+tile(ShadowBlock,3600,7250)
+tile(ShadowBlock,3550,7300)
+tile(ShadowBlock,3500,7300)
+tile(ShadowBlock,3450,7300)
+tile(ShadowBlock,3400,7300)
+tile(ShadowBlock,3350,7350)
+tile(ShadowBlock,3300,7350)
+tile(ShadowBlock,3250,7350)
+tile(ShadowBlock,3200,7400)
+tile(ShadowBlock,3150,7400)
+tile(ShadowBlock,3100,7450)
+tile(ShadowBlock,3050,7500)
+tile(ShadowBlock,3000,7550)
+tile(ShadowBlock,2950,7600)
+tile(ShadowBlock,2900,7600)
+tile(ShadowBlock,2850,7650)
+tile(ShadowBlock,2800,7650)
+tile(ShadowBlock,2750,7650)
+tile(ShadowBlock,2700,7700)
+tile(ShadowBlock,2650,7700)
+tile(ShadowBlock,2550,7700)
+tile(ShadowBlock,2600,7700)
+tile(ShadowBlock,2500,7650)
+tile(ShadowBlock,2450,7650)
+tile(ShadowBlock,2400,7650)
+tile(ShadowBlock,2350,7600)
+tile(ShadowBlock,2300,7600)
+tile(ShadowBlock,2250,7550)
+tile(ShadowBlock,2200,7500)
+tile(ShadowBlock,2150,7450)
+tile(ShadowBlock,2100,7400)
+tile(ShadowBlock,2050,7400)
+tile(ShadowBlock,2000,7350)
+tile(ShadowBlock,1950,7350)
+tile(ShadowBlock,1900,7350)
+tile(ShadowBlock,1850,7300)
+tile(ShadowBlock,1800,7300)
+tile(ShadowBlock,1750,7300)
+tile(ShadowBlock,1700,7300)
+tile(ShadowBlock,1650,7250)
+tile(ShadowBlock,1600,7250)
+tile(ShadowBlock,1550,7250)
+tile(ShadowBlock,1500,7200)
+tile(ShadowBlock,1450,7200)
+tile(ShadowBlock,1400,7150)
+tile(ShadowBlock,1350,7100)
+tile(ShadowBlock,1300,7050)
+tile(ShadowBlock,1250,7000)
+tile(ShadowBlock,1200,7000)
+tile(ShadowBlock,1150,6950)
+tile(ShadowBlock,1100,6950)
+tile(ShadowBlock,1050,6950)
+tile(ShadowBlock,1000,6900)
+tile(ShadowBlock,950,6900)
+tile(ShadowBlock,900,6900)
+tile(ShadowBlock,850,6900)
+tile(ShadowBlock,800,6950)
+tile(ShadowBlock,750,6950)
+tile(ShadowBlock,700,6950)
+tile(ShadowBlock,650,7000)
+tile(ShadowBlock,600,7000)
+tile(ShadowBlock,550,7050)
+tile(ShadowBlock,500,7100)
+tile(ShadowBlock,450,7150)
+tile(ShadowBlock,400,7200)
+tile(ShadowBlock,350,7250)
+tile(ShadowBlock,350,7300)
+tile(ShadowBlock,350,7350)
+tile(ShadowBlock,400,7400)
+tile(ShadowBlock,450,7450)
+tile(ShadowBlock,500,7500)
+tile(ShadowBlock,550,7550)
+tile(ShadowBlock,600,7600)
+tile(ShadowBlock,650,7600)
+tile(ShadowBlock,700,7650)
+tile(ShadowBlock,750,7650)
+tile(ShadowBlock,800,7650)
+tile(ShadowBlock,850,7700)
+tile(ShadowBlock,900,7700)
+tile(ShadowBlock,950,7700)
+tile(ShadowBlock,1000,7700)
+tile(ShadowBlock,1050,7650)
+tile(ShadowBlock,1100,7650)
+tile(ShadowBlock,1150,7650)
+tile(ShadowBlock,1200,7600)
+tile(ShadowBlock,1250,7600)
+tile(ShadowBlock,1350,7500)
+tile(ShadowBlock,1300,7550)
+tile(ShadowBlock,1400,7450)
+tile(ShadowBlock,1450,7400)
+tile(ShadowBlock,1500,7400)
+tile(ShadowBlock,2050,7200)
+tile(ShadowBlock,2100,7200)
+tile(ShadowBlock,2150,7150)
+tile(ShadowBlock,2200,7100)
+tile(ShadowBlock,2250,7050)
+tile(ShadowBlock,2300,7000)
+tile(ShadowBlock,2350,7000)
+tile(ShadowBlock,2400,6950)
+tile(ShadowBlock,2450,6950)
+tile(ShadowBlock,2500,6950)
+tile(ShadowBlock,2550,6900)
+tile(ShadowBlock,2600,6900)
+tile(ShadowBlock,2650,6900)
+tile(ShadowBlock,2700,6900)
+tile(ShadowBlock,2750,6950)
+tile(ShadowBlock,2800,6950)
+tile(ShadowBlock,2850,6950)
+tile(ShadowBlock,2900,7000)
+tile(ShadowBlock,2950,7000)
+tile(ShadowBlock,3000,7050)
+tile(ShadowBlock,3050,7100)
+tile(ShadowBlock,3100,7150)
+tile(ShadowBlock,3150,7200)
+tile(ShadowBlock,3200,7200)
+tile(ShadowBlock,3750,7400)
+tile(ShadowBlock,3800,7400)
+tile(ShadowBlock,3850,7450)
+tile(ShadowBlock,3900,7500)
+tile(ShadowBlock,3950,7550)
+tile(ShadowBlock,4000,7600)
+tile(ShadowBlock,4050,7600)
+tile(ShadowBlock,4100,7650)
+tile(ShadowBlock,4150,7650)
+tile(ShadowBlock,4200,7650)
+tile(ShadowBlock,4250,7700)
+tile(ShadowBlock,4300,7700)
+tile(ShadowBlock,4350,7700)
+tile(ShadowBlock,4400,7750)
+tile(ShadowBlock,4450,7750)
+tile(ShadowBlock,4500,7750)
+tile(ShadowBlock,4550,7800)
+tile(ShadowBlock,4600,7800)
+tile(ShadowBlock,4650,7800)
+tile(ShadowBlock,4700,7850)
+tile(ShadowBlock,4750,7850)
+tile(ShadowBlock,4800,7850)
+tile(Teleporter,7550,6850){
+	automatic=1
+	destination=1159
+	id=1156
+}
+tile(Teleporter,7550,6800){
+	automatic=0
+	id=1157
+}
+tile(Teleporter,7500,6850){
+	automatic=1
+	destination=1161
+	id=1158
+}
+tile(Teleporter,7500,6800){
+	automatic=0
+	id=1159
+}
+tile(Teleporter,7450,6850){
+	automatic=1
+	destination=1163
+	id=1160
+}
+tile(Teleporter,7450,6800){
+	automatic=0
+	id=1161
+}
+tile(Teleporter,7400,6850){
+	automatic=1
+	destination=1165
+	id=1162
+}
+tile(Teleporter,7400,6800){
+	automatic=0
+	id=1163
+}
+tile(Teleporter,7350,6850){
+	automatic=1
+	destination=1167
+	id=1164
+}
+tile(Teleporter,7350,6800){
+	automatic=0
+	id=1165
+}
+tile(Teleporter,7300,6850){
+	automatic=1
+	destination=1171
+	id=1166
+}
+tile(Teleporter,7300,6800){
+	automatic=0
+	id=1167
+}
+tile(Teleporter,7250,6850){
+	automatic=1
+	destination=1169
+	id=1168
+}
+tile(Teleporter,7200,6800){
+	automatic=0
+	id=1169
+}
+tile(Teleporter,7200,6850){
+	automatic=1
+	destination=1173
+	id=1170
+}
+tile(Teleporter,7250,6800){
+	automatic=0
+	id=1171
+}
+tile(Teleporter,7150,6850){
+	automatic=1
+	destination=1175
+	id=1172
+}
+tile(Teleporter,7150,6800){
+	automatic=0
+	id=1173
+}
+tile(Teleporter,7100,6850){
+	automatic=1
+	destination=1177
+	id=1174
+}
+tile(Teleporter,7100,6800){
+	automatic=0
+	id=1175
+}
+tile(Teleporter,7050,6850){
+	automatic=1
+	destination=1179
+	id=1176
+}
+tile(Teleporter,7050,6800){
+	automatic=0
+	id=1177
+}
+tile(Teleporter,7000,6850){
+	automatic=1
+	destination=1180
+	id=1178
+}
+tile(Teleporter,7000,6800){
+	automatic=0
+	id=1179
+}
+tile(Teleporter,6950,6800){
+	automatic=0
+	id=1180
+}
+tile(Teleporter,6950,6850){
+	automatic=1
+	destination=1183
+	id=1181
+}
+tile(Teleporter,6900,6850){
+	automatic=1
+	destination=1185
+	id=1182
+}
+tile(Teleporter,6900,6800){
+	automatic=0
+	id=1183
+}
+tile(Teleporter,6850,6850){
+	automatic=1
+	destination=1187
+	id=1184
+}
+tile(Teleporter,6850,6800){
+	automatic=0
+	id=1185
+}
+tile(Teleporter,6800,6850){
+	automatic=1
+	destination=1190
+	id=1186
+}
+tile(Teleporter,6800,6800){
+	automatic=0
+	id=1187
+}
+tile(Teleporter,6750,6850){
+	automatic=1
+	destination=1189
+	id=1188
+}
+tile(Teleporter,6700,6800){
+	automatic=0
+	id=1189
+}
+tile(Teleporter,6750,6800){
+	automatic=0
+	id=1190
+}
+tile(Teleporter,6700,6850){
+	automatic=1
+	destination=1193
+	id=1191
+}
+tile(Teleporter,6650,6850){
+	automatic=1
+	destination=1195
+	id=1192
+}
+tile(Teleporter,6650,6800){
+	automatic=0
+	id=1193
+}
+tile(Teleporter,6600,6850){
+	automatic=1
+	destination=1198
+	id=1194
+}
+tile(Teleporter,6600,6800){
+	automatic=0
+	id=1195
+}
+tile(Teleporter,6550,6850){
+	automatic=1
+	destination=1197
+	id=1196
+}
+tile(Teleporter,6500,6800){
+	automatic=0
+	id=1197
+}
+tile(Teleporter,6550,6800){
+	automatic=0
+	id=1198
+}
+tile(Teleporter,6500,6850){
+	automatic=1
+	destination=1201
+	id=1199
+}
+tile(Teleporter,6450,6850){
+	automatic=1
+	destination=1205
+	id=1200
+}
+tile(Teleporter,6450,6800){
+	automatic=0
+	id=1201
+}
+tile(Teleporter,6400,6850){
+	automatic=1
+	destination=1203
+	id=1202
+}
+tile(Teleporter,6350,6800){
+	automatic=0
+	id=1203
+}
+tile(Teleporter,6350,6850){
+	automatic=1
+	destination=1207
+	id=1204
+}
+tile(Teleporter,6400,6800){
+	automatic=0
+	id=1205
+}
+tile(Teleporter,6300,6850){
+	automatic=1
+	destination=1209
+	id=1206
+}
+tile(Teleporter,6300,6800){
+	automatic=0
+	id=1207
+}
+tile(Teleporter,6250,6850){
+	automatic=1
+	destination=1211
+	id=1208
+}
+tile(Teleporter,6250,6800){
+	automatic=0
+	id=1209
+}
+tile(Teleporter,6200,6850){
+	automatic=1
+	destination=1213
+	id=1210
+}
+tile(Teleporter,6200,6800){
+	automatic=0
+	id=1211
+}
+tile(Teleporter,6150,6850){
+	automatic=1
+	destination=1216
+	id=1212
+}
+tile(Teleporter,6150,6800){
+	automatic=0
+	id=1213
+}
+tile(Teleporter,6050,6850){
+	automatic=1
+	destination=1219
+	id=1214
+}
+tile(Teleporter,6050,6800){
+	automatic=0
+	id=1215
+}
+tile(Teleporter,6100,6800){
+	automatic=0
+	id=1216
+}
+tile(Teleporter,6100,6850){
+	automatic=1
+	destination=1215
+	id=1217
+}
+tile(Teleporter,6000,6850){
+	automatic=1
+	destination=1221
+	id=1218
+}
+tile(Teleporter,6000,6800){
+	automatic=0
+	id=1219
+}
+tile(Teleporter,5950,6850){
+	automatic=1
+	destination=1223
+	id=1220
+}
+tile(Teleporter,5950,6800){
+	automatic=0
+	id=1221
+}
+tile(Teleporter,5900,6800){
+	automatic=1
+	destination=1225
+	id=1222
+}
+tile(Teleporter,5900,6750){
+	automatic=0
+	id=1223
+}
+tile(Teleporter,5850,6800){
+	automatic=1
+	destination=1227
+	id=1224
+}
+tile(Teleporter,5850,6750){
+	automatic=0
+	id=1225
+}
+tile(Teleporter,5800,6800){
+	automatic=1
+	destination=1229
+	id=1226
+}
+tile(Teleporter,5800,6750){
+	automatic=0
+	id=1227
+}
+tile(Teleporter,5750,6750){
+	automatic=1
+	destination=1231
+	id=1228
+}
+tile(Teleporter,5750,6700){
+	automatic=0
+	id=1229
+}
+tile(Teleporter,5700,6750){
+	automatic=1
+	destination=1233
+	id=1230
+}
+tile(Teleporter,5700,6700){
+	automatic=0
+	id=1231
+}
+tile(Teleporter,5650,6700){
+	automatic=1
+	destination=1235
+	id=1232
+}
+tile(Teleporter,5650,6650){
+	automatic=0
+	id=1233
+}
+tile(Teleporter,5600,6650){
+	automatic=1
+	destination=1237
+	id=1234
+}
+tile(Teleporter,5600,6600){
+	automatic=0
+	id=1235
+}
+tile(Teleporter,5550,6600){
+	automatic=1
+	destination=1239
+	id=1236
+}
+tile(Teleporter,5550,6550){
+	automatic=0
+	id=1237
+}
+tile(Teleporter,5500,6550){
+	automatic=1
+	destination=1241
+	id=1238
+}
+tile(Teleporter,5500,6500){
+	automatic=0
+	id=1239
+}
+tile(Teleporter,5450,6550){
+	automatic=1
+	destination=1243
+	id=1240
+}
+tile(Teleporter,5450,6500){
+	automatic=0
+	id=1241
+}
+tile(Teleporter,5400,6500){
+	automatic=1
+	destination=1245
+	id=1242
+}
+tile(Teleporter,5400,6450){
+	automatic=0
+	id=1243
+}
+tile(Teleporter,5350,6500){
+	automatic=1
+	destination=1247
+	id=1244
+}
+tile(Teleporter,5350,6450){
+	automatic=0
+	id=1245
+}
+tile(Teleporter,5300,6500){
+	automatic=1
+	destination=1249
+	id=1246
+}
+tile(Teleporter,5300,6450){
+	automatic=0
+	id=1247
+}
+tile(Teleporter,5250,6450){
+	automatic=1
+	destination=1251
+	id=1248
+}
+tile(Teleporter,5250,6400){
+	automatic=0
+	id=1249
+}
+tile(Teleporter,5200,6450){
+	automatic=1
+	destination=1253
+	id=1250
+}
+tile(Teleporter,5200,6400){
+	automatic=0
+	id=1251
+}
+tile(Teleporter,5150,6450){
+	automatic=1
+	destination=1255
+	id=1252
+}
+tile(Teleporter,5150,6400){
+	automatic=0
+	id=1253
+}
+tile(Teleporter,5100,6450){
+	automatic=1
+	destination=1257
+	id=1254
+}
+tile(Teleporter,5100,6400){
+	automatic=0
+	id=1255
+}
+tile(Teleporter,5050,6500){
+	automatic=1
+	destination=1259
+	id=1256
+}
+tile(Teleporter,5050,6450){
+	automatic=0
+	id=1257
+}
+tile(Teleporter,5000,6500){
+	automatic=1
+	destination=1261
+	id=1258
+}
+tile(Teleporter,5000,6450){
+	automatic=0
+	id=1259
+}
+tile(Teleporter,4950,6500){
+	automatic=1
+	destination=1263
+	id=1260
+}
+tile(Teleporter,4950,6450){
+	automatic=0
+	id=1261
+}
+tile(Teleporter,4900,6550){
+	automatic=1
+	destination=1265
+	id=1262
+}
+tile(Teleporter,4900,6500){
+	automatic=0
+	id=1263
+}
+tile(Teleporter,4850,6550){
+	automatic=1
+	destination=1267
+	id=1264
+}
+tile(Teleporter,4850,6500){
+	automatic=0
+	id=1265
+}
+tile(Teleporter,4800,6600){
+	automatic=1
+	destination=1269
+	id=1266
+}
+tile(Teleporter,4800,6550){
+	automatic=0
+	id=1267
+}
+tile(Teleporter,4750,6650){
+	automatic=1
+	destination=1271
+	id=1268
+}
+tile(Teleporter,4750,6600){
+	automatic=0
+	id=1269
+}
+tile(Teleporter,4700,6700){
+	automatic=1
+	destination=1273
+	id=1270
+}
+tile(Teleporter,4700,6650){
+	automatic=0
+	id=1271
+}
+tile(Teleporter,4650,6750){
+	automatic=1
+	destination=1275
+	id=1272
+}
+tile(Teleporter,4650,6700){
+	automatic=0
+	id=1273
+}
+tile(Teleporter,4600,6750){
+	automatic=1
+	destination=1277
+	id=1274
+}
+tile(Teleporter,4600,6700){
+	automatic=0
+	id=1275
+}
+tile(Teleporter,4550,6800){
+	automatic=1
+	destination=1279
+	id=1276
+}
+tile(Teleporter,4550,6750){
+	automatic=0
+	id=1277
+}
+tile(Teleporter,4500,6800){
+	automatic=1
+	destination=1281
+	id=1278
+}
+tile(Teleporter,4500,6750){
+	automatic=0
+	id=1279
+}
+tile(Teleporter,4450,6800){
+	automatic=1
+	destination=1283
+	id=1280
+}
+tile(Teleporter,4450,6750){
+	automatic=0
+	id=1281
+}
+tile(Teleporter,4400,6850){
+	automatic=1
+	destination=1285
+	id=1282
+}
+tile(Teleporter,4400,6800){
+	automatic=0
+	id=1283
+}
+tile(Teleporter,4350,6850){
+	automatic=1
+	destination=1287
+	id=1284
+}
+tile(Teleporter,4350,6800){
+	automatic=0
+	id=1285
+}
+tile(Teleporter,4300,6850){
+	automatic=1
+	destination=1289
+	id=1286
+}
+tile(Teleporter,4300,6800){
+	automatic=0
+	id=1287
+}
+tile(Teleporter,4250,6850){
+	automatic=1
+	destination=1291
+	id=1288
+}
+tile(Teleporter,4250,6800){
+	automatic=0
+	id=1289
+}
+tile(Teleporter,4200,6900){
+	automatic=1
+	destination=1293
+	id=1290
+}
+tile(Teleporter,4200,6850){
+	automatic=0
+	id=1291
+}
+tile(Teleporter,4150,6900){
+	automatic=1
+	destination=1295
+	id=1292
+}
+tile(Teleporter,4150,6850){
+	automatic=0
+	id=1293
+}
+tile(Teleporter,4100,6900){
+	automatic=1
+	destination=1297
+	id=1294
+}
+tile(Teleporter,4100,6850){
+	automatic=0
+	id=1295
+}
+tile(Teleporter,4050,6950){
+	automatic=1
+	destination=1299
+	id=1296
+}
+tile(Teleporter,4050,6900){
+	automatic=0
+	id=1297
+}
+tile(Teleporter,4000,6950){
+	automatic=1
+	destination=1301
+	id=1298
+}
+tile(Teleporter,4000,6900){
+	automatic=0
+	id=1299
+}
+tile(Teleporter,3950,7000){
+	automatic=1
+	destination=1303
+	id=1300
+}
+tile(Teleporter,3950,6950){
+	automatic=0
+	id=1301
+}
+tile(Teleporter,3900,7050){
+	automatic=1
+	destination=1305
+	id=1302
+}
+tile(Teleporter,3900,7000){
+	automatic=0
+	id=1303
+}
+tile(Teleporter,3850,7100){
+	automatic=1
+	destination=1307
+	id=1304
+}
+tile(Teleporter,3850,7050){
+	automatic=0
+	id=1305
+}
+tile(Teleporter,3800,7150){
+	automatic=1
+	destination=1309
+	id=1306
+}
+tile(Teleporter,3800,7100){
+	automatic=0
+	id=1307
+}
+tile(Teleporter,3750,7150){
+	automatic=1
+	destination=1311
+	id=1308
+}
+tile(Teleporter,3750,7100){
+	automatic=0
+	id=1309
+}
+tile(Teleporter,3700,7200){
+	automatic=1
+	destination=1313
+	id=1310
+}
+tile(Teleporter,3700,7150){
+	automatic=0
+	id=1311
+}
+tile(Teleporter,3650,7200){
+	automatic=1
+	destination=1315
+	id=1312
+}
+tile(Teleporter,3650,7150){
+	automatic=0
+	id=1313
+}
+tile(Teleporter,3600,7200){
+	automatic=1
+	destination=1317
+	id=1314
+}
+tile(Teleporter,3600,7150){
+	automatic=0
+	id=1315
+}
+tile(Teleporter,3550,7250){
+	automatic=1
+	destination=1319
+	id=1316
+}
+tile(Teleporter,3550,7200){
+	automatic=0
+	id=1317
+}
+tile(Teleporter,3500,7250){
+	automatic=1
+	destination=1321
+	id=1318
+}
+tile(Teleporter,3500,7200){
+	automatic=0
+	id=1319
+}
+tile(Teleporter,3450,7250){
+	automatic=1
+	destination=1323
+	id=1320
+}
+tile(Teleporter,3450,7200){
+	automatic=0
+	id=1321
+}
+tile(Teleporter,3400,7250){
+	automatic=1
+	destination=1325
+	id=1322
+}
+tile(Teleporter,3400,7200){
+	automatic=0
+	id=1323
+}
+tile(Teleporter,3350,7300){
+	automatic=1
+	destination=1327
+	id=1324
+}
+tile(Teleporter,3350,7250){
+	automatic=0
+	id=1325
+}
+tile(Teleporter,3300,7300){
+	automatic=1
+	destination=1329
+	id=1326
+}
+tile(Teleporter,3300,7250){
+	automatic=0
+	id=1327
+}
+tile(Teleporter,3250,7300){
+	automatic=1
+	destination=1331
+	id=1328
+}
+tile(Teleporter,3250,7250){
+	automatic=0
+	id=1329
+}
+tile(Teleporter,3200,7350){
+	automatic=1
+	destination=1333
+	id=1330
+}
+tile(Teleporter,3200,7300){
+	automatic=0
+	id=1331
+}
+tile(Teleporter,3150,7350){
+	automatic=1
+	destination=1335
+	id=1332
+}
+tile(Teleporter,3150,7300){
+	automatic=0
+	id=1333
+}
+tile(Teleporter,3100,7400){
+	automatic=1
+	destination=1337
+	id=1334
+}
+tile(Teleporter,3100,7350){
+	automatic=0
+	id=1335
+}
+tile(Teleporter,3050,7450){
+	automatic=1
+	destination=1339
+	id=1336
+}
+tile(Teleporter,3050,7400){
+	automatic=0
+	id=1337
+}
+tile(Teleporter,3000,7500){
+	automatic=1
+	destination=1341
+	id=1338
+}
+tile(Teleporter,3000,7450){
+	automatic=0
+	id=1339
+}
+tile(Teleporter,2950,7550){
+	automatic=1
+	destination=1343
+	id=1340
+}
+tile(Teleporter,2950,7500){
+	automatic=0
+	id=1341
+}
+tile(Teleporter,2900,7550){
+	automatic=1
+	destination=1344
+	id=1342
+}
+tile(Teleporter,2900,7500){
+	automatic=0
+	id=1343
+}
+tile(Teleporter,2850,7550){
+	automatic=0
+	id=1344
+}
+tile(Teleporter,2850,7600){
+	automatic=1
+	destination=1347
+	id=1345
+}
+tile(Teleporter,2800,7600){
+	automatic=1
+	destination=1349
+	id=1346
+}
+tile(Teleporter,2800,7550){
+	automatic=0
+	id=1347
+}
+tile(Teleporter,2750,7600){
+	automatic=1
+	destination=1351
+	id=1348
+}
+tile(Teleporter,2750,7550){
+	automatic=0
+	id=1349
+}
+tile(Teleporter,2700,7650){
+	automatic=1
+	destination=1353
+	id=1350
+}
+tile(Teleporter,2700,7600){
+	automatic=0
+	id=1351
+}
+tile(Teleporter,2650,7650){
+	automatic=1
+	destination=1355
+	id=1352
+}
+tile(Teleporter,2650,7600){
+	automatic=0
+	id=1353
+}
+tile(Teleporter,2600,7650){
+	automatic=1
+	destination=1357
+	id=1354
+}
+tile(Teleporter,2600,7600){
+	automatic=0
+	id=1355
+}
+tile(Teleporter,2550,7650){
+	automatic=1
+	destination=1359
+	id=1356
+}
+tile(Teleporter,2550,7600){
+	automatic=0
+	id=1357
+}
+tile(Teleporter,2500,7600){
+	automatic=1
+	destination=1361
+	id=1358
+}
+tile(Teleporter,2500,7550){
+	automatic=0
+	id=1359
+}
+tile(Teleporter,2450,7600){
+	automatic=1
+	destination=1363
+	id=1360
+}
+tile(Teleporter,2450,7550){
+	automatic=0
+	id=1361
+}
+tile(Teleporter,2400,7600){
+	automatic=1
+	destination=1365
+	id=1362
+}
+tile(Teleporter,2400,7550){
+	automatic=0
+	id=1363
+}
+tile(Teleporter,2350,7550){
+	automatic=1
+	destination=1367
+	id=1364
+}
+tile(Teleporter,2350,7500){
+	automatic=0
+	id=1365
+}
+tile(Teleporter,2300,7550){
+	automatic=1
+	destination=1369
+	id=1366
+}
+tile(Teleporter,2300,7500){
+	automatic=0
+	id=1367
+}
+tile(Teleporter,2250,7500){
+	automatic=1
+	destination=1371
+	id=1368
+}
+tile(Teleporter,2250,7450){
+	automatic=0
+	id=1369
+}
+tile(Teleporter,2200,7450){
+	automatic=1
+	destination=1373
+	id=1370
+}
+tile(Teleporter,2200,7400){
+	automatic=0
+	id=1371
+}
+tile(Teleporter,2150,7400){
+	automatic=1
+	destination=1375
+	id=1372
+}
+tile(Teleporter,2150,7350){
+	automatic=0
+	id=1373
+}
+tile(Teleporter,2100,7350){
+	automatic=1
+	destination=1377
+	id=1374
+}
+tile(Teleporter,2100,7300){
+	automatic=0
+	id=1375
+}
+tile(Teleporter,2050,7350){
+	automatic=1
+	destination=1379
+	id=1376
+}
+tile(Teleporter,2050,7300){
+	automatic=0
+	id=1377
+}
+tile(Teleporter,2000,7300){
+	automatic=1
+	destination=1381
+	id=1378
+}
+tile(Teleporter,2000,7250){
+	automatic=0
+	id=1379
+}
+tile(Teleporter,1950,7300){
+	automatic=1
+	destination=1383
+	id=1380
+}
+tile(Teleporter,1950,7250){
+	automatic=0
+	id=1381
+}
+tile(Teleporter,1900,7300){
+	automatic=1
+	destination=1385
+	id=1382
+}
+tile(Teleporter,1900,7250){
+	automatic=0
+	id=1383
+}
+tile(Teleporter,1850,7250){
+	automatic=1
+	destination=1388
+	id=1384
+}
+tile(Teleporter,1850,7200){
+	automatic=0
+	id=1385
+}
+tile(Teleporter,1750,7250){
+	automatic=1
+	destination=1391
+	id=1386
+}
+tile(Teleporter,1800,7250){
+	automatic=1
+	destination=1389
+	id=1387
+}
+tile(Teleporter,1800,7200){
+	automatic=0
+	id=1388
+}
+tile(Teleporter,1750,7200){
+	automatic=0
+	id=1389
+}
+tile(Teleporter,1700,7250){
+	automatic=1
+	destination=1393
+	id=1390
+}
+tile(Teleporter,1700,7200){
+	automatic=0
+	id=1391
+}
+tile(Teleporter,1650,7200){
+	automatic=1
+	destination=1395
+	id=1392
+}
+tile(Teleporter,1650,7150){
+	automatic=0
+	id=1393
+}
+tile(Teleporter,1600,7200){
+	automatic=1
+	destination=1397
+	id=1394
+}
+tile(Teleporter,1600,7150){
+	automatic=0
+	id=1395
+}
+tile(Teleporter,1550,7200){
+	automatic=1
+	destination=1399
+	id=1396
+}
+tile(Teleporter,1550,7150){
+	automatic=0
+	id=1397
+}
+tile(Teleporter,1500,7150){
+	automatic=1
+	destination=1401
+	id=1398
+}
+tile(Teleporter,1500,7100){
+	automatic=0
+	id=1399
+}
+tile(Teleporter,1450,7150){
+	automatic=1
+	destination=1403
+	id=1400
+}
+tile(Teleporter,1450,7100){
+	automatic=0
+	id=1401
+}
+tile(Teleporter,1400,7100){
+	automatic=1
+	destination=1405
+	id=1402
+}
+tile(Teleporter,1400,7050){
+	automatic=0
+	id=1403
+}
+tile(Teleporter,1350,7050){
+	automatic=1
+	destination=1407
+	id=1404
+}
+tile(Teleporter,1350,7000){
+	automatic=0
+	id=1405
+}
+tile(Teleporter,1300,7000){
+	automatic=1
+	destination=1410
+	id=1406
+}
+tile(Teleporter,1300,6950){
+	automatic=0
+	id=1407
+}
+tile(Teleporter,1250,6950){
+	automatic=1
+	destination=1409
+	id=1408
+}
+tile(Teleporter,1200,6900){
+	automatic=0
+	id=1409
+}
+tile(Teleporter,1250,6900){
+	automatic=0
+	id=1410
+}
+tile(Teleporter,1200,6950){
+	automatic=1
+	destination=1413
+	id=1411
+}
+tile(Teleporter,1150,6900){
+	automatic=1
+	destination=1415
+	id=1412
+}
+tile(Teleporter,1150,6850){
+	automatic=0
+	id=1413
+}
+tile(Teleporter,1100,6900){
+	automatic=1
+	destination=1417
+	id=1414
+}
+tile(Teleporter,1100,6850){
+	automatic=0
+	id=1415
+}
+tile(Teleporter,1050,6900){
+	automatic=1
+	destination=1419
+	id=1416
+}
+tile(Teleporter,1050,6850){
+	automatic=0
+	id=1417
+}
+tile(Teleporter,1000,6850){
+	automatic=1
+	destination=1421
+	id=1418
+}
+tile(Teleporter,1000,6800){
+	automatic=0
+	id=1419
+}
+tile(Teleporter,950,6850){
+	automatic=1
+	destination=1423
+	id=1420
+}
+tile(Teleporter,950,6800){
+	automatic=0
+	id=1421
+}
+tile(Teleporter,900,6850){
+	automatic=1
+	destination=1425
+	id=1422
+}
+tile(Teleporter,900,6800){
+	automatic=0
+	id=1423
+}
+tile(Teleporter,850,6850){
+	automatic=1
+	destination=1427
+	id=1424
+}
+tile(Teleporter,850,6800){
+	automatic=0
+	id=1425
+}
+tile(Teleporter,800,6900){
+	automatic=1
+	destination=1429
+	id=1426
+}
+tile(Teleporter,800,6850){
+	automatic=0
+	id=1427
+}
+tile(Teleporter,750,6900){
+	automatic=1
+	destination=1431
+	id=1428
+}
+tile(Teleporter,750,6850){
+	automatic=0
+	id=1429
+}
+tile(Teleporter,700,6900){
+	automatic=1
+	destination=1433
+	id=1430
+}
+tile(Teleporter,700,6850){
+	automatic=0
+	id=1431
+}
+tile(Teleporter,650,6950){
+	automatic=1
+	destination=1435
+	id=1432
+}
+tile(Teleporter,650,6900){
+	automatic=0
+	id=1433
+}
+tile(Teleporter,600,6950){
+	automatic=1
+	destination=1441
+	id=1434
+}
+tile(Teleporter,600,6900){
+	automatic=0
+	id=1435
+}
+tile(Teleporter,550,7000){
+	automatic=1
+	destination=1443
+	id=1440
+}
+tile(Teleporter,550,6950){
+	automatic=0
+	id=1441
+}
+tile(Teleporter,500,7050){
+	automatic=1
+	destination=1445
+	id=1442
+}
+tile(Teleporter,500,7000){
+	automatic=0
+	id=1443
+}
+tile(Teleporter,450,7100){
+	automatic=1
+	destination=1447
+	id=1444
+}
+tile(Teleporter,450,7050){
+	automatic=0
+	id=1445
+}
+tile(Teleporter,400,7150){
+	automatic=1
+	destination=1449
+	id=1446
+}
+tile(Teleporter,400,7100){
+	automatic=0
+	id=1447
+}
+tile(Teleporter,350,7200){
+	automatic=1
+	destination=1450
+	id=1448
+}
+tile(Teleporter,350,7150){
+	automatic=0
+	id=1449
+}
+tile(Teleporter,300,7250){
+	automatic=0
+	id=1450
+}
+tile(Teleporter,300,7300){
+	automatic=1
+	destination=1453
+	id=1451
+}
+tile(Teleporter,300,7350){
+	automatic=0
+	id=1452
+}
+tile(Teleporter,350,7400){
+	automatic=0
+	id=1453
+}
+tile(Teleporter,350,7450){
+	automatic=1
+	destination=1455
+	id=1454
+}
+tile(Teleporter,400,7450){
+	automatic=0
+	id=1455
+}
+tile(Teleporter,400,7500){
+	automatic=1
+	destination=1457
+	id=1456
+}
+tile(Teleporter,450,7500){
+	automatic=0
+	id=1457
+}
+tile(Teleporter,450,7550){
+	automatic=1
+	destination=1459
+	id=1458
+}
+tile(Teleporter,500,7550){
+	automatic=0
+	id=1459
+}
+tile(Teleporter,500,7600){
+	automatic=1
+	destination=1461
+	id=1460
+}
+tile(Teleporter,550,7600){
+	automatic=0
+	id=1461
+}
+tile(Teleporter,550,7650){
+	automatic=1
+	destination=1463
+	id=1462
+}
+tile(Teleporter,600,7650){
+	automatic=0
+	id=1463
+}
+tile(Teleporter,600,7700){
+	automatic=1
+	destination=1465
+	id=1464
+}
+tile(Teleporter,650,7650){
+	automatic=0
+	id=1465
+}
+tile(Teleporter,650,7700){
+	automatic=1
+	destination=1467
+	id=1466
+}
+tile(Teleporter,700,7700){
+	automatic=0
+	id=1467
+}
+tile(Teleporter,700,7750){
+	automatic=1
+	destination=1469
+	id=1468
+}
+tile(Teleporter,750,7700){
+	automatic=0
+	id=1469
+}
+tile(Teleporter,750,7750){
+	automatic=1
+	destination=1471
+	id=1470
+}
+tile(Teleporter,800,7700){
+	automatic=0
+	id=1471
+}
+tile(Teleporter,800,7750){
+	automatic=1
+	destination=1473
+	id=1472
+}
+tile(Teleporter,850,7750){
+	automatic=0
+	id=1473
+}
+tile(Teleporter,850,7800){
+	automatic=1
+	destination=1475
+	id=1474
+}
+tile(Teleporter,900,7750){
+	automatic=0
+	id=1475
+}
+tile(Teleporter,900,7800){
+	automatic=1
+	destination=1477
+	id=1476
+}
+tile(Teleporter,950,7750){
+	automatic=0
+	id=1477
+}
+tile(Teleporter,950,7800){
+	automatic=1
+	destination=1479
+	id=1478
+}
+tile(Teleporter,1000,7750){
+	automatic=0
+	id=1479
+}
+tile(Teleporter,1000,7800){
+	automatic=1
+	destination=1481
+	id=1480
+}
+tile(Teleporter,1050,7700){
+	automatic=0
+	id=1481
+}
+tile(Teleporter,1050,7750){
+	automatic=1
+	destination=1483
+	id=1482
+}
+tile(Teleporter,1100,7700){
+	automatic=0
+	id=1483
+}
+tile(Teleporter,1100,7750){
+	automatic=1
+	destination=1485
+	id=1484
+}
+tile(Teleporter,1150,7700){
+	automatic=0
+	id=1485
+}
+tile(Teleporter,1150,7750){
+	automatic=1
+	destination=1487
+	id=1486
+}
+tile(Teleporter,1200,7650){
+	automatic=0
+	id=1487
+}
+tile(Teleporter,1200,7700){
+	automatic=1
+	destination=1489
+	id=1488
+}
+tile(Teleporter,1250,7650){
+	automatic=0
+	id=1489
+}
+tile(Teleporter,1250,7700){
+	automatic=1
+	destination=1491
+	id=1490
+}
+tile(Teleporter,1300,7600){
+	automatic=0
+	id=1491
+}
+tile(Teleporter,1300,7650){
+	automatic=1
+	destination=1493
+	id=1492
+}
+tile(Teleporter,1350,7550){
+	automatic=0
+	id=1493
+}
+tile(Teleporter,1350,7600){
+	automatic=1
+	destination=1495
+	id=1494
+}
+tile(Teleporter,1400,7500){
+	automatic=0
+	id=1495
+}
+tile(Teleporter,1400,7550){
+	automatic=1
+	destination=1497
+	id=1496
+}
+tile(Teleporter,1450,7450){
+	automatic=0
+	id=1497
+}
+tile(Teleporter,1450,7500){
+	automatic=1
+	destination=1499
+	id=1498
+}
+tile(Teleporter,1500,7450){
+	automatic=0
+	id=1499
+}
+tile(Teleporter,1500,7500){
+	automatic=1
+	destination=1504
+	id=1500
+}
+tile(Teleporter,1550,7400){
+	automatic=0
+	id=1504
+}
+tile(Teleporter,1550,7450){
+	automatic=1
+	destination=1506
+	id=1505
+}
+tile(Teleporter,1600,7400){
+	automatic=0
+	id=1506
+}
+tile(Teleporter,1600,7450){
+	automatic=1
+	destination=1508
+	id=1507
+}
+tile(Teleporter,1650,7400){
+	automatic=0
+	id=1508
+}
+tile(Teleporter,1650,7450){
+	automatic=1
+	destination=1510
+	id=1509
+}
+tile(Teleporter,1700,7350){
+	automatic=0
+	id=1510
+}
+tile(Teleporter,1700,7400){
+	automatic=1
+	destination=1512
+	id=1511
+}
+tile(Teleporter,1750,7350){
+	automatic=0
+	id=1512
+}
+tile(Teleporter,1750,7400){
+	automatic=1
+	destination=1514
+	id=1513
+}
+tile(Teleporter,1800,7350){
+	automatic=0
+	id=1514
+}
+tile(Teleporter,1800,7400){
+	automatic=1
+	destination=1516
+	id=1515
+}
+tile(Teleporter,1850,7350){
+	automatic=0
+	id=1516
+}
+tile(Teleporter,1850,7400){
+	automatic=1
+	destination=1518
+	id=1517
+}
+tile(Teleporter,2150,7200){
+	automatic=0
+	id=1518
+}
+tile(Teleporter,2150,7250){
+	automatic=1
+	destination=1520
+	id=1519
+}
+tile(Teleporter,2200,7150){
+	automatic=0
+	id=1520
+}
+tile(Teleporter,2200,7200){
+	automatic=1
+	destination=1522
+	id=1521
+}
+tile(Teleporter,2250,7100){
+	automatic=0
+	id=1522
+}
+tile(Teleporter,2250,7150){
+	automatic=1
+	destination=1524
+	id=1523
+}
+tile(Teleporter,2300,7050){
+	automatic=0
+	id=1524
+}
+tile(Teleporter,2300,7100){
+	automatic=1
+	destination=1526
+	id=1525
+}
+tile(Teleporter,2350,7050){
+	automatic=0
+	id=1526
+}
+tile(Teleporter,2350,7100){
+	automatic=1
+	destination=1528
+	id=1527
+}
+tile(Teleporter,2400,7000){
+	automatic=0
+	id=1528
+}
+tile(Teleporter,2400,7050){
+	automatic=1
+	destination=1530
+	id=1529
+}
+tile(Teleporter,2450,7000){
+	automatic=0
+	id=1530
+}
+tile(Teleporter,2450,7050){
+	automatic=1
+	destination=1532
+	id=1531
+}
+tile(Teleporter,2500,7000){
+	automatic=0
+	id=1532
+}
+tile(Teleporter,2500,7050){
+	automatic=1
+	destination=1534
+	id=1533
+}
+tile(Teleporter,2550,6950){
+	automatic=0
+	id=1534
+}
+tile(Teleporter,2550,7000){
+	automatic=1
+	destination=1536
+	id=1535
+}
+tile(Teleporter,2600,6950){
+	automatic=0
+	id=1536
+}
+tile(Teleporter,2600,7000){
+	automatic=1
+	destination=1538
+	id=1537
+}
+tile(Teleporter,2650,6950){
+	automatic=0
+	id=1538
+}
+tile(Teleporter,2650,7000){
+	automatic=1
+	destination=1540
+	id=1539
+}
+tile(Teleporter,2700,6950){
+	automatic=0
+	id=1540
+}
+tile(Teleporter,2700,7000){
+	automatic=1
+	destination=1542
+	id=1541
+}
+tile(Teleporter,2750,7000){
+	automatic=0
+	id=1542
+}
+tile(Teleporter,2750,7050){
+	automatic=1
+	destination=1544
+	id=1543
+}
+tile(Teleporter,2800,7000){
+	automatic=0
+	id=1544
+}
+tile(Teleporter,2800,7050){
+	automatic=1
+	destination=1546
+	id=1545
+}
+tile(Teleporter,2850,7000){
+	automatic=0
+	id=1546
+}
+tile(Teleporter,2850,7050){
+	automatic=1
+	destination=1548
+	id=1547
+}
+tile(Teleporter,2900,7050){
+	automatic=0
+	id=1548
+}
+tile(Teleporter,2900,7100){
+	automatic=1
+	destination=1550
+	id=1549
+}
+tile(Teleporter,2950,7050){
+	automatic=0
+	id=1550
+}
+tile(Teleporter,2950,7100){
+	automatic=1
+	destination=1552
+	id=1551
+}
+tile(Teleporter,3000,7100){
+	automatic=0
+	id=1552
+}
+tile(Teleporter,3000,7150){
+	automatic=1
+	destination=1554
+	id=1553
+}
+tile(Teleporter,3050,7150){
+	automatic=0
+	id=1554
+}
+tile(Teleporter,3050,7200){
+	automatic=1
+	destination=1556
+	id=1555
+}
+tile(Teleporter,3100,7200){
+	automatic=0
+	id=1556
+}
+tile(Teleporter,3100,7250){
+	automatic=1
+	destination=1558
+	id=1557
+}
+tile(Teleporter,3400,7350){
+	automatic=0
+	id=1558
+}
+tile(Teleporter,3400,7400){
+	automatic=1
+	destination=1560
+	id=1559
+}
+tile(Teleporter,3450,7350){
+	automatic=0
+	id=1560
+}
+tile(Teleporter,3450,7400){
+	automatic=1
+	destination=1562
+	id=1561
+}
+tile(Teleporter,3500,7350){
+	automatic=0
+	id=1562
+}
+tile(Teleporter,3500,7400){
+	automatic=1
+	destination=1564
+	id=1563
+}
+tile(Teleporter,3550,7350){
+	automatic=0
+	id=1564
+}
+tile(Teleporter,3550,7400){
+	automatic=1
+	destination=1566
+	id=1565
+}
+tile(ShadowBlock,3600,7350)
+tile(ShadowBlock,3650,7350)
+tile(ShadowBlock,3700,7350)
+tile(Teleporter,3600,7400){
+	automatic=0
+	id=1566
+}
+tile(Teleporter,3600,7450){
+	automatic=1
+	destination=1568
+	id=1567
+}
+tile(Teleporter,3650,7400){
+	automatic=0
+	id=1568
+}
+tile(Teleporter,3650,7450){
+	automatic=1
+	destination=1570
+	id=1569
+}
+tile(Teleporter,3700,7400){
+	automatic=0
+	id=1570
+}
+tile(Teleporter,3700,7450){
+	automatic=1
+	destination=1572
+	id=1571
+}
+tile(Teleporter,3750,7450){
+	automatic=0
+	id=1572
+}
+tile(Teleporter,3750,7500){
+	automatic=1
+	destination=1574
+	id=1573
+}
+tile(Teleporter,3800,7450){
+	automatic=0
+	id=1574
+}
+tile(Teleporter,3800,7500){
+	automatic=1
+	destination=1576
+	id=1575
+}
+tile(Teleporter,3850,7500){
+	automatic=0
+	id=1576
+}
+tile(Teleporter,3850,7550){
+	automatic=1
+	destination=1578
+	id=1577
+}
+tile(Teleporter,3900,7550){
+	automatic=0
+	id=1578
+}
+tile(Teleporter,3900,7600){
+	automatic=1
+	destination=1580
+	id=1579
+}
+tile(Teleporter,3950,7600){
+	automatic=0
+	id=1580
+}
+tile(Teleporter,3950,7650){
+	automatic=1
+	destination=1582
+	id=1581
+}
+tile(Teleporter,4000,7650){
+	automatic=0
+	id=1582
+}
+tile(Teleporter,4000,7700){
+	automatic=1
+	destination=1584
+	id=1583
+}
+tile(Teleporter,4050,7650){
+	automatic=0
+	id=1584
+}
+tile(Teleporter,4050,7700){
+	automatic=1
+	destination=1586
+	id=1585
+}
+tile(Teleporter,4100,7700){
+	automatic=0
+	id=1586
+}
+tile(Teleporter,4100,7750){
+	automatic=1
+	destination=1588
+	id=1587
+}
+tile(Teleporter,4150,7700){
+	automatic=0
+	id=1588
+}
+tile(Teleporter,4150,7750){
+	automatic=1
+	destination=1590
+	id=1589
+}
+tile(Teleporter,4200,7700){
+	automatic=0
+	id=1590
+}
+tile(Teleporter,4200,7750){
+	automatic=1
+	destination=1592
+	id=1591
+}
+tile(Teleporter,4250,7750){
+	automatic=0
+	id=1592
+}
+tile(Teleporter,4250,7800){
+	automatic=1
+	destination=1594
+	id=1593
+}
+tile(Teleporter,4300,7750){
+	automatic=0
+	id=1594
+}
+tile(Teleporter,4300,7800){
+	automatic=1
+	destination=1596
+	id=1595
+}
+tile(Teleporter,4350,7750){
+	automatic=0
+	id=1596
+}
+tile(Teleporter,4350,7800){
+	automatic=1
+	destination=1645
+	id=1597
+}
+tile(ShadowBlock,1550,7350)
+tile(ShadowBlock,1600,7350)
+tile(ShadowBlock,1650,7350)
+tile(MovingShadowBlock,1900,7200){
+	MovingPosCount=1
+	disabled=0
+	id=1598
+	loop=0
+	t0=5
+	x0=0
+	y0=50
+}
+tile(MovingShadowBlock,1950,7200){
+	MovingPosCount=1
+	disabled=0
+	id=1599
+	loop=0
+	t0=5
+	x0=0
+	y0=50
+}
+tile(MovingShadowBlock,2000,7200){
+	MovingPosCount=1
+	disabled=0
+	id=1600
+	loop=0
+	t0=5
+	x0=0
+	y0=50
+}
+tile(MovingShadowBlock,3250,7200){
+	MovingPosCount=1
+	disabled=0
+	id=1601
+	loop=0
+	t0=5
+	x0=0
+	y0=50
+}
+tile(MovingShadowBlock,3300,7200){
+	MovingPosCount=1
+	disabled=0
+	id=1602
+	loop=0
+	t0=5
+	x0=0
+	y0=50
+}
+tile(MovingShadowBlock,3350,7200){
+	MovingPosCount=1
+	disabled=0
+	id=1603
+	loop=0
+	t0=5
+	x0=0
+	y0=50
+}
+tile(ShadowBlock,4850,7850)
+tile(ShadowBlock,4900,7850)
+tile(ShadowBlock,4950,7850)
+tile(ShadowBlock,5000,7850)
+tile(ShadowBlock,5050,7850)
+tile(ShadowBlock,5100,7850)
+tile(ShadowBlock,5150,7850)
+tile(ShadowBlock,5200,7850)
+tile(ShadowBlock,5250,7850)
+tile(ShadowBlock,5300,7850)
+tile(ShadowBlock,5350,7800)
+tile(ShadowBlock,5600,7750)
+tile(ShadowBlock,5700,7750)
+tile(ShadowBlock,5650,7750)
+tile(ShadowBlock,5750,7750)
+tile(ShadowBlock,5800,7750)
+tile(ShadowBlock,5900,7750)
+tile(ShadowBlock,5950,7750)
+tile(ShadowBlock,5850,7750)
+tile(ShadowBlock,6000,7750)
+tile(ShadowBlock,6050,7750)
+tile(Teleporter,5050,7900){
+	automatic=0
+	id=1604
+}
+tile(Teleporter,5050,7950){
+	automatic=1
+	destination=1606
+	id=1605
+}
+tile(Teleporter,5100,7900){
+	automatic=0
+	id=1606
+}
+tile(Teleporter,5100,7950){
+	automatic=1
+	destination=1608
+	id=1607
+}
+tile(Teleporter,5150,7900){
+	automatic=0
+	id=1608
+}
+tile(Teleporter,5150,7950){
+	automatic=1
+	destination=1610
+	id=1609
+}
+tile(Teleporter,5200,7900){
+	automatic=0
+	id=1610
+}
+tile(Teleporter,5200,7950){
+	automatic=1
+	destination=1612
+	id=1611
+}
+tile(Teleporter,5250,7900){
+	automatic=0
+	id=1612
+}
+tile(Teleporter,5250,7950){
+	automatic=1
+	destination=1614
+	id=1613
+}
+tile(Teleporter,5300,7900){
+	automatic=0
+	id=1614
+}
+tile(Teleporter,5300,7950){
+	automatic=1
+	destination=1616
+	id=1615
+}
+tile(Teleporter,5350,7850){
+	automatic=0
+	id=1616
+}
+tile(Teleporter,5350,7900){
+	automatic=1
+	destination=1634
+	id=1617
+}
+tile(Teleporter,5550,7750){
+	automatic=1
+	destination=1621
+	id=1618
+}
+tile(Teleporter,5550,7700){
+	automatic=0
+	id=1619
+}
+tile(Teleporter,5600,7700){
+	automatic=1
+	destination=1623
+	id=1620
+}
+tile(Teleporter,5600,7650){
+	automatic=0
+	id=1621
+}
+tile(Teleporter,5650,7700){
+	automatic=1
+	destination=1625
+	id=1622
+}
+tile(Teleporter,5650,7650){
+	automatic=0
+	id=1623
+}
+tile(Teleporter,5700,7700){
+	automatic=1
+	destination=1627
+	id=1624
+}
+tile(Teleporter,5700,7650){
+	automatic=0
+	id=1625
+}
+tile(Teleporter,5750,7700){
+	automatic=1
+	destination=1629
+	id=1626
+}
+tile(Teleporter,5750,7650){
+	automatic=0
+	id=1627
+}
+tile(Teleporter,5800,7700){
+	automatic=1
+	destination=1631
+	id=1628
+}
+tile(Teleporter,5800,7650){
+	automatic=0
+	id=1629
+}
+tile(Teleporter,5850,7700){
+	automatic=1
+	destination=1672
+	id=1630
+}
+tile(Teleporter,5850,7650){
+	automatic=0
+	id=1631
+}
+tile(Teleporter,5400,7900){
+	automatic=0
+	id=1632
+}
+tile(Teleporter,5400,7850){
+	automatic=1
+	destination=1637
+	id=1633
+}
+tile(Teleporter,5400,7800){
+	automatic=0
+	id=1634
+}
+tile(Teleporter,5450,7850){
+	automatic=0
+	id=1635
+}
+tile(Teleporter,5450,7800){
+	automatic=1
+	destination=1641
+	id=1636
+}
+tile(Teleporter,5450,7750){
+	automatic=0
+	id=1637
+}
+tile(Teleporter,5500,7800){
+	automatic=0
+	id=1639
+}
+tile(Teleporter,5500,7750){
+	automatic=1
+	destination=1619
+	id=1640
+}
+tile(Teleporter,5500,7700){
+	automatic=0
+	id=1641
+}
+tile(ShadowBlock,5550,7800)
+tile(MovingShadowBlock,5400,7750){
+	MovingPosCount=1
+	disabled=0
+	id=1642
+	loop=0
+	t0=5
+	x0=0
+	y0=50
+}
+tile(MovingShadowBlock,5450,7700){
+	MovingPosCount=1
+	disabled=0
+	id=1643
+	loop=0
+	t0=10
+	x0=0
+	y0=100
+}
+tile(MovingShadowBlock,5500,7650){
+	MovingPosCount=1
+	disabled=0
+	id=1644
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(Teleporter,4400,7800){
+	automatic=0
+	id=1645
+}
+tile(Teleporter,4400,7850){
+	automatic=1
+	destination=1647
+	id=1646
+}
+tile(Teleporter,4450,7800){
+	automatic=0
+	id=1647
+}
+tile(Teleporter,4450,7850){
+	automatic=1
+	destination=1649
+	id=1648
+}
+tile(Teleporter,4500,7800){
+	automatic=0
+	id=1649
+}
+tile(Teleporter,4500,7850){
+	automatic=1
+	destination=1651
+	id=1650
+}
+tile(Teleporter,4550,7850){
+	automatic=0
+	id=1651
+}
+tile(Teleporter,4550,7900){
+	automatic=1
+	destination=1653
+	id=1652
+}
+tile(Teleporter,4600,7850){
+	automatic=0
+	id=1653
+}
+tile(Teleporter,4600,7900){
+	automatic=1
+	destination=1655
+	id=1654
+}
+tile(Teleporter,4650,7850){
+	automatic=0
+	id=1655
+}
+tile(Teleporter,4650,7900){
+	automatic=1
+	destination=1657
+	id=1656
+}
+tile(Teleporter,4700,7900){
+	automatic=0
+	id=1657
+}
+tile(Teleporter,4700,7950){
+	automatic=1
+	destination=1659
+	id=1658
+}
+tile(Teleporter,4750,7900){
+	automatic=0
+	id=1659
+}
+tile(Teleporter,4750,7950){
+	automatic=1
+	destination=1661
+	id=1660
+}
+tile(Teleporter,4800,7900){
+	automatic=0
+	id=1661
+}
+tile(Teleporter,4800,7950){
+	automatic=1
+	destination=1663
+	id=1662
+}
+tile(Teleporter,4850,7900){
+	automatic=0
+	id=1663
+}
+tile(Teleporter,4850,7950){
+	automatic=1
+	destination=1665
+	id=1664
+}
+tile(Teleporter,4900,7900){
+	automatic=0
+	id=1665
+}
+tile(Teleporter,4900,7950){
+	automatic=1
+	destination=1667
+	id=1666
+}
+tile(Teleporter,4950,7900){
+	automatic=0
+	id=1667
+}
+tile(Teleporter,4950,7950){
+	automatic=1
+	destination=1669
+	id=1668
+}
+tile(Teleporter,5000,7900){
+	automatic=0
+	id=1669
+}
+tile(Teleporter,5000,7950){
+	automatic=1
+	destination=1604
+	id=1670
+}
+tile(Teleporter,5900,7700){
+	automatic=1
+	destination=1674
+	id=1671
+}
+tile(Teleporter,5900,7650){
+	automatic=0
+	id=1672
+}
+tile(Teleporter,5950,7700){
+	automatic=1
+	destination=1676
+	id=1673
+}
+tile(Teleporter,5950,7650){
+	automatic=0
+	id=1674
+}
+tile(Teleporter,6000,7700){
+	automatic=1
+	destination=1678
+	id=1675
+}
+tile(Teleporter,6000,7650){
+	automatic=0
+	id=1676
+}
+tile(Teleporter,6050,7700){
+	automatic=1
+	destination=1736
+	id=1677
+}
+tile(Teleporter,6050,7650){
+	automatic=0
+	id=1678
+}
+tile(ShadowBlock,6100,7800)
+tile(ShadowBlock,6150,7800)
+tile(ShadowBlock,6200,7800)
+tile(ShadowBlock,6250,7850)
+tile(ShadowBlock,6300,7850)
+tile(ShadowBlock,6350,7900)
+tile(ShadowBlock,6400,7950)
+tile(ShadowBlock,6450,8000)
+tile(ShadowBlock,6500,8050)
+tile(ShadowBlock,6550,8100)
+tile(ShadowBlock,6600,8150)
+tile(ShadowBlock,6650,8200)
+tile(ShadowBlock,6700,8250)
+tile(ShadowBlock,6750,8300)
+tile(ShadowBlock,6800,8350)
+tile(ShadowBlock,6850,8400)
+tile(ShadowBlock,6900,8450)
+tile(ShadowBlock,6950,8500)
+tile(ShadowBlock,7000,8550)
+tile(ShadowBlock,7050,8600)
+tile(ShadowBlock,7100,8650)
+tile(ShadowBlock,7150,8700)
+tile(ShadowBlock,7200,8750)
+tile(ShadowBlock,7250,8800)
+tile(ShadowBlock,7300,8850)
+tile(ShadowBlock,7350,8900)
+tile(ShadowBlock,7400,8950)
+tile(ShadowBlock,7450,9000)
+tile(ShadowBlock,7500,9050)
+tile(Teleporter,7500,9000){
+	automatic=1
+	destination=1738
+	id=1679
+}
+tile(Teleporter,7500,8950){
+	automatic=0
+	id=1680
+}
+tile(Teleporter,7450,8900){
+	automatic=0
+	id=1681
+}
+tile(Teleporter,7450,8950){
+	automatic=1
+	destination=1680
+	id=1682
+}
+tile(Teleporter,7400,8900){
+	automatic=1
+	destination=1681
+	id=1683
+}
+tile(Teleporter,7400,8850){
+	automatic=0
+	id=1684
+}
+tile(Teleporter,7350,8850){
+	automatic=1
+	destination=1684
+	id=1685
+}
+tile(Teleporter,7350,8800){
+	automatic=0
+	id=1686
+}
+tile(Teleporter,7300,8800){
+	automatic=1
+	destination=1686
+	id=1687
+}
+tile(Teleporter,7300,8750){
+	automatic=0
+	id=1688
+}
+tile(Teleporter,7250,8750){
+	automatic=1
+	destination=1688
+	id=1689
+}
+tile(Teleporter,7250,8700){
+	automatic=0
+	id=1690
+}
+tile(Teleporter,7200,8700){
+	automatic=1
+	destination=1690
+	id=1691
+}
+tile(Teleporter,7200,8650){
+	automatic=0
+	id=1692
+}
+tile(Teleporter,7150,8650){
+	automatic=1
+	destination=1692
+	id=1693
+}
+tile(Teleporter,7150,8600){
+	automatic=0
+	id=1694
+}
+tile(Teleporter,7100,8600){
+	automatic=1
+	destination=1694
+	id=1695
+}
+tile(Teleporter,7100,8550){
+	automatic=0
+	id=1696
+}
+tile(Teleporter,7050,8550){
+	automatic=1
+	destination=1696
+	id=1697
+}
+tile(Teleporter,7050,8500){
+	automatic=0
+	id=1698
+}
+tile(Teleporter,7000,8500){
+	automatic=1
+	destination=1698
+	id=1699
+}
+tile(Teleporter,7000,8450){
+	automatic=0
+	id=1700
+}
+tile(Teleporter,6950,8450){
+	automatic=1
+	destination=1700
+	id=1701
+}
+tile(Teleporter,6950,8400){
+	automatic=0
+	id=1702
+}
+tile(Teleporter,6900,8400){
+	automatic=1
+	destination=1702
+	id=1703
+}
+tile(Teleporter,6900,8350){
+	automatic=0
+	id=1704
+}
+tile(Teleporter,6850,8350){
+	automatic=1
+	destination=1704
+	id=1705
+}
+tile(Teleporter,6850,8300){
+	automatic=0
+	id=1706
+}
+tile(Teleporter,6800,8300){
+	automatic=1
+	destination=1706
+	id=1707
+}
+tile(Teleporter,6750,8250){
+	automatic=1
+	destination=1709
+	id=1708
+}
+tile(Teleporter,6800,8250){
+	automatic=0
+	id=1709
+}
+tile(Teleporter,6750,8200){
+	automatic=0
+	id=1710
+}
+tile(Teleporter,6700,8200){
+	automatic=1
+	destination=1710
+	id=1711
+}
+tile(Teleporter,6700,8150){
+	automatic=0
+	id=1712
+}
+tile(Teleporter,6650,8150){
+	automatic=1
+	destination=1712
+	id=1713
+}
+tile(Teleporter,6650,8100){
+	automatic=0
+	id=1714
+}
+tile(Teleporter,6600,8100){
+	automatic=1
+	destination=1714
+	id=1715
+}
+tile(Teleporter,6600,8050){
+	automatic=0
+	id=1716
+}
+tile(Teleporter,6550,8050){
+	automatic=1
+	destination=1716
+	id=1717
+}
+tile(Teleporter,6550,8000){
+	automatic=0
+	id=1718
+}
+tile(Teleporter,6500,8000){
+	automatic=1
+	destination=1718
+	id=1719
+}
+tile(Teleporter,6500,7950){
+	automatic=0
+	id=1720
+}
+tile(Teleporter,6450,7950){
+	automatic=1
+	destination=1720
+	id=1721
+}
+tile(Teleporter,6450,7900){
+	automatic=0
+	id=1722
+}
+tile(Teleporter,6400,7900){
+	automatic=1
+	destination=1722
+	id=1723
+}
+tile(Teleporter,6400,7850){
+	automatic=0
+	id=1724
+}
+tile(Teleporter,6350,7850){
+	automatic=1
+	destination=1724
+	id=1725
+}
+tile(Teleporter,6350,7800){
+	automatic=0
+	id=1726
+}
+tile(Teleporter,6300,7800){
+	automatic=1
+	destination=1726
+	id=1727
+}
+tile(Teleporter,6300,7750){
+	automatic=0
+	id=1728
+}
+tile(Teleporter,6250,7800){
+	automatic=1
+	destination=1728
+	id=1729
+}
+tile(Teleporter,6250,7750){
+	automatic=0
+	id=1730
+}
+tile(Teleporter,6200,7750){
+	automatic=1
+	destination=1730
+	id=1731
+}
+tile(Teleporter,6200,7700){
+	automatic=0
+	id=1732
+}
+tile(Teleporter,6150,7750){
+	automatic=1
+	destination=1732
+	id=1733
+}
+tile(Teleporter,6150,7700){
+	automatic=0
+	id=1734
+}
+tile(Teleporter,6100,7750){
+	automatic=1
+	destination=1734
+	id=1735
+}
+tile(Teleporter,6100,7700){
+	automatic=0
+	id=1736
+}
+tile(ShadowBlock,7550,9100)
+tile(ShadowBlock,7600,9100)
+tile(ShadowBlock,7650,9150)
+tile(ShadowBlock,7700,9150)
+tile(ShadowBlock,7750,9150)
+tile(ShadowBlock,7800,9200)
+tile(ShadowBlock,7850,9200)
+tile(ShadowBlock,7950,9200)
+tile(ShadowBlock,7900,9200)
+tile(ShadowBlock,8000,9200)
+tile(ShadowBlock,8100,9200)
+tile(ShadowBlock,8150,9200)
+tile(ShadowBlock,8050,9200)
+tile(ShadowBlock,8200,9200)
+tile(ShadowBlock,8250,9200)
+tile(ShadowBlock,8300,9200)
+tile(ShadowBlock,8400,9200)
+tile(ShadowBlock,8450,9200)
+tile(ShadowBlock,8350,9200)
+tile(ShadowBlock,8500,9200)
+tile(ShadowBlock,8600,9200)
+tile(ShadowBlock,8650,9200)
+tile(ShadowBlock,8700,9200)
+tile(ShadowBlock,8750,9200)
+tile(ShadowBlock,8800,9200)
+tile(ShadowBlock,8850,9200)
+tile(ShadowBlock,8900,9200)
+tile(ShadowBlock,8950,9200)
+tile(ShadowBlock,9000,9200)
+tile(ShadowBlock,9050,9200)
+tile(ShadowBlock,9100,9200)
+tile(ShadowBlock,9150,9200)
+tile(ShadowBlock,9250,9200)
+tile(ShadowBlock,9300,9200)
+tile(ShadowBlock,9350,9200)
+tile(ShadowBlock,9400,9200)
+tile(ShadowBlock,9500,9200)
+tile(ShadowBlock,9550,9200)
+tile(ShadowBlock,9600,9200)
+tile(ShadowBlock,9700,9200)
+tile(ShadowBlock,9750,9200)
+tile(ShadowBlock,9850,9200)
+tile(ShadowBlock,9900,9200)
+tile(ShadowBlock,9950,9200)
+tile(ShadowBlock,9800,9200)
+tile(ShadowBlock,9650,9200)
+tile(ShadowBlock,9450,9200)
+tile(ShadowBlock,9200,9200)
+tile(ShadowBlock,8550,9200)
+tile(ShadowBlock,10000,9150)
+tile(ShadowBlock,10050,9150)
+tile(ShadowBlock,10100,9150)
+tile(ShadowBlock,10150,9100)
+tile(ShadowBlock,10200,9100)
+tile(ShadowBlock,10250,9050)
+tile(ShadowBlock,10300,9000)
+tile(ShadowBlock,10350,8950)
+tile(ShadowBlock,10400,8900)
+tile(ShadowBlock,10450,8850)
+tile(ShadowBlock,10500,8800)
+tile(ShadowBlock,10550,8750)
+tile(ShadowBlock,10600,8700)
+tile(ShadowBlock,10650,8650)
+tile(ShadowBlock,10700,8600)
+tile(ShadowBlock,10750,8550)
+tile(ShadowBlock,10750,8500)
+tile(ShadowBlock,10800,8450)
+tile(ShadowBlock,10800,8400)
+tile(ShadowBlock,10800,8350)
+tile(ShadowBlock,10850,8300)
+tile(ShadowBlock,10850,8250)
+tile(ShadowBlock,10850,8200)
+tile(ShadowBlock,10850,8150)
+tile(ShadowBlock,10900,8100)
+tile(ShadowBlock,10900,8000)
+tile(ShadowBlock,10900,8050)
+tile(ShadowBlock,10900,7950)
+tile(ShadowBlock,10950,7900)
+tile(ShadowBlock,10950,7850)
+tile(ShadowBlock,10950,7800)
+tile(ShadowBlock,10950,7750)
+tile(ShadowBlock,11000,7700)
+tile(ShadowBlock,11000,7650)
+tile(ShadowBlock,11000,7600)
+tile(ShadowBlock,11000,7550)
+tile(ShadowBlock,11050,7500)
+tile(ShadowBlock,11050,7450)
+tile(ShadowBlock,11050,7400)
+tile(ShadowBlock,11050,7350)
+tile(ShadowBlock,11100,7300)
+tile(ShadowBlock,11100,7250)
+tile(ShadowBlock,11100,7200)
+tile(ShadowBlock,11100,7150)
+tile(ShadowBlock,11150,7100)
+tile(ShadowBlock,11150,7050)
+tile(ShadowBlock,11150,7000)
+tile(ShadowBlock,11150,6950)
+tile(ShadowBlock,11200,6900)
+tile(ShadowBlock,11200,6850)
+tile(ShadowBlock,11200,6800)
+tile(ShadowBlock,11200,6750)
+tile(ShadowBlock,11250,6700)
+tile(ShadowBlock,11250,6650)
+tile(ShadowBlock,11250,6600)
+tile(ShadowBlock,11250,6550)
+tile(ShadowBlock,11300,6500)
+tile(ShadowBlock,11300,6450)
+tile(ShadowBlock,11300,6400)
+tile(ShadowBlock,11350,6350)
+tile(ShadowBlock,11350,6300)
+tile(ShadowBlock,11400,6250)
+tile(ShadowBlock,11450,6200)
+tile(ShadowBlock,11500,6150)
+tile(ShadowBlock,11550,6150)
+tile(ShadowBlock,11600,6100)
+tile(ShadowBlock,11650,6100)
+tile(ShadowBlock,11700,6100)
+tile(ShadowBlock,11750,6150)
+tile(ShadowBlock,11800,6150)
+tile(ShadowBlock,11850,6200)
+tile(ShadowBlock,11900,6250)
+tile(ShadowBlock,11950,6300)
+tile(ShadowBlock,11950,6350)
+tile(ShadowBlock,12000,6400)
+tile(ShadowBlock,12000,6450)
+tile(ShadowBlock,12000,6500)
+tile(ShadowBlock,12050,6550)
+tile(ShadowBlock,12050,6600)
+tile(ShadowBlock,12050,6650)
+tile(ShadowBlock,12050,6700)
+tile(ShadowBlock,12100,6750)
+tile(ShadowBlock,12100,6800)
+tile(ShadowBlock,12100,6850)
+tile(ShadowBlock,12100,6900)
+tile(ShadowBlock,12100,6950)
+tile(ShadowBlock,12100,7000)
+tile(ShadowBlock,12100,7050)
+tile(ShadowBlock,12100,7100)
+tile(ShadowBlock,12150,7150)
+tile(ShadowBlock,12150,7200)
+tile(ShadowBlock,12150,7250)
+tile(ShadowBlock,12150,7300)
+tile(ShadowBlock,12150,7350)
+tile(ShadowBlock,12150,7400)
+tile(ShadowBlock,12150,7450)
+tile(ShadowBlock,12150,7500)
+tile(ShadowBlock,12200,7550)
+tile(ShadowBlock,12200,7600)
+tile(ShadowBlock,12200,7650)
+tile(ShadowBlock,12200,7700)
+tile(ShadowBlock,12200,7750)
+tile(ShadowBlock,12200,7800)
+tile(ShadowBlock,12200,7850)
+tile(ShadowBlock,12200,7900)
+tile(ShadowBlock,12250,7950)
+tile(ShadowBlock,12250,8000)
+tile(ShadowBlock,12250,8050)
+tile(ShadowBlock,12250,8100)
+tile(ShadowBlock,12250,8150)
+tile(ShadowBlock,12250,8200)
+tile(ShadowBlock,12250,8250)
+tile(ShadowBlock,12250,8300)
+tile(ShadowBlock,12300,8350)
+tile(ShadowBlock,12300,8400)
+tile(ShadowBlock,12300,8450)
+tile(ShadowBlock,12300,8500)
+tile(ShadowBlock,12300,8550)
+tile(ShadowBlock,12300,8600)
+tile(ShadowBlock,12300,8650)
+tile(ShadowBlock,12300,8700)
+tile(ShadowBlock,12350,8750)
+tile(ShadowBlock,12350,8800)
+tile(ShadowBlock,12350,8850)
+tile(ShadowBlock,12350,8900)
+tile(ShadowBlock,12350,8950)
+tile(ShadowBlock,12350,9000)
+tile(ShadowBlock,12350,9050)
+tile(ShadowBlock,12350,9100)
+tile(ShadowBlock,12400,9150)
+tile(ShadowBlock,12400,9200)
+tile(ShadowBlock,12400,9250)
+tile(ShadowBlock,12400,9300)
+tile(ShadowBlock,12400,9350)
+tile(ShadowBlock,12400,9400)
+tile(ShadowBlock,12400,9450)
+tile(ShadowBlock,12400,9500)
+tile(ShadowBlock,12450,9550)
+tile(ShadowBlock,12450,9600)
+tile(ShadowBlock,12450,9650)
+tile(ShadowBlock,12450,9700)
+tile(ShadowBlock,12450,9750)
+tile(ShadowBlock,12450,9800)
+tile(ShadowBlock,12450,9850)
+tile(ShadowBlock,12450,9900)
+tile(ShadowBlock,12500,9950)
+tile(ShadowBlock,12500,10000)
+tile(ShadowBlock,12500,10100)
+tile(ShadowBlock,12500,10050)
+tile(ShadowBlock,12500,10150)
+tile(ShadowBlock,12500,10200)
+tile(ShadowBlock,12500,10250)
+tile(ShadowBlock,12500,10300)
+tile(Teleporter,7550,9050){
+	automatic=1
+	destination=1740
+	id=1737
+}
+tile(Teleporter,7550,9000){
+	automatic=0
+	id=1738
+}
+tile(Teleporter,7600,9050){
+	automatic=1
+	destination=1742
+	id=1739
+}
+tile(Teleporter,7600,9000){
+	automatic=0
+	id=1740
+}
+tile(Teleporter,7650,9100){
+	automatic=1
+	destination=1744
+	id=1741
+}
+tile(Teleporter,7650,9050){
+	automatic=0
+	id=1742
+}
+tile(Teleporter,7700,9100){
+	automatic=1
+	destination=1746
+	id=1743
+}
+tile(Teleporter,7700,9050){
+	automatic=0
+	id=1744
+}
+tile(Teleporter,7750,9100){
+	automatic=1
+	destination=1748
+	id=1745
+}
+tile(Teleporter,7750,9050){
+	automatic=0
+	id=1746
+}
+tile(Teleporter,7800,9150){
+	automatic=1
+	destination=1750
+	id=1747
+}
+tile(Teleporter,7800,9100){
+	automatic=0
+	id=1748
+}
+tile(Teleporter,7850,9150){
+	automatic=1
+	destination=1752
+	id=1749
+}
+tile(Teleporter,7850,9100){
+	automatic=0
+	id=1750
+}
+tile(Teleporter,7900,9150){
+	automatic=1
+	destination=1754
+	id=1751
+}
+tile(Teleporter,7900,9100){
+	automatic=0
+	id=1752
+}
+tile(Teleporter,7950,9150){
+	automatic=1
+	destination=1756
+	id=1753
+}
+tile(Teleporter,7950,9100){
+	automatic=0
+	id=1754
+}
+tile(Teleporter,8000,9150){
+	automatic=1
+	destination=1758
+	id=1755
+}
+tile(Teleporter,8000,9100){
+	automatic=0
+	id=1756
+}
+tile(Teleporter,8050,9150){
+	automatic=1
+	destination=1760
+	id=1757
+}
+tile(Teleporter,8050,9100){
+	automatic=0
+	id=1758
+}
+tile(Teleporter,8100,9150){
+	automatic=1
+	destination=1762
+	id=1759
+}
+tile(Teleporter,8100,9100){
+	automatic=0
+	id=1760
+}
+tile(Teleporter,8150,9150){
+	automatic=1
+	destination=1764
+	id=1761
+}
+tile(Teleporter,8150,9100){
+	automatic=0
+	id=1762
+}
+tile(Teleporter,8200,9150){
+	automatic=1
+	destination=1766
+	id=1763
+}
+tile(Teleporter,8200,9100){
+	automatic=0
+	id=1764
+}
+tile(Teleporter,8250,9150){
+	automatic=1
+	destination=1769
+	id=1765
+}
+tile(Teleporter,8250,9100){
+	automatic=0
+	id=1766
+}
+tile(Teleporter,8350,9150){
+	automatic=1
+	destination=1772
+	id=1767
+}
+tile(Teleporter,8300,9150){
+	automatic=1
+	destination=1770
+	id=1768
+}
+tile(Teleporter,8300,9100){
+	automatic=0
+	id=1769
+}
+tile(Teleporter,8350,9100){
+	automatic=0
+	id=1770
+}
+tile(Teleporter,8400,9150){
+	automatic=1
+	destination=1774
+	id=1771
+}
+tile(Teleporter,8400,9100){
+	automatic=0
+	id=1772
+}
+tile(Teleporter,8450,9150){
+	automatic=1
+	destination=1776
+	id=1773
+}
+tile(Teleporter,8450,9100){
+	automatic=0
+	id=1774
+}
+tile(Teleporter,8500,9150){
+	automatic=1
+	destination=1778
+	id=1775
+}
+tile(Teleporter,8500,9100){
+	automatic=0
+	id=1776
+}
+tile(Teleporter,8550,9150){
+	automatic=1
+	destination=1780
+	id=1777
+}
+tile(Teleporter,8550,9100){
+	automatic=0
+	id=1778
+}
+tile(Teleporter,8600,9150){
+	automatic=1
+	destination=1782
+	id=1779
+}
+tile(Teleporter,8600,9100){
+	automatic=0
+	id=1780
+}
+tile(Teleporter,8650,9150){
+	automatic=1
+	destination=1784
+	id=1781
+}
+tile(Teleporter,8650,9100){
+	automatic=0
+	id=1782
+}
+tile(Teleporter,8700,9150){
+	automatic=1
+	destination=1786
+	id=1783
+}
+tile(Teleporter,8700,9100){
+	automatic=0
+	id=1784
+}
+tile(Teleporter,8750,9150){
+	automatic=1
+	destination=1788
+	id=1785
+}
+tile(Teleporter,8750,9100){
+	automatic=0
+	id=1786
+}
+tile(Teleporter,8800,9150){
+	automatic=1
+	destination=1790
+	id=1787
+}
+tile(Teleporter,8800,9100){
+	automatic=0
+	id=1788
+}
+tile(Teleporter,8850,9150){
+	automatic=1
+	destination=1792
+	id=1789
+}
+tile(Teleporter,8850,9100){
+	automatic=0
+	id=1790
+}
+tile(Teleporter,8900,9150){
+	automatic=1
+	destination=1794
+	id=1791
+}
+tile(Teleporter,8900,9100){
+	automatic=0
+	id=1792
+}
+tile(Teleporter,8950,9150){
+	automatic=1
+	destination=1796
+	id=1793
+}
+tile(Teleporter,8950,9100){
+	automatic=0
+	id=1794
+}
+tile(Teleporter,9000,9150){
+	automatic=1
+	destination=1798
+	id=1795
+}
+tile(Teleporter,9000,9100){
+	automatic=0
+	id=1796
+}
+tile(Teleporter,9050,9150){
+	automatic=1
+	destination=1800
+	id=1797
+}
+tile(Teleporter,9050,9100){
+	automatic=0
+	id=1798
+}
+tile(Teleporter,9100,9150){
+	automatic=1
+	destination=1802
+	id=1799
+}
+tile(Teleporter,9100,9100){
+	automatic=0
+	id=1800
+}
+tile(Teleporter,9150,9150){
+	automatic=1
+	destination=1804
+	id=1801
+}
+tile(Teleporter,9150,9100){
+	automatic=0
+	id=1802
+}
+tile(Teleporter,9200,9150){
+	automatic=1
+	destination=1806
+	id=1803
+}
+tile(Teleporter,9200,9100){
+	automatic=0
+	id=1804
+}
+tile(Teleporter,9250,9150){
+	automatic=1
+	destination=1808
+	id=1805
+}
+tile(Teleporter,9250,9100){
+	automatic=0
+	id=1806
+}
+tile(Teleporter,9300,9150){
+	automatic=1
+	destination=1810
+	id=1807
+}
+tile(Teleporter,9300,9100){
+	automatic=0
+	id=1808
+}
+tile(Teleporter,9350,9150){
+	automatic=1
+	destination=1812
+	id=1809
+}
+tile(Teleporter,9350,9100){
+	automatic=0
+	id=1810
+}
+tile(Teleporter,9400,9150){
+	automatic=1
+	destination=1814
+	id=1811
+}
+tile(Teleporter,9400,9100){
+	automatic=0
+	id=1812
+}
+tile(Teleporter,9450,9150){
+	automatic=1
+	destination=1816
+	id=1813
+}
+tile(Teleporter,9450,9100){
+	automatic=0
+	id=1814
+}
+tile(Teleporter,9500,9150){
+	automatic=1
+	destination=1818
+	id=1815
+}
+tile(Teleporter,9500,9100){
+	automatic=0
+	id=1816
+}
+tile(Teleporter,9550,9150){
+	automatic=1
+	destination=1820
+	id=1817
+}
+tile(Teleporter,9550,9100){
+	automatic=0
+	id=1818
+}
+tile(Teleporter,9600,9150){
+	automatic=1
+	destination=1822
+	id=1819
+}
+tile(Teleporter,9600,9100){
+	automatic=0
+	id=1820
+}
+tile(Teleporter,9650,9150){
+	automatic=1
+	destination=1824
+	id=1821
+}
+tile(Teleporter,9650,9100){
+	automatic=0
+	id=1822
+}
+tile(Teleporter,9700,9150){
+	automatic=1
+	destination=1826
+	id=1823
+}
+tile(Teleporter,9700,9100){
+	automatic=0
+	id=1824
+}
+tile(Teleporter,9750,9150){
+	automatic=1
+	destination=1828
+	id=1825
+}
+tile(Teleporter,9750,9100){
+	automatic=0
+	id=1826
+}
+tile(Teleporter,9800,9150){
+	automatic=1
+	destination=1830
+	id=1827
+}
+tile(Teleporter,9800,9100){
+	automatic=0
+	id=1828
+}
+tile(Teleporter,9850,9150){
+	automatic=1
+	destination=1832
+	id=1829
+}
+tile(Teleporter,9850,9100){
+	automatic=0
+	id=1830
+}
+tile(Teleporter,9900,9150){
+	automatic=1
+	destination=1834
+	id=1831
+}
+tile(Teleporter,9900,9100){
+	automatic=0
+	id=1832
+}
+tile(Teleporter,9950,9150){
+	automatic=1
+	destination=1836
+	id=1833
+}
+tile(Teleporter,9950,9100){
+	automatic=0
+	id=1834
+}
+tile(Teleporter,10000,9100){
+	automatic=1
+	destination=1838
+	id=1835
+}
+tile(Teleporter,10000,9050){
+	automatic=0
+	id=1836
+}
+tile(Teleporter,10050,9100){
+	automatic=1
+	destination=1840
+	id=1837
+}
+tile(Teleporter,10050,9050){
+	automatic=0
+	id=1838
+}
+tile(Teleporter,10100,9100){
+	automatic=1
+	destination=1842
+	id=1839
+}
+tile(Teleporter,10100,9050){
+	automatic=0
+	id=1840
+}
+tile(Teleporter,10150,9050){
+	automatic=1
+	destination=1844
+	id=1841
+}
+tile(Teleporter,10150,9000){
+	automatic=0
+	id=1842
+}
+tile(Teleporter,10200,9050){
+	automatic=1
+	destination=1846
+	id=1843
+}
+tile(Teleporter,10200,9000){
+	automatic=0
+	id=1844
+}
+tile(Teleporter,10250,9000){
+	automatic=1
+	destination=1848
+	id=1845
+}
+tile(Teleporter,10250,8950){
+	automatic=0
+	id=1846
+}
+tile(Teleporter,10300,8950){
+	automatic=1
+	destination=1850
+	id=1847
+}
+tile(Teleporter,10300,8900){
+	automatic=0
+	id=1848
+}
+tile(Teleporter,10350,8900){
+	automatic=1
+	destination=1852
+	id=1849
+}
+tile(Teleporter,10350,8850){
+	automatic=0
+	id=1850
+}
+tile(Teleporter,10400,8850){
+	automatic=1
+	destination=1854
+	id=1851
+}
+tile(Teleporter,10400,8800){
+	automatic=0
+	id=1852
+}
+tile(Teleporter,10450,8800){
+	automatic=1
+	destination=1856
+	id=1853
+}
+tile(Teleporter,10450,8750){
+	automatic=0
+	id=1854
+}
+tile(Teleporter,10500,8750){
+	automatic=1
+	destination=1858
+	id=1855
+}
+tile(Teleporter,10500,8700){
+	automatic=0
+	id=1856
+}
+tile(Teleporter,10550,8700){
+	automatic=1
+	destination=1860
+	id=1857
+}
+tile(Teleporter,10550,8650){
+	automatic=0
+	id=1858
+}
+tile(Teleporter,10600,8650){
+	automatic=1
+	destination=1862
+	id=1859
+}
+tile(Teleporter,10600,8600){
+	automatic=0
+	id=1860
+}
+tile(Teleporter,10650,8600){
+	automatic=1
+	destination=1864
+	id=1861
+}
+tile(Teleporter,10650,8550){
+	automatic=0
+	id=1862
+}
+tile(Teleporter,10700,8550){
+	automatic=1
+	destination=1866
+	id=1863
+}
+tile(Teleporter,10700,8500){
+	automatic=0
+	id=1864
+}
+tile(Teleporter,10750,8450){
+	automatic=1
+	destination=1867
+	id=1865
+}
+tile(Teleporter,10750,8400){
+	automatic=1
+	destination=1869
+	id=1866
+}
+tile(Teleporter,10750,8350){
+	automatic=0
+	id=1867
+}
+tile(Teleporter,10800,8300){
+	automatic=1
+	destination=1871
+	id=1868
+}
+tile(Teleporter,10800,8250){
+	automatic=0
+	id=1869
+}
+tile(Teleporter,10800,8200){
+	automatic=1
+	destination=1873
+	id=1870
+}
+tile(Teleporter,10800,8150){
+	automatic=0
+	id=1871
+}
+tile(Teleporter,10850,8100){
+	automatic=1
+	destination=1875
+	id=1872
+}
+tile(Teleporter,10850,8050){
+	automatic=0
+	id=1873
+}
+tile(Teleporter,10850,8000){
+	automatic=1
+	destination=1877
+	id=1874
+}
+tile(Teleporter,10850,7950){
+	automatic=0
+	id=1875
+}
+tile(Teleporter,10900,7900){
+	automatic=1
+	destination=1879
+	id=1876
+}
+tile(Teleporter,10900,7850){
+	automatic=0
+	id=1877
+}
+tile(Teleporter,10900,7800){
+	automatic=1
+	destination=1881
+	id=1878
+}
+tile(Teleporter,10900,7750){
+	automatic=0
+	id=1879
+}
+tile(Teleporter,10950,7700){
+	automatic=1
+	destination=1883
+	id=1880
+}
+tile(Teleporter,10950,7650){
+	automatic=0
+	id=1881
+}
+tile(Teleporter,10950,7600){
+	automatic=1
+	destination=1885
+	id=1882
+}
+tile(Teleporter,10950,7550){
+	automatic=0
+	id=1883
+}
+tile(Teleporter,11000,7500){
+	automatic=1
+	destination=1887
+	id=1884
+}
+tile(Teleporter,11000,7450){
+	automatic=0
+	id=1885
+}
+tile(Teleporter,11000,7400){
+	automatic=1
+	destination=1889
+	id=1886
+}
+tile(Teleporter,11000,7350){
+	automatic=0
+	id=1887
+}
+tile(Teleporter,11050,7300){
+	automatic=1
+	destination=1891
+	id=1888
+}
+tile(Teleporter,11050,7250){
+	automatic=0
+	id=1889
+}
+tile(Teleporter,11050,7200){
+	automatic=1
+	destination=1893
+	id=1890
+}
+tile(Teleporter,11050,7150){
+	automatic=0
+	id=1891
+}
+tile(Teleporter,11100,7100){
+	automatic=1
+	destination=1895
+	id=1892
+}
+tile(Teleporter,11100,7050){
+	automatic=0
+	id=1893
+}
+tile(Teleporter,11100,7000){
+	automatic=1
+	destination=1897
+	id=1894
+}
+tile(Teleporter,11100,6950){
+	automatic=0
+	id=1895
+}
+tile(Teleporter,11150,6900){
+	automatic=1
+	destination=1899
+	id=1896
+}
+tile(Teleporter,11150,6850){
+	automatic=0
+	id=1897
+}
+tile(Teleporter,11150,6800){
+	automatic=1
+	destination=1901
+	id=1898
+}
+tile(Teleporter,11150,6750){
+	automatic=0
+	id=1899
+}
+tile(Teleporter,11200,6700){
+	automatic=1
+	destination=1903
+	id=1900
+}
+tile(Teleporter,11200,6650){
+	automatic=0
+	id=1901
+}
+tile(Teleporter,11200,6600){
+	automatic=1
+	destination=1905
+	id=1902
+}
+tile(Teleporter,11200,6550){
+	automatic=0
+	id=1903
+}
+tile(Teleporter,11250,6500){
+	automatic=1
+	destination=1906
+	id=1904
+}
+tile(Teleporter,11250,6450){
+	automatic=1
+	destination=1908
+	id=1905
+}
+tile(Teleporter,11250,6400){
+	automatic=0
+	id=1906
+}
+tile(Teleporter,11300,6350){
+	automatic=1
+	destination=1910
+	id=1907
+}
+tile(Teleporter,11300,6300){
+	automatic=0
+	id=1908
+}
+tile(Teleporter,11350,6250){
+	automatic=1
+	destination=1912
+	id=1909
+}
+tile(Teleporter,11350,6200){
+	automatic=0
+	id=1910
+}
+tile(Teleporter,11400,6200){
+	automatic=1
+	destination=1914
+	id=1911
+}
+tile(Teleporter,11400,6150){
+	automatic=0
+	id=1912
+}
+tile(Teleporter,11450,6150){
+	automatic=1
+	destination=1916
+	id=1913
+}
+tile(Teleporter,11450,6100){
+	automatic=0
+	id=1914
+}
+tile(Teleporter,11500,6100){
+	automatic=1
+	destination=1918
+	id=1915
+}
+tile(Teleporter,11500,6050){
+	automatic=0
+	id=1916
+}
+tile(Teleporter,11550,6100){
+	automatic=1
+	destination=1920
+	id=1917
+}
+tile(Teleporter,11550,6050){
+	automatic=0
+	id=1918
+}
+tile(Teleporter,11600,6050){
+	automatic=1
+	destination=1922
+	id=1919
+}
+tile(Teleporter,11600,6000){
+	automatic=0
+	id=1920
+}
+tile(Teleporter,11650,6050){
+	automatic=1
+	destination=1924
+	id=1921
+}
+tile(Teleporter,11650,6000){
+	automatic=0
+	id=1922
+}
+tile(Teleporter,11700,6050){
+	automatic=1
+	destination=1926
+	id=1923
+}
+tile(Teleporter,11700,6000){
+	automatic=0
+	id=1924
+}
+tile(Teleporter,11750,6100){
+	automatic=1
+	destination=1928
+	id=1925
+}
+tile(Teleporter,11750,6050){
+	automatic=0
+	id=1926
+}
+tile(Teleporter,11800,6100){
+	automatic=1
+	destination=1930
+	id=1927
+}
+tile(Teleporter,11800,6050){
+	automatic=0
+	id=1928
+}
+tile(Teleporter,11850,6150){
+	automatic=1
+	destination=1932
+	id=1929
+}
+tile(Teleporter,11850,6100){
+	automatic=0
+	id=1930
+}
+tile(Teleporter,11900,6200){
+	automatic=1
+	destination=1934
+	id=1931
+}
+tile(Teleporter,11900,6150){
+	automatic=0
+	id=1932
+}
+tile(Teleporter,11950,6250){
+	automatic=1
+	destination=1936
+	id=1933
+}
+tile(Teleporter,11950,6200){
+	automatic=0
+	id=1934
+}
+tile(Teleporter,12000,6350){
+	automatic=1
+	destination=1939
+	id=1935
+}
+tile(Teleporter,12000,6300){
+	automatic=0
+	id=1936
+}
+tile(Teleporter,12050,6500){
+	automatic=0
+	id=1937
+}
+tile(Teleporter,12050,6450){
+	automatic=1
+	destination=1943
+	id=1938
+}
+tile(Teleporter,12050,6400){
+	automatic=0
+	id=1939
+}
+tile(Teleporter,12100,6700){
+	automatic=1
+	destination=1944
+	id=1940
+}
+tile(Teleporter,12100,6650){
+	automatic=0
+	id=1941
+}
+tile(Teleporter,12100,6600){
+	automatic=1
+	destination=1941
+	id=1942
+}
+tile(Teleporter,12100,6550){
+	automatic=0
+	id=1943
+}
+tile(Teleporter,12150,6750){
+	automatic=0
+	id=1944
+}
+tile(Teleporter,12150,6800){
+	automatic=1
+	destination=1946
+	id=1945
+}
+tile(Teleporter,12150,6850){
+	automatic=0
+	id=1946
+}
+tile(Teleporter,12150,6900){
+	automatic=1
+	destination=1948
+	id=1947
+}
+tile(Teleporter,12150,6950){
+	automatic=0
+	id=1948
+}
+tile(Teleporter,12150,7000){
+	automatic=1
+	destination=1950
+	id=1949
+}
+tile(Teleporter,12150,7050){
+	automatic=0
+	id=1950
+}
+tile(Teleporter,12150,7100){
+	automatic=1
+	destination=1952
+	id=1951
+}
+tile(Teleporter,12200,7150){
+	automatic=0
+	id=1952
+}
+tile(Teleporter,12200,7200){
+	automatic=1
+	destination=1954
+	id=1953
+}
+tile(Teleporter,12200,7250){
+	automatic=0
+	id=1954
+}
+tile(Teleporter,12200,7300){
+	automatic=1
+	destination=1956
+	id=1955
+}
+tile(Teleporter,12200,7350){
+	automatic=0
+	id=1956
+}
+tile(Teleporter,12200,7400){
+	automatic=1
+	destination=1958
+	id=1957
+}
+tile(Teleporter,12200,7450){
+	automatic=0
+	id=1958
+}
+tile(Teleporter,12200,7500){
+	automatic=1
+	destination=1960
+	id=1959
+}
+tile(Teleporter,12250,7550){
+	automatic=0
+	id=1960
+}
+tile(Teleporter,12250,7600){
+	automatic=1
+	destination=1962
+	id=1961
+}
+tile(Teleporter,12250,7650){
+	automatic=0
+	id=1962
+}
+tile(Teleporter,12250,7700){
+	automatic=1
+	destination=1964
+	id=1963
+}
+tile(Teleporter,12250,7750){
+	automatic=0
+	id=1964
+}
+tile(Teleporter,12250,7800){
+	automatic=1
+	destination=1967
+	id=1965
+}
+tile(Teleporter,12250,7900){
+	automatic=1
+	destination=1968
+	id=1966
+}
+tile(Teleporter,12250,7850){
+	automatic=0
+	id=1967
+}
+tile(Teleporter,12300,7950){
+	automatic=0
+	id=1968
+}
+tile(Teleporter,12300,8000){
+	automatic=1
+	destination=1970
+	id=1969
+}
+tile(Teleporter,12300,8050){
+	automatic=0
+	id=1970
+}
+tile(Teleporter,12300,8100){
+	automatic=1
+	destination=1972
+	id=1971
+}
+tile(Teleporter,12300,8150){
+	automatic=0
+	id=1972
+}
+tile(Teleporter,12300,8200){
+	automatic=1
+	destination=1974
+	id=1973
+}
+tile(Teleporter,12300,8250){
+	automatic=0
+	id=1974
+}
+tile(Teleporter,12300,8300){
+	automatic=1
+	destination=1976
+	id=1975
+}
+tile(Teleporter,12350,8350){
+	automatic=0
+	id=1976
+}
+tile(Teleporter,12350,8400){
+	automatic=1
+	destination=1978
+	id=1977
+}
+tile(Teleporter,12350,8450){
+	automatic=0
+	id=1978
+}
+tile(Teleporter,12350,8500){
+	automatic=1
+	destination=1980
+	id=1979
+}
+tile(Teleporter,12350,8550){
+	automatic=0
+	id=1980
+}
+tile(Teleporter,12350,8600){
+	automatic=1
+	destination=1982
+	id=1981
+}
+tile(Teleporter,12350,8650){
+	automatic=0
+	id=1982
+}
+tile(Teleporter,12350,8700){
+	automatic=1
+	destination=1984
+	id=1983
+}
+tile(Teleporter,12400,8750){
+	automatic=0
+	id=1984
+}
+tile(Teleporter,12400,8800){
+	automatic=1
+	destination=1986
+	id=1985
+}
+tile(Teleporter,12400,8850){
+	automatic=0
+	id=1986
+}
+tile(Teleporter,12400,8900){
+	automatic=1
+	destination=1988
+	id=1987
+}
+tile(Teleporter,12400,8950){
+	automatic=0
+	id=1988
+}
+tile(Teleporter,12400,9000){
+	automatic=1
+	destination=1990
+	id=1989
+}
+tile(Teleporter,12400,9050){
+	automatic=0
+	id=1990
+}
+tile(Teleporter,12400,9100){
+	automatic=1
+	destination=1992
+	id=1991
+}
+tile(Teleporter,12450,9150){
+	automatic=0
+	id=1992
+}
+tile(Teleporter,12450,9200){
+	automatic=1
+	destination=1994
+	id=1993
+}
+tile(Teleporter,12450,9250){
+	automatic=0
+	id=1994
+}
+tile(Teleporter,12450,9300){
+	automatic=1
+	destination=1996
+	id=1995
+}
+tile(Teleporter,12450,9350){
+	automatic=0
+	id=1996
+}
+tile(Teleporter,12450,9400){
+	automatic=1
+	destination=1998
+	id=1997
+}
+tile(Teleporter,12450,9450){
+	automatic=0
+	id=1998
+}
+tile(Teleporter,12450,9500){
+	automatic=1
+	destination=2000
+	id=1999
+}
+tile(Teleporter,12500,9550){
+	automatic=0
+	id=2000
+}
+tile(Teleporter,12500,9600){
+	automatic=1
+	destination=2002
+	id=2001
+}
+tile(Teleporter,12500,9650){
+	automatic=0
+	id=2002
+}
+tile(Teleporter,12500,9700){
+	automatic=1
+	destination=2004
+	id=2003
+}
+tile(Teleporter,12500,9750){
+	automatic=0
+	id=2004
+}
+tile(Teleporter,12500,9800){
+	automatic=1
+	destination=2006
+	id=2005
+}
+tile(Teleporter,12500,9850){
+	automatic=0
+	id=2006
+}
+tile(Teleporter,12500,9900){
+	automatic=1
+	destination=2008
+	id=2007
+}
+tile(Teleporter,12550,9950){
+	automatic=0
+	id=2008
+}
+tile(Teleporter,12550,10000){
+	automatic=1
+	destination=2010
+	id=2009
+}
+tile(Teleporter,12550,10050){
+	automatic=0
+	id=2010
+}
+tile(Teleporter,12550,10100){
+	automatic=1
+	destination=2012
+	id=2011
+}
+tile(Teleporter,12550,10150){
+	automatic=0
+	id=2012
+}
+tile(Teleporter,12550,10200){
+	automatic=1
+	destination=2014
+	id=2013
+}
+tile(Teleporter,12550,10250){
+	automatic=0
+	id=2014
+}
+tile(Teleporter,12550,10300){
+	automatic=1
+	destination=2077
+	id=2015
+}
+tile(ShadowBlock,12550,10350)
+tile(ShadowBlock,12550,10400)
+tile(ShadowBlock,12550,10450)
+tile(ShadowBlock,12550,10500)
+tile(ShadowBlock,12600,10550)
+tile(ShadowBlock,12600,10600)
+tile(ShadowBlock,12600,10650)
+tile(ShadowBlock,12650,10700)
+tile(ShadowBlock,12650,10750)
+tile(ShadowBlock,12700,10800)
+tile(ShadowBlock,12750,10850)
+tile(ShadowBlock,12800,10900)
+tile(ShadowBlock,12850,10900)
+tile(ShadowBlock,12900,10950)
+tile(ShadowBlock,12950,10950)
+tile(ShadowBlock,13000,10950)
+tile(ShadowBlock,13050,11000)
+tile(ShadowBlock,13150,11000)
+tile(ShadowBlock,13100,11000)
+tile(ShadowBlock,13200,11000)
+tile(ShadowBlock,13250,11050)
+tile(ShadowBlock,13300,11050)
+tile(ShadowBlock,13350,11050)
+tile(ShadowBlock,13400,11050)
+tile(ShadowBlock,13450,11050)
+tile(Button,13500,11050){
+	behaviour=on
+	id=2016
+}
+tile(Teleporter,13500,10950){
+	automatic=1
+	destination=2138
+	id=2050
+}
+tile(Teleporter,12600,10500){
+	automatic=1
+	destination=2080
+	id=2074
+}
+tile(Teleporter,12600,10450){
+	automatic=0
+	id=2075
+}
+tile(Teleporter,12600,10400){
+	automatic=1
+	destination=2075
+	id=2076
+}
+tile(Teleporter,12600,10350){
+	automatic=0
+	id=2077
+}
+tile(Teleporter,12650,10650){
+	automatic=0
+	id=2078
+}
+tile(Teleporter,12650,10600){
+	automatic=1
+	destination=2082
+	id=2079
+}
+tile(Teleporter,12650,10550){
+	automatic=0
+	id=2080
+}
+tile(Teleporter,12700,10750){
+	automatic=1
+	destination=2084
+	id=2081
+}
+tile(Teleporter,12700,10700){
+	automatic=0
+	id=2082
+}
+tile(Teleporter,12750,10800){
+	automatic=1
+	destination=2086
+	id=2083
+}
+tile(Teleporter,12750,10750){
+	automatic=0
+	id=2084
+}
+tile(Teleporter,12800,10850){
+	automatic=1
+	destination=2088
+	id=2085
+}
+tile(Teleporter,12800,10800){
+	automatic=0
+	id=2086
+}
+tile(Teleporter,12850,10850){
+	automatic=1
+	destination=2090
+	id=2087
+}
+tile(Teleporter,12850,10800){
+	automatic=0
+	id=2088
+}
+tile(Teleporter,12900,10900){
+	automatic=1
+	destination=2092
+	id=2089
+}
+tile(Teleporter,12900,10850){
+	automatic=0
+	id=2090
+}
+tile(Teleporter,12950,10900){
+	automatic=1
+	destination=2094
+	id=2091
+}
+tile(Teleporter,12950,10850){
+	automatic=0
+	id=2092
+}
+tile(Teleporter,13000,10900){
+	automatic=1
+	destination=2096
+	id=2093
+}
+tile(Teleporter,13000,10850){
+	automatic=0
+	id=2094
+}
+tile(Teleporter,13050,10950){
+	automatic=1
+	destination=2098
+	id=2095
+}
+tile(Teleporter,13050,10900){
+	automatic=0
+	id=2096
+}
+tile(Teleporter,13100,10950){
+	automatic=1
+	destination=2100
+	id=2097
+}
+tile(Teleporter,13100,10900){
+	automatic=0
+	id=2098
+}
+tile(Teleporter,13150,10950){
+	automatic=1
+	destination=2102
+	id=2099
+}
+tile(Teleporter,13150,10900){
+	automatic=0
+	id=2100
+}
+tile(Teleporter,13200,10950){
+	automatic=1
+	destination=2104
+	id=2101
+}
+tile(Teleporter,13200,10900){
+	automatic=0
+	id=2102
+}
+tile(Teleporter,13250,11000){
+	automatic=1
+	destination=2106
+	id=2103
+}
+tile(Teleporter,13250,10950){
+	automatic=0
+	id=2104
+}
+tile(Teleporter,13300,11000){
+	automatic=1
+	destination=2108
+	id=2105
+}
+tile(Teleporter,13300,10950){
+	automatic=0
+	id=2106
+}
+tile(Teleporter,13350,11000){
+	automatic=1
+	destination=2110
+	id=2107
+}
+tile(Teleporter,13350,10950){
+	automatic=0
+	id=2108
+}
+tile(Teleporter,13400,11000){
+	automatic=1
+	destination=2112
+	id=2109
+}
+tile(Teleporter,13400,10950){
+	automatic=0
+	id=2110
+}
+tile(Teleporter,13450,11000){
+	automatic=1
+	destination=2050
+	id=2111
+}
+tile(Teleporter,13450,10950){
+	automatic=0
+	id=2112
+}
+tile(MovingBlock,13500,11100){
+	MovingPosCount=1
+	disabled=1
+	id=2016
+	loop=0
+	t0=500
+	x0=0
+	y0=-100
+}
+tile(Spikes,13550,11050)
+tile(Spikes,13600,11050)
+tile(Spikes,13650,11050)
+tile(Spikes,13700,11050)
+tile(Spikes,13750,11050)
+tile(Spikes,13800,11050)
+tile(Spikes,13850,11050)
+tile(ShadowBlock,13900,11050)
+tile(Block,13900,11000)
+tile(Block,13900,10950)
+tile(Block,13900,10850)
+tile(Block,13900,10800)
+tile(Block,13900,10900)
+tile(Block,13900,10750)
+tile(Block,13900,10700)
+tile(MovingBlock,13950,10700){
+	MovingPosCount=1
+	disabled=1
+	id=2016
+	loop=0
+	t0=100
+	x0=-100
+	y0=0
+}
+tile(MovingBlock,14000,10700){
+	MovingPosCount=1
+	disabled=1
+	id=2016
+	loop=0
+	t0=100
+	x0=-200
+	y0=0
+}
+tile(MovingBlock,14050,10700){
+	MovingPosCount=1
+	disabled=1
+	id=2016
+	loop=0
+	t0=100
+	x0=-300
+	y0=0
+}
+tile(MovingBlock,14100,10700){
+	MovingPosCount=2
+	disabled=1
+	id=2016
+	loop=0
+	t0=100
+	t1=100
+	x0=-400
+	x1=-400
+	y0=0
+	y1=100
+}
+tile(MovingBlock,14100,10750){
+	MovingPosCount=2
+	disabled=1
+	id=2016
+	loop=0
+	t0=100
+	t1=100
+	x0=-400
+	x1=-400
+	y0=0
+	y1=100
+}
+tile(MovingBlock,14100,10850){
+	MovingPosCount=2
+	disabled=1
+	id=2016
+	loop=0
+	t0=100
+	t1=100
+	x0=-400
+	x1=-400
+	y0=0
+	y1=100
+}
+tile(MovingBlock,14100,10900){
+	MovingPosCount=2
+	disabled=1
+	id=2016
+	loop=0
+	t0=100
+	t1=100
+	x0=-400
+	x1=-400
+	y0=0
+	y1=100
+}
+tile(MovingBlock,14050,10900){
+	MovingPosCount=2
+	disabled=1
+	id=2016
+	loop=0
+	t0=100
+	t1=100
+	x0=-400
+	x1=-400
+	y0=0
+	y1=100
+}
+tile(MovingBlock,14100,10800){
+	MovingPosCount=2
+	disabled=1
+	id=2016
+	loop=0
+	t0=100
+	t1=100
+	x0=-400
+	x1=-400
+	y0=0
+	y1=100
+}
+tile(MovingBlock,14150,10900){
+	MovingPosCount=2
+	disabled=1
+	id=2016
+	loop=0
+	t0=100
+	t1=100
+	x0=-400
+	x1=-400
+	y0=0
+	y1=100
+}
+tile(MovingShadowBlock,13950,10950){
+	MovingPosCount=2
+	disabled=1
+	id=2016
+	loop=0
+	t0=100
+	t1=100
+	x0=-400
+	x1=-400
+	y0=0
+	y1=100
+}
+tile(MovingShadowBlock,14000,10950){
+	MovingPosCount=2
+	disabled=1
+	id=2016
+	loop=0
+	t0=100
+	t1=100
+	x0=-400
+	x1=-400
+	y0=0
+	y1=100
+}
+tile(MovingShadowBlock,14050,10950){
+	MovingPosCount=2
+	disabled=1
+	id=2016
+	loop=0
+	t0=100
+	t1=100
+	x0=-400
+	x1=-400
+	y0=0
+	y1=100
+}
+tile(MovingShadowBlock,14100,10950){
+	MovingPosCount=2
+	disabled=1
+	id=2016
+	loop=0
+	t0=100
+	t1=100
+	x0=-400
+	x1=-400
+	y0=0
+	y1=100
+}
+tile(MovingShadowBlock,14150,10950){
+	MovingPosCount=2
+	disabled=1
+	id=2016
+	loop=0
+	t0=100
+	t1=100
+	x0=-400
+	x1=-400
+	y0=0
+	y1=100
+}
+tile(MovingShadowBlock,14200,10950){
+	MovingPosCount=2
+	disabled=1
+	id=2016
+	loop=0
+	t0=100
+	t1=100
+	x0=-400
+	x1=-400
+	y0=0
+	y1=100
+}
+tile(MovingShadowBlock,14250,10950){
+	MovingPosCount=2
+	disabled=1
+	id=2016
+	loop=0
+	t0=100
+	t1=100
+	x0=-400
+	x1=-400
+	y0=0
+	y1=100
+}
+tile(MovingBlock,14100,10650){
+	MovingPosCount=2
+	disabled=1
+	id=2016
+	loop=0
+	t0=100
+	t1=100
+	x0=-400
+	x1=-400
+	y0=0
+	y1=100
+}
+tile(MovingBlock,14100,10600){
+	MovingPosCount=2
+	disabled=1
+	id=2016
+	loop=0
+	t0=100
+	t1=100
+	x0=-400
+	x1=-400
+	y0=0
+	y1=100
+}
+tile(Teleporter,13550,11000){
+	automatic=1
+	destination=2140
+	id=2137
+}
+tile(Teleporter,13550,10950){
+	automatic=0
+	id=2138
+}
+tile(Teleporter,13600,11000){
+	automatic=1
+	destination=2144
+	id=2139
+}
+tile(Teleporter,13600,10950){
+	automatic=0
+	id=2140
+}
+tile(Teleporter,13750,10950){
+	automatic=0
+	id=2141
+}
+tile(Teleporter,13650,10950){
+	automatic=0
+	id=2142
+}
+tile(Teleporter,13800,11000){
+	automatic=1
+	destination=2146
+	id=2143
+}
+tile(Teleporter,13800,10950){
+	automatic=0
+	id=2144
+}
+tile(Teleporter,13850,11000){
+	automatic=1
+	destination=2157
+	id=2145
+}
+tile(Teleporter,13850,10950){
+	automatic=0
+	id=2146
+}
+tile(Teleporter,13950,11050){
+	automatic=1
+	destination=2155
+	id=2154
+}
+tile(Teleporter,14000,11000){
+	automatic=0
+	id=2155
+}
+tile(Teleporter,14000,11050){
+	automatic=1
+	destination=2159
+	id=2156
+}
+tile(Teleporter,13950,11000){
+	automatic=0
+	id=2157
+}
+tile(Teleporter,14050,11050){
+	automatic=1
+	destination=2161
+	id=2158
+}
+tile(Teleporter,14050,11000){
+	automatic=0
+	id=2159
+}
+tile(Teleporter,14100,11050){
+	automatic=1
+	destination=2163
+	id=2160
+}
+tile(Teleporter,14100,11000){
+	automatic=0
+	id=2161
+}
+tile(Teleporter,14150,11050){
+	automatic=1
+	destination=2165
+	id=2162
+}
+tile(Teleporter,14150,11000){
+	automatic=0
+	id=2163
+}
+tile(Teleporter,14200,11050){
+	automatic=1
+	destination=2167
+	id=2164
+}
+tile(Teleporter,14200,11000){
+	automatic=0
+	id=2165
+}
+tile(Teleporter,14250,11050){
+	automatic=1
+	destination=2169
+	id=2166
+}
+tile(Teleporter,14250,11000){
+	automatic=0
+	id=2167
+}
+tile(ShadowBlock,14300,11050)
+tile(ShadowBlock,14350,11050)
+tile(ShadowBlock,14400,11050)
+tile(ShadowBlock,14450,11050)
+tile(ShadowBlock,14500,11050)
+tile(ShadowBlock,14550,11050)
+tile(ShadowBlock,14600,11050)
+tile(ShadowBlock,14700,11050)
+tile(ShadowBlock,14650,11050)
+tile(ShadowBlock,14750,11050)
+tile(ShadowBlock,14800,11050)
+tile(ShadowBlock,14850,11050)
+tile(Teleporter,14300,11000){
+	automatic=1
+	destination=2171
+	id=2168
+}
+tile(Teleporter,14300,10950){
+	automatic=0
+	id=2169
+}
+tile(Teleporter,14350,11000){
+	automatic=1
+	destination=2173
+	id=2170
+}
+tile(Teleporter,14350,10950){
+	automatic=0
+	id=2171
+}
+tile(Teleporter,14400,11000){
+	automatic=1
+	destination=2175
+	id=2172
+}
+tile(Teleporter,14400,10950){
+	automatic=0
+	id=2173
+}
+tile(Teleporter,14450,11000){
+	automatic=1
+	destination=2177
+	id=2174
+}
+tile(Teleporter,14450,10950){
+	automatic=0
+	id=2175
+}
+tile(Teleporter,14500,11000){
+	automatic=1
+	destination=2179
+	id=2176
+}
+tile(Teleporter,14500,10950){
+	automatic=0
+	id=2177
+}
+tile(Teleporter,14550,11000){
+	automatic=1
+	destination=2181
+	id=2178
+}
+tile(Teleporter,14550,10950){
+	automatic=0
+	id=2179
+}
+tile(Teleporter,14600,11000){
+	automatic=1
+	destination=2183
+	id=2180
+}
+tile(Teleporter,14600,10950){
+	automatic=0
+	id=2181
+}
+tile(Teleporter,14650,11000){
+	automatic=1
+	destination=2185
+	id=2182
+}
+tile(Teleporter,14650,10950){
+	automatic=0
+	id=2183
+}
+tile(Teleporter,14700,11000){
+	automatic=1
+	destination=2187
+	id=2184
+}
+tile(Teleporter,14700,10950){
+	automatic=0
+	id=2185
+}
+tile(Teleporter,14750,11000){
+	automatic=1
+	destination=2189
+	id=2186
+}
+tile(Teleporter,14750,10950){
+	automatic=0
+	id=2187
+}
+tile(Teleporter,14800,11000){
+	automatic=1
+	destination=2191
+	id=2188
+}
+tile(Teleporter,14800,10950){
+	automatic=0
+	id=2189
+}
+tile(Teleporter,14850,11000){
+	automatic=1
+	destination=2200
+	id=2190
+}
+tile(Teleporter,14850,10950){
+	automatic=0
+	id=2191
+}
+tile(ShadowBlock,13650,12000)
+tile(ShadowBlock,13650,11650)
+tile(MovingShadowBlock,13950,11100){
+	MovingPosCount=1
+	disabled=0
+	id=2192
+	loop=0
+	t0=5
+	x0=0
+	y0=-50
+}
+tile(MovingShadowBlock,14000,11100){
+	MovingPosCount=1
+	disabled=0
+	id=2193
+	loop=0
+	t0=5
+	x0=0
+	y0=-50
+}
+tile(MovingShadowBlock,14050,11100){
+	MovingPosCount=1
+	disabled=0
+	id=2194
+	loop=0
+	t0=5
+	x0=0
+	y0=-50
+}
+tile(MovingShadowBlock,14100,11100){
+	MovingPosCount=1
+	disabled=0
+	id=2195
+	loop=0
+	t0=5
+	x0=0
+	y0=-50
+}
+tile(MovingShadowBlock,14150,11100){
+	MovingPosCount=1
+	disabled=0
+	id=2196
+	loop=0
+	t0=5
+	x0=0
+	y0=-50
+}
+tile(MovingShadowBlock,14200,11100){
+	MovingPosCount=1
+	disabled=0
+	id=2197
+	loop=0
+	t0=5
+	x0=0
+	y0=-50
+}
+tile(MovingShadowBlock,14250,11100){
+	MovingPosCount=1
+	disabled=0
+	id=2198
+	loop=0
+	t0=5
+	x0=0
+	y0=-50
+}
+tile(ShadowBlock,14900,11050)
+tile(ShadowBlock,14950,11050)
+tile(ShadowBlock,15000,11050)
+tile(ShadowBlock,15050,11050)
+tile(ShadowBlock,15100,11050)
+tile(ShadowBlock,15150,11050)
+tile(ShadowBlock,15200,11050)
+tile(ShadowBlock,15300,11050)
+tile(ShadowBlock,15400,11050)
+tile(ShadowBlock,15450,11050)
+tile(ShadowBlock,15500,11050)
+tile(ShadowBlock,15550,11050)
+tile(ShadowBlock,15600,11050)
+tile(ShadowBlock,15650,11050)
+tile(ShadowBlock,15700,11050)
+tile(ShadowBlock,15750,11050)
+tile(ShadowBlock,15800,11050)
+tile(ShadowBlock,15850,11050)
+tile(ShadowBlock,15900,11050)
+tile(ShadowBlock,15950,11050)
+tile(ShadowBlock,16000,11050)
+tile(ShadowBlock,16050,11050)
+tile(ShadowBlock,16100,11050)
+tile(ShadowBlock,15350,11050)
+tile(ShadowBlock,15250,11050)
+tile(ShadowBlock,16150,13050)
+tile(ShadowBlock,16200,13100)
+tile(ShadowBlock,16250,13150)
+tile(ShadowBlock,16300,13200)
+tile(ShadowBlock,16350,13250)
+tile(ShadowBlock,16400,13300)
+tile(ShadowBlock,16450,13350)
+tile(ShadowBlock,16500,13400)
+tile(ShadowBlock,16550,13400)
+tile(ShadowBlock,16600,13450)
+tile(ShadowBlock,16700,13450)
+tile(ShadowBlock,16650,13450)
+tile(ShadowBlock,16750,13500)
+tile(ShadowBlock,16800,13500)
+tile(ShadowBlock,16850,13500)
+tile(ShadowBlock,16900,13500)
+tile(ShadowBlock,17000,13500)
+tile(ShadowBlock,17050,13500)
+tile(ShadowBlock,16950,13500)
+tile(Teleporter,14900,11000){
+	automatic=1
+	destination=2202
+	id=2199
+}
+tile(Teleporter,14900,10950){
+	automatic=0
+	id=2200
+}
+tile(Teleporter,14950,11000){
+	automatic=1
+	destination=2204
+	id=2201
+}
+tile(Teleporter,14950,10950){
+	automatic=0
+	id=2202
+}
+tile(Teleporter,15000,11000){
+	automatic=1
+	destination=2206
+	id=2203
+}
+tile(Teleporter,15000,10950){
+	automatic=0
+	id=2204
+}
+tile(Teleporter,15050,11000){
+	automatic=1
+	destination=2208
+	id=2205
+}
+tile(Teleporter,15050,10950){
+	automatic=0
+	id=2206
+}
+tile(Teleporter,15100,11000){
+	automatic=1
+	destination=2210
+	id=2207
+}
+tile(Teleporter,15100,10950){
+	automatic=0
+	id=2208
+}
+tile(Teleporter,15150,11000){
+	automatic=1
+	destination=2212
+	id=2209
+}
+tile(Teleporter,15150,10950){
+	automatic=0
+	id=2210
+}
+tile(Teleporter,15200,11000){
+	automatic=1
+	destination=2214
+	id=2211
+}
+tile(Teleporter,15200,10950){
+	automatic=0
+	id=2212
+}
+tile(Teleporter,15250,11000){
+	automatic=1
+	destination=2216
+	id=2213
+}
+tile(Teleporter,15250,10950){
+	automatic=0
+	id=2214
+}
+tile(Teleporter,15300,11000){
+	automatic=1
+	destination=2218
+	id=2215
+}
+tile(Teleporter,15300,10950){
+	automatic=0
+	id=2216
+}
+tile(Teleporter,15350,11000){
+	automatic=1
+	destination=2220
+	id=2217
+}
+tile(Teleporter,15350,10950){
+	automatic=0
+	id=2218
+}
+tile(Teleporter,15400,11000){
+	automatic=1
+	destination=2222
+	id=2219
+}
+tile(Teleporter,15400,10950){
+	automatic=0
+	id=2220
+}
+tile(Teleporter,15450,11000){
+	automatic=1
+	destination=2224
+	id=2221
+}
+tile(Teleporter,15450,10950){
+	automatic=0
+	id=2222
+}
+tile(Teleporter,15500,11000){
+	automatic=1
+	destination=2226
+	id=2223
+}
+tile(Teleporter,15500,10950){
+	automatic=0
+	id=2224
+}
+tile(Teleporter,15550,11000){
+	automatic=1
+	destination=2228
+	id=2225
+}
+tile(Teleporter,15550,10950){
+	automatic=0
+	id=2226
+}
+tile(Teleporter,15600,11000){
+	automatic=1
+	destination=2230
+	id=2227
+}
+tile(Teleporter,15600,10950){
+	automatic=0
+	id=2228
+}
+tile(Teleporter,15650,11000){
+	automatic=1
+	destination=2232
+	id=2229
+}
+tile(Teleporter,15650,10950){
+	automatic=0
+	id=2230
+}
+tile(Teleporter,15700,11000){
+	automatic=1
+	destination=2234
+	id=2231
+}
+tile(Teleporter,15700,10950){
+	automatic=0
+	id=2232
+}
+tile(Teleporter,15750,11000){
+	automatic=1
+	destination=2238
+	id=2233
+}
+tile(Teleporter,15750,10950){
+	automatic=0
+	id=2234
+}
+tile(Teleporter,15800,11000){
+	automatic=1
+	destination=2236
+	id=2235
+}
+tile(Teleporter,15850,10950){
+	automatic=0
+	id=2236
+}
+tile(Teleporter,15850,11000){
+	automatic=1
+	destination=2240
+	id=2237
+}
+tile(Teleporter,15800,10950){
+	automatic=0
+	id=2238
+}
+tile(Teleporter,15900,11000){
+	automatic=1
+	destination=2242
+	id=2239
+}
+tile(Teleporter,15900,10950){
+	automatic=0
+	id=2240
+}
+tile(Teleporter,15950,11000){
+	automatic=1
+	destination=2244
+	id=2241
+}
+tile(Teleporter,15950,10950){
+	automatic=0
+	id=2242
+}
+tile(Teleporter,16000,11000){
+	automatic=1
+	destination=2246
+	id=2243
+}
+tile(Teleporter,16000,10950){
+	automatic=0
+	id=2244
+}
+tile(Teleporter,16050,11000){
+	automatic=1
+	destination=2248
+	id=2245
+}
+tile(Teleporter,16050,10950){
+	automatic=0
+	id=2246
+}
+tile(Teleporter,16100,11000){
+	automatic=1
+	destination=2251
+	id=2247
+}
+tile(Teleporter,16100,10950){
+	automatic=0
+	id=2248
+}
+tile(ShadowBlock,16150,11050)
+tile(ShadowBlock,16200,11050)
+tile(ShadowBlock,16250,11050)
+tile(ShadowBlock,16350,11050)
+tile(ShadowBlock,16300,11050)
+tile(ShadowBlock,16400,11050)
+tile(ShadowBlock,16450,11050)
+tile(ShadowBlock,16500,11050)
+tile(ShadowBlock,16550,11050)
+tile(ShadowBlock,16600,11050)
+tile(ShadowBlock,16650,11050)
+tile(ShadowBlock,16700,11050)
+tile(ShadowBlock,16750,11050)
+tile(ShadowBlock,16800,11050)
+tile(ShadowBlock,16850,11050)
+tile(ShadowBlock,16900,11050)
+tile(ShadowBlock,16950,11050)
+tile(Teleporter,16200,11000){
+	automatic=0
+	id=2249
+}
+tile(Teleporter,16150,11000){
+	automatic=0
+	id=2250
+}
+tile(Teleporter,16150,10950){
+	automatic=0
+	id=2251
+}
+tile(Teleporter,16200,10950){
+	automatic=0
+	id=2252
+}
+tile(Teleporter,16250,11000){
+	automatic=0
+	id=2253
+}
+tile(Teleporter,16250,10950){
+	automatic=0
+	id=2254
+}
+tile(Teleporter,16300,11000){
+	automatic=0
+	id=2255
+}
+tile(Teleporter,16300,10950){
+	automatic=0
+	id=2256
+}
+tile(Teleporter,16350,11000){
+	automatic=0
+	id=2257
+}
+tile(Teleporter,16350,10950){
+	automatic=0
+	id=2258
+}
+tile(Teleporter,16400,11000){
+	automatic=0
+	id=2259
+}
+tile(Teleporter,16400,10950){
+	automatic=0
+	id=2260
+}
+tile(Teleporter,16450,11000){
+	automatic=0
+	id=2261
+}
+tile(Teleporter,16450,10950){
+	automatic=0
+	id=2262
+}
+tile(Teleporter,16500,11000){
+	automatic=0
+	id=2263
+}
+tile(Teleporter,16500,10950){
+	automatic=0
+	id=2264
+}
+tile(Teleporter,16550,11000){
+	automatic=0
+	id=2265
+}
+tile(Teleporter,16550,10950){
+	automatic=0
+	id=2266
+}
+tile(Teleporter,16600,11000){
+	automatic=0
+	id=2267
+}
+tile(Teleporter,16600,10950){
+	automatic=0
+	id=2268
+}
+tile(Teleporter,16650,11000){
+	automatic=0
+	id=2269
+}
+tile(Teleporter,16650,10950){
+	automatic=0
+	id=2270
+}
+tile(Teleporter,16700,11000){
+	automatic=0
+	id=2271
+}
+tile(Teleporter,16700,10950){
+	automatic=0
+	id=2272
+}
+tile(Teleporter,16750,11000){
+	automatic=0
+	id=2273
+}
+tile(Teleporter,16750,10950){
+	automatic=0
+	id=2274
+}
+tile(Teleporter,16800,11000){
+	automatic=0
+	id=2275
+}
+tile(Teleporter,16800,10950){
+	automatic=0
+	id=2276
+}
+tile(Teleporter,16850,11000){
+	automatic=0
+	id=2277
+}
+tile(Teleporter,16850,10950){
+	automatic=0
+	id=2278
+}
+tile(Teleporter,16900,11000){
+	automatic=0
+	id=2279
+}
+tile(Teleporter,16900,10950){
+	automatic=0
+	id=2280
+}
+tile(Teleporter,16950,11000){
+	automatic=0
+	id=2281
+}
+tile(Teleporter,16950,10950){
+	automatic=0
+	id=2282
+}
+tile(Teleporter,16150,13000){
+	automatic=1
+	destination=2285
+	id=2283
+}
+tile(Teleporter,16150,12950){
+	automatic=0
+	id=2284
+}
+tile(Teleporter,16200,13000){
+	automatic=0
+	id=2285
+}
+tile(Teleporter,16200,13050){
+	automatic=1
+	destination=2290
+	id=2286
+}
+tile(Teleporter,16250,13100){
+	automatic=1
+	destination=2289
+	id=2287
+}
+tile(Teleporter,16300,13150){
+	automatic=1
+	destination=2292
+	id=2288
+}
+tile(Teleporter,16300,13100){
+	automatic=0
+	id=2289
+}
+tile(Teleporter,16250,13050){
+	automatic=0
+	id=2290
+}
+tile(Teleporter,16350,13200){
+	automatic=1
+	destination=2293
+	id=2291
+}
+tile(Teleporter,16350,13150){
+	automatic=0
+	id=2292
+}
+tile(Teleporter,16400,13200){
+	automatic=0
+	id=2293
+}
+tile(Teleporter,16400,13250){
+	automatic=1
+	destination=2296
+	id=2294
+}
+tile(Teleporter,16450,13300){
+	automatic=1
+	destination=2298
+	id=2295
+}
+tile(Teleporter,16450,13250){
+	automatic=0
+	id=2296
+}
+tile(Teleporter,16500,13350){
+	automatic=1
+	destination=2300
+	id=2297
+}
+tile(Teleporter,16500,13300){
+	automatic=0
+	id=2298
+}
+tile(Teleporter,16550,13350){
+	automatic=1
+	destination=2302
+	id=2299
+}
+tile(Teleporter,16550,13300){
+	automatic=0
+	id=2300
+}
+tile(Teleporter,16600,13400){
+	automatic=1
+	destination=2304
+	id=2301
+}
+tile(Teleporter,16600,13350){
+	automatic=0
+	id=2302
+}
+tile(Teleporter,16650,13400){
+	automatic=1
+	destination=2306
+	id=2303
+}
+tile(Teleporter,16650,13350){
+	automatic=0
+	id=2304
+}
+tile(Teleporter,16700,13400){
+	automatic=1
+	destination=2308
+	id=2305
+}
+tile(Teleporter,16700,13350){
+	automatic=0
+	id=2306
+}
+tile(Teleporter,16750,13450){
+	automatic=1
+	destination=2310
+	id=2307
+}
+tile(Teleporter,16750,13400){
+	automatic=0
+	id=2308
+}
+tile(Teleporter,16800,13450){
+	automatic=1
+	destination=2312
+	id=2309
+}
+tile(Teleporter,16800,13400){
+	automatic=0
+	id=2310
+}
+tile(Teleporter,16850,13450){
+	automatic=1
+	destination=2314
+	id=2311
+}
+tile(Teleporter,16850,13400){
+	automatic=0
+	id=2312
+}
+tile(Teleporter,16900,13450){
+	automatic=1
+	destination=2316
+	id=2313
+}
+tile(Teleporter,16900,13400){
+	automatic=0
+	id=2314
+}
+tile(Teleporter,16950,13450){
+	automatic=1
+	destination=2318
+	id=2315
+}
+tile(Teleporter,16950,13400){
+	automatic=0
+	id=2316
+}
+tile(Teleporter,17000,13450){
+	automatic=1
+	destination=2320
+	id=2317
+}
+tile(Teleporter,17000,13400){
+	automatic=0
+	id=2318
+}
+tile(Teleporter,17050,13450){
+	automatic=1
+	destination=2324
+	id=2319
+}
+tile(Teleporter,17050,13400){
+	automatic=0
+	id=2320
+}
+tile(ShadowBlock,17100,13500)
+tile(ShadowBlock,17150,13500)
+tile(ShadowBlock,17250,13500)
+tile(ShadowBlock,17200,13500)
+tile(ShadowBlock,17300,13500)
+tile(ShadowBlock,17350,13500)
+tile(ShadowBlock,17400,13500)
+tile(ShadowBlock,17450,13500)
+tile(ShadowBlock,17500,13500)
+tile(ShadowBlock,17550,13500)
+tile(ShadowBlock,17600,13500)
+tile(ShadowBlock,17650,13500)
+tile(ShadowBlock,17700,13500)
+tile(ShadowBlock,17750,13500)
+tile(ShadowBlock,17800,13500)
+tile(ShadowBlock,17850,13500)
+tile(ShadowBlock,17900,13500)
+tile(ShadowBlock,17950,13500)
+tile(ShadowBlock,18000,13500)
+tile(ShadowBlock,18050,13500)
+tile(ShadowBlock,18100,13500)
+tile(Block,17900,13250)
+tile(Block,17900,13200)
+tile(Block,17900,13150)
+tile(Block,17900,13100)
+tile(Block,17800,13050)
+tile(Block,17850,13050)
+tile(Block,17900,13050)
+tile(Block,17950,13050)
+tile(Block,18000,13050)
+tile(Block,18100,13050)
+tile(Block,18100,13100)
+tile(Block,18100,13150)
+tile(Block,18100,13200)
+tile(Block,18100,13250)
+tile(Block,18150,13150)
+tile(Block,18200,13150)
+tile(Block,18250,13250)
+tile(Block,18250,13200)
+tile(Block,18250,13150)
+tile(Block,18250,13100)
+tile(Block,18250,13050)
+tile(Block,18350,13250)
+tile(Block,18350,13200)
+tile(Block,18350,13150)
+tile(Block,18400,13100)
+tile(Block,18400,13050)
+tile(Block,18450,13050)
+tile(Block,18500,13050)
+tile(Block,18500,13100)
+tile(Block,18550,13150)
+tile(Block,18550,13200)
+tile(Block,18550,13250)
+tile(Block,18400,13200)
+tile(Block,18450,13200)
+tile(Block,18500,13200)
+tile(Block,18650,13250)
+tile(Block,18650,13200)
+tile(Block,18650,13100)
+tile(Block,18650,13150)
+tile(Block,18650,13050)
+tile(Block,18700,13100)
+tile(Block,18750,13150)
+tile(Block,18800,13200)
+tile(Block,18850,13250)
+tile(Block,18850,13200)
+tile(Block,18850,13150)
+tile(Block,18850,13100)
+tile(Block,18850,13050)
+tile(Block,18950,13250)
+tile(Block,18950,13200)
+tile(Block,18950,13150)
+tile(Block,18950,13100)
+tile(Block,18950,13050)
+tile(Block,19000,13150)
+tile(Block,19050,13200)
+tile(Block,19100,13250)
+tile(Block,19050,13100)
+tile(Block,19100,13050)
+tile(Block,19300,13050)
+tile(Block,19250,13050)
+tile(Block,19200,13100)
+tile(Block,19250,13150)
+tile(Block,19300,13150)
+tile(Block,19350,13200)
+tile(Block,19300,13250)
+tile(Block,19250,13250)
+tile(Block,19200,13250)
+tile(Block,19350,13050)
+tile(Block,19650,13250)
+tile(Block,19650,13200)
+tile(Block,19650,13100)
+tile(Block,19650,13150)
+tile(Block,19650,13050)
+tile(Block,19700,13050)
+tile(Block,19700,13150)
+tile(Block,19750,13050)
+tile(Block,19900,13050)
+tile(Block,19950,13050)
+tile(Block,19850,13100)
+tile(Block,19850,13150)
+tile(Block,19850,13200)
+tile(Block,19900,13250)
+tile(Block,19950,13250)
+tile(Block,20000,13200)
+tile(Block,20000,13100)
+tile(Block,20000,13150)
+tile(Block,20100,13250)
+tile(Block,20100,13200)
+tile(Block,20100,13100)
+tile(Block,20100,13150)
+tile(Block,20100,13050)
+tile(Block,20150,13050)
+tile(Block,20150,13150)
+tile(Block,20200,13200)
+tile(Block,20250,13250)
+tile(Block,20200,13126)
+tile(Block,20200,13075)
+tile(Block,20550,13250)
+tile(Block,20550,13200)
+tile(Block,20550,13150)
+tile(Block,20550,13100)
+tile(Block,20550,13050)
+tile(Block,20600,13050)
+tile(Block,20650,13100)
+tile(Block,20600,13150)
+tile(Block,20750,13050)
+tile(Block,20750,13100)
+tile(Block,20750,13150)
+tile(Block,20750,13200)
+tile(Block,20750,13250)
+tile(Block,20800,13250)
+tile(Block,20850,13250)
+tile(Block,20950,13250)
+tile(Block,20950,13200)
+tile(Block,20950,13150)
+tile(Block,21000,13100)
+tile(Block,21000,13050)
+tile(Block,21050,13050)
+tile(Block,21100,13050)
+tile(Block,21100,13100)
+tile(Block,21150,13150)
+tile(Block,21150,13200)
+tile(Block,21150,13250)
+tile(Block,21000,13200)
+tile(Block,21050,13200)
+tile(Block,21100,13200)
+tile(Block,21250,13050)
+tile(Block,21300,13100)
+tile(Block,21450,13050)
+tile(Block,21400,13100)
+tile(Block,21350,13150)
+tile(Block,21350,13200)
+tile(Block,21350,13250)
+tile(Block,21550,13250)
+tile(Block,21550,13200)
+tile(Block,21550,13150)
+tile(Block,21550,13050)
+tile(Block,21650,13250)
+tile(Block,21650,13200)
+tile(Block,21650,13150)
+tile(Block,21650,13050)
+tile(Block,21650,13100)
+tile(Block,21700,13100)
+tile(Block,21750,13150)
+tile(Block,21800,13200)
+tile(Block,21850,13250)
+tile(Block,21850,13200)
+tile(Block,21850,13150)
+tile(Block,21850,13100)
+tile(Block,21850,13050)
+tile(Block,22150,13100)
+tile(Block,22100,13050)
+tile(Block,22050,13050)
+tile(Block,22000,13050)
+tile(Block,21950,13100)
+tile(Block,21950,13150)
+tile(Block,21950,13200)
+tile(Block,22000,13250)
+tile(Block,22050,13250)
+tile(Block,22100,13250)
+tile(Block,22100,13200)
+tile(Block,22050,13150)
+tile(Button,18150,13500){
+	behaviour=on
+	id=2321
+}
+tile(MovingBlock,18150,13550){
+	MovingPosCount=12
+	disabled=1
+	id=2321
+	loop=0
+	t0=16
+	t1=8
+	t10=8
+	t11=50
+	t2=8
+	t3=150
+	t4=100
+	t5=83
+	t6=91
+	t7=83
+	t8=75
+	t9=83
+	x0=0
+	x1=50
+	x10=4050
+	x11=4050
+	x2=50
+	x3=950
+	x4=1550
+	x5=2050
+	x6=2600
+	x7=3100
+	x8=3550
+	x9=4050
+	y0=-100
+	y1=-100
+	y10=0
+	y11=-50
+	y2=-50
+	y3=-50
+	y4=-50
+	y5=-50
+	y6=-50
+	y7=-50
+	y8=-50
+	y9=-50
+}
+tile(Teleporter,17100,13450){
+	automatic=1
+	destination=2326
+	id=2323
+}
+tile(Teleporter,17100,13400){
+	automatic=0
+	id=2324
+}
+tile(Teleporter,17150,13450){
+	automatic=1
+	destination=2328
+	id=2325
+}
+tile(Teleporter,17150,13400){
+	automatic=0
+	id=2326
+}
+tile(Teleporter,17200,13450){
+	automatic=1
+	destination=2330
+	id=2327
+}
+tile(Teleporter,17200,13400){
+	automatic=0
+	id=2328
+}
+tile(Teleporter,17250,13450){
+	automatic=1
+	destination=2332
+	id=2329
+}
+tile(Teleporter,17250,13400){
+	automatic=0
+	id=2330
+}
+tile(Teleporter,17300,13450){
+	automatic=1
+	destination=2334
+	id=2331
+}
+tile(Teleporter,17300,13400){
+	automatic=0
+	id=2332
+}
+tile(Teleporter,17350,13450){
+	automatic=1
+	destination=2336
+	id=2333
+}
+tile(Teleporter,17350,13400){
+	automatic=0
+	id=2334
+}
+tile(Teleporter,17400,13450){
+	automatic=1
+	destination=2338
+	id=2335
+}
+tile(Teleporter,17400,13400){
+	automatic=0
+	id=2336
+}
+tile(Teleporter,17450,13450){
+	automatic=1
+	destination=2340
+	id=2337
+}
+tile(Teleporter,17450,13400){
+	automatic=0
+	id=2338
+}
+tile(Teleporter,17500,13450){
+	automatic=1
+	destination=2342
+	id=2339
+}
+tile(Teleporter,17500,13400){
+	automatic=0
+	id=2340
+}
+tile(Teleporter,17550,13450){
+	automatic=1
+	destination=2344
+	id=2341
+}
+tile(Teleporter,17550,13400){
+	automatic=0
+	id=2342
+}
+tile(Teleporter,17600,13450){
+	automatic=1
+	destination=2346
+	id=2343
+}
+tile(Teleporter,17600,13400){
+	automatic=0
+	id=2344
+}
+tile(Teleporter,17650,13450){
+	automatic=1
+	destination=2348
+	id=2345
+}
+tile(Teleporter,17650,13400){
+	automatic=0
+	id=2346
+}
+tile(Teleporter,17700,13450){
+	automatic=1
+	destination=2350
+	id=2347
+}
+tile(Teleporter,17700,13400){
+	automatic=0
+	id=2348
+}
+tile(Teleporter,17750,13450){
+	automatic=1
+	destination=2352
+	id=2349
+}
+tile(Teleporter,17750,13400){
+	automatic=0
+	id=2350
+}
+tile(Teleporter,17800,13450){
+	automatic=1
+	destination=2354
+	id=2351
+}
+tile(Teleporter,17800,13400){
+	automatic=0
+	id=2352
+}
+tile(Teleporter,17850,13450){
+	automatic=1
+	destination=2356
+	id=2353
+}
+tile(Teleporter,17850,13400){
+	automatic=0
+	id=2354
+}
+tile(Teleporter,17900,13450){
+	automatic=1
+	destination=2358
+	id=2355
+}
+tile(Teleporter,17900,13400){
+	automatic=0
+	id=2356
+}
+tile(Teleporter,17950,13450){
+	automatic=1
+	destination=2360
+	id=2357
+}
+tile(Teleporter,17950,13400){
+	automatic=0
+	id=2358
+}
+tile(Teleporter,18000,13450){
+	automatic=1
+	destination=2362
+	id=2359
+}
+tile(Teleporter,18000,13400){
+	automatic=0
+	id=2360
+}
+tile(Teleporter,18050,13450){
+	automatic=1
+	destination=2364
+	id=2361
+}
+tile(Teleporter,18050,13400){
+	automatic=0
+	id=2362
+}
+tile(Teleporter,18100,13450){
+	automatic=1
+	destination=2366
+	id=2363
+}
+tile(Teleporter,18100,13400){
+	automatic=0
+	id=2364
+}
+tile(Teleporter,18150,13450){
+	automatic=0
+	id=2365
+}
+tile(Teleporter,18150,13400){
+	automatic=0
+	id=2366
+}
+tile(ConveyorBelt,22200,13500){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,22250,13500){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,22300,13500){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,22400,13500){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,22350,13500){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,22450,13500){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,22500,13500){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,22550,13500){
+	disabled=0
+	speed=2
+}
+tile(Block,22600,13500)
+tile(Block,22650,13500)
+tile(Block,22700,13500)
+tile(Block,22750,13500)
+tile(Block,22800,13500)
+tile(Block,22800,13450)
+tile(Block,22800,13400)
+tile(Block,22800,13350)
+tile(Block,22800,13300)
+tile(Block,22750,13300)
+tile(Block,22650,13300)
+tile(Block,22700,13300)
+tile(Block,22600,13300)
+tile(Block,22550,13300)
+tile(Block,22550,13350)
+tile(Block,22550,13400)
+tile(NotificationBlock,22650,13450){
+	message="how i builded"
+}
+tile(NotificationBlock,22750,13450){
+	message="won the map"
+}
+tile(Teleporter,22650,13400){
+	automatic=0
+	destination=2370
+	id=2367
+}
+tile(Teleporter,22750,13400){
+	automatic=0
+	destination=2369
+	id=2368
+}
+tile(Teleporter,23950,13450){
+	automatic=0
+	id=2369
+}
+tile(Block,23900,13550)
+tile(Block,23950,13550)
+tile(Block,24000,13550)
+tile(Block,24000,13500)
+tile(Block,24000,13450)
+tile(Block,24000,13400)
+tile(Block,23950,13400)
+tile(Block,23900,13400)
+tile(Block,23900,13450)
+tile(Block,23900,13500)
+tile(Exit,23950,13500)
+tile(Teleporter,23350,12250){
+	automatic=0
+	id=2370
+}
+tile(Button,23350,12300){
+	behaviour=on
+	id=2371
+}
+tile(MovingBlock,23350,12350){
+	MovingPosCount=6
+	disabled=1
+	id=2371
+	loop=0
+	t0=16
+	t1=8
+	t2=8
+	t3=25
+	t4=50
+	t5=83
+	x0=0
+	x1=50
+	x2=50
+	x3=200
+	x4=300
+	x5=550
+	y0=-100
+	y1=-100
+	y2=-50
+	y3=-50
+	y4=-50
+	y5=-50
+}
+tile(NotificationBlock,23600,12250){
+	message="here is a slowler made"
+}
+tile(Teleporter,23900,12250){
+	automatic=1
+	destination=2376
+	id=2373
+}
+tile(Teleporter,23900,12150){
+	automatic=0
+	id=2374
+}
+tile(Teleporter,23950,12250){
+	automatic=1
+	destination=2378
+	id=2375
+}
+tile(Teleporter,23950,12150){
+	automatic=0
+	id=2376
+}
+tile(Teleporter,24000,12250){
+	automatic=1
+	destination=2380
+	id=2377
+}
+tile(Teleporter,24000,12150){
+	automatic=0
+	id=2378
+}
+tile(Teleporter,24050,12250){
+	automatic=1
+	destination=2382
+	id=2379
+}
+tile(Teleporter,24050,12150){
+	automatic=0
+	id=2380
+}
+tile(Teleporter,24100,12250){
+	automatic=1
+	destination=2384
+	id=2381
+}
+tile(Teleporter,24100,12150){
+	automatic=0
+	id=2382
+}
+tile(Teleporter,24150,12250){
+	automatic=0
+	id=2383
+}
+tile(Teleporter,24150,12150){
+	automatic=0
+	id=2384
+}
+tile(Block,24150,12300)
+tile(Block,24200,12300)
+tile(Block,24250,12300)
+tile(Block,24300,12300)
+tile(Block,24350,12300)
+tile(Block,24400,12300)
+tile(Block,24450,12300)
+tile(Block,24450,12250)
+tile(Block,24450,12200)
+tile(Block,24450,12150)
+tile(Block,24450,12100)
+tile(Block,24400,12100)
+tile(Block,24350,12100)
+tile(Block,24300,12100)
+tile(Block,24250,12100)
+tile(Block,24200,12100)
+tile(Block,24150,12100)
+tile(Block,24100,12100)
+tile(Spikes,23400,12300)
+tile(Spikes,23450,12300)
+tile(Spikes,23500,12300)
+tile(Spikes,23550,12300)
+tile(Spikes,23600,12300)
+tile(Spikes,23650,12300)
+tile(Spikes,23700,12300)
+tile(Spikes,23750,12300)
+tile(Spikes,23800,12300)
+tile(Spikes,23850,12300)
+tile(Spikes,23900,12300)
+tile(Spikes,23950,12300)
+tile(Spikes,24000,12300)
+tile(Spikes,24050,12300)
+tile(Spikes,24100,12300)
+tile(Block,23300,12300)
+tile(Block,23300,12250)
+tile(Block,23300,12200)
+tile(Block,23300,12150)
+tile(Block,23300,12100)
+tile(Block,23350,12100)
+tile(Block,23400,12100)
+tile(Block,23450,12100)
+tile(Block,23500,12100)
+tile(Block,23550,12100)
+tile(Block,23600,12100)
+tile(Block,23650,12100)
+tile(Block,23700,12100)
+tile(Block,23750,12100)
+tile(Block,23800,12100)
+tile(Block,23850,12100)
+tile(Block,23950,12100)
+tile(Block,24000,12100)
+tile(Block,24050,12100)
+tile(Block,23900,12100)
+tile(Teleporter,24350,12250){
+	automatic=0
+	destination=2367
+	id=2386
+}
+tile(NotificationBlock,24300,12250){
+	message="so, this how to build :)"
+}
+tile(MovingBlock,1950,950){
+	MovingPosCount=1
+	disabled=1
+	id=2388
+	loop=0
+	t0=50
+	x0=0
+	y0=-50
+}
+tile(Block,1750,1000)
+tile(Block,1750,950)
+tile(Block,1750,900)
+tile(Block,1750,850)
+tile(Block,1800,850)
+tile(Block,1850,850)
+tile(Block,1900,850)
+tile(Block,1950,850)
+tile(Block,1950,900)
+tile(NotificationBlock,1850,950){
+	message="welcome to the roller coaster"
+}
+tile(PlayerStart,1800,900)
+tile(Switch,1900,950){
+	behaviour=on
+	id=2388
+}

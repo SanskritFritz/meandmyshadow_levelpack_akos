@@ -99,7 +99,7 @@ tile(Switch,1250,200){
 	behaviour=toggle
 	id=3
 }
-tile(MovingShadowBlock,1300,200){
+tile(MovingShadowBlock,1300,150){
 	MovingPosCount=1
 	disabled=1
 	id=2
@@ -123,3 +123,5 @@ tile(Spikes,1450,100)
 tile(Spikes,1500,100)
 tile(Block,1350,100)
 tile(PlayerStart,1400,500)
+tile(Spikes,1150,250)
+tile(Spikes,1100,250)

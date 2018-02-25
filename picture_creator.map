@@ -1,0 +1,1363 @@
+name="Picture creator"
+size=2200,1400
+tile(Block,1650,650)
+tile(Block,1650,600)
+tile(Block,1650,100)
+tile(Block,2100,500)
+tile(Block,2150,450)
+tile(Block,2100,400)
+tile(Block,2150,350)
+tile(Block,2100,300)
+tile(Block,2150,250)
+tile(Block,2100,200)
+tile(Block,2150,550)
+tile(Block,2150,150)
+tile(Block,2100,100)
+tile(Block,2100,600)
+tile(Block,2150,50)
+tile(Block,2150,650)
+tile(Block,2100,0)
+tile(Block,2050,700)
+tile(Block,2000,700)
+tile(Block,1950,700)
+tile(Block,1900,700)
+tile(Block,1850,700)
+tile(Block,1800,700)
+tile(Block,1750,700)
+tile(Block,1700,700)
+tile(Block,1650,700)
+tile(Block,1650,50)
+tile(Block,1650,0)
+tile(Switch,1700,650){
+	behaviour=toggle
+	id=45
+}
+tile(Switch,1700,550){
+	behaviour=toggle
+	id=46
+}
+tile(Switch,1700,450){
+	behaviour=toggle
+	id=47
+}
+tile(Switch,1700,350){
+	behaviour=toggle
+	id=48
+}
+tile(Switch,1700,250){
+	behaviour=toggle
+	id=49
+}
+tile(Switch,1700,150){
+	behaviour=toggle
+	id=50
+}
+tile(Switch,1700,50){
+	behaviour=toggle
+	id=51
+}
+tile(Block,1700,0)
+tile(Block,1750,0)
+tile(Block,1800,0)
+tile(Block,1850,0)
+tile(Block,1900,0)
+tile(Block,1950,0)
+tile(Block,2000,0)
+tile(Block,2050,0)
+tile(Block,1700,100)
+tile(Block,1750,100)
+tile(Block,1800,100)
+tile(Block,1850,100)
+tile(Block,1900,100)
+tile(Block,1950,100)
+tile(Block,2000,100)
+tile(Block,1700,200)
+tile(Block,1750,200)
+tile(Block,1800,200)
+tile(Block,1850,200)
+tile(Block,1900,200)
+tile(Block,1950,200)
+tile(Block,2000,200)
+tile(Block,1700,300)
+tile(Block,1750,300)
+tile(Block,1800,300)
+tile(Block,1850,300)
+tile(Block,1900,300)
+tile(Block,1950,300)
+tile(Block,2000,300)
+tile(Block,1700,400)
+tile(Block,1750,400)
+tile(Block,1800,400)
+tile(Block,1850,400)
+tile(Block,1900,400)
+tile(Block,1950,400)
+tile(Block,2000,400)
+tile(Block,1700,500)
+tile(Block,1750,500)
+tile(Block,1800,500)
+tile(Block,1900,500)
+tile(Block,1850,500)
+tile(Block,1950,500)
+tile(Block,2000,500)
+tile(Block,1700,600)
+tile(Block,1750,600)
+tile(Block,1850,600)
+tile(Block,1800,600)
+tile(Block,1900,600)
+tile(Block,1950,600)
+tile(Block,2000,600)
+tile(Switch,1750,650){
+	behaviour=toggle
+	id=52
+}
+tile(Switch,1800,650){
+	behaviour=toggle
+	id=53
+}
+tile(Switch,1850,650){
+	behaviour=toggle
+	id=54
+}
+tile(Switch,1900,650){
+	behaviour=toggle
+	id=55
+}
+tile(Switch,1950,650){
+	behaviour=toggle
+	id=56
+}
+tile(Switch,2000,650){
+	behaviour=toggle
+	id=57
+}
+tile(Switch,1750,550){
+	behaviour=toggle
+	id=58
+}
+tile(Switch,1800,550){
+	behaviour=toggle
+	id=118
+}
+tile(Switch,1850,550){
+	behaviour=toggle
+	id=60
+}
+tile(Switch,1900,550){
+	behaviour=toggle
+	id=117
+}
+tile(Switch,1950,550){
+	behaviour=toggle
+	id=62
+}
+tile(Switch,2000,550){
+	behaviour=toggle
+	id=63
+}
+tile(Switch,1750,450){
+	behaviour=toggle
+	id=64
+}
+tile(Switch,1800,450){
+	behaviour=toggle
+	id=65
+}
+tile(Switch,1850,450){
+	behaviour=toggle
+	id=66
+}
+tile(Switch,1900,450){
+	behaviour=toggle
+	id=67
+}
+tile(Switch,1950,450){
+	behaviour=toggle
+	id=68
+}
+tile(Switch,2000,450){
+	behaviour=toggle
+	id=116
+}
+tile(Switch,1750,350){
+	behaviour=toggle
+	id=70
+}
+tile(Switch,1800,350){
+	behaviour=toggle
+	id=71
+}
+tile(Switch,1850,350){
+	behaviour=toggle
+	id=72
+}
+tile(Switch,1900,350){
+	behaviour=toggle
+	id=73
+}
+tile(Switch,1950,350){
+	behaviour=toggle
+	id=74
+}
+tile(Switch,2000,350){
+	behaviour=toggle
+	id=75
+}
+tile(Switch,1750,250){
+	behaviour=toggle
+	id=76
+}
+tile(Switch,1800,250){
+	behaviour=toggle
+	id=77
+}
+tile(Switch,1850,250){
+	behaviour=toggle
+	id=78
+}
+tile(Switch,1900,250){
+	behaviour=toggle
+	id=79
+}
+tile(Switch,1950,250){
+	behaviour=toggle
+	id=80
+}
+tile(Switch,2000,250){
+	behaviour=toggle
+	id=81
+}
+tile(Switch,1750,150){
+	behaviour=toggle
+	id=82
+}
+tile(Switch,1800,150){
+	behaviour=toggle
+	id=83
+}
+tile(Switch,1850,150){
+	behaviour=toggle
+	id=84
+}
+tile(Switch,1900,150){
+	behaviour=toggle
+	id=85
+}
+tile(Switch,1950,150){
+	behaviour=toggle
+	id=86
+}
+tile(Switch,2000,150){
+	behaviour=toggle
+	id=87
+}
+tile(Switch,1750,50){
+	behaviour=toggle
+	id=88
+}
+tile(Switch,1800,50){
+	behaviour=toggle
+	id=89
+}
+tile(Switch,1850,50){
+	behaviour=toggle
+	id=90
+}
+tile(Switch,1900,50){
+	behaviour=toggle
+	id=91
+}
+tile(Switch,1950,50){
+	behaviour=toggle
+	id=92
+}
+tile(Switch,2000,50){
+	behaviour=toggle
+	id=93
+}
+tile(MovingBlock,2050,750){
+	MovingPosCount=1
+	disabled=0
+	id=94
+	loop=1
+	t0=216
+	x0=0
+	y0=-650
+}
+tile(MovingBlock,1300,600){
+	MovingPosCount=1
+	disabled=1
+	id=46
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingBlock,1350,600){
+	MovingPosCount=1
+	disabled=1
+	id=58
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingBlock,1400,600){
+	MovingPosCount=1
+	disabled=1
+	id=118
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingBlock,1450,600){
+	MovingPosCount=1
+	disabled=1
+	id=60
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingBlock,1500,600){
+	MovingPosCount=1
+	disabled=1
+	id=117
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingBlock,1550,600){
+	MovingPosCount=1
+	disabled=1
+	id=62
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingBlock,1600,600){
+	MovingPosCount=1
+	disabled=1
+	id=63
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingBlock,1600,650){
+	MovingPosCount=1
+	disabled=1
+	id=57
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingBlock,1550,650){
+	MovingPosCount=1
+	disabled=1
+	id=56
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingBlock,1500,650){
+	MovingPosCount=1
+	disabled=1
+	id=55
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingBlock,1450,650){
+	MovingPosCount=1
+	disabled=1
+	id=54
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingBlock,1400,650){
+	MovingPosCount=1
+	disabled=1
+	id=53
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingBlock,1350,650){
+	MovingPosCount=1
+	disabled=1
+	id=52
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingBlock,1300,650){
+	MovingPosCount=1
+	disabled=1
+	id=45
+	loop=0
+	t0=15
+	x0=0
+	y0=-150
+}
+tile(MovingBlock,1200,400){
+	MovingPosCount=1
+	disabled=1
+	id=70
+	loop=0
+	t0=15
+	x0=150
+	y0=-50
+}
+tile(MovingBlock,1200,350){
+	MovingPosCount=1
+	disabled=1
+	id=73
+	loop=0
+	t0=30
+	x0=300
+	y0=0
+}
+tile(MovingBlock,1200,300){
+	MovingPosCount=1
+	disabled=1
+	id=49
+	loop=0
+	t0=10
+	x0=100
+	y0=0
+}
+tile(MovingBlock,1300,100){
+	MovingPosCount=1
+	disabled=1
+	id=50
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingBlock,1300,50){
+	MovingPosCount=1
+	disabled=1
+	id=51
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingBlock,1350,100){
+	MovingPosCount=1
+	disabled=1
+	id=82
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingBlock,1350,50){
+	MovingPosCount=1
+	disabled=1
+	id=88
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingBlock,1400,100){
+	MovingPosCount=1
+	disabled=1
+	id=83
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingBlock,1400,50){
+	MovingPosCount=1
+	disabled=1
+	id=89
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingBlock,1450,100){
+	MovingPosCount=1
+	disabled=1
+	id=84
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingBlock,1450,50){
+	MovingPosCount=1
+	disabled=1
+	id=90
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingBlock,1500,100){
+	MovingPosCount=1
+	disabled=1
+	id=85
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingBlock,1500,50){
+	MovingPosCount=1
+	disabled=1
+	id=91
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingBlock,1550,100){
+	MovingPosCount=1
+	disabled=1
+	id=86
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingBlock,1550,50){
+	MovingPosCount=1
+	disabled=1
+	id=92
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingBlock,1600,100){
+	MovingPosCount=1
+	disabled=1
+	id=87
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingBlock,1600,50){
+	MovingPosCount=1
+	disabled=1
+	id=93
+	loop=0
+	t0=15
+	x0=0
+	y0=150
+}
+tile(MovingBlock,1150,400){
+	MovingPosCount=1
+	disabled=1
+	id=48
+	loop=0
+	t0=15
+	x0=150
+	y0=-50
+}
+tile(MovingBlock,1150,300){
+	MovingPosCount=1
+	disabled=1
+	id=75
+	loop=0
+	t0=45
+	x0=450
+	y0=50
+}
+tile(MovingBlock,1150,350){
+	MovingPosCount=1
+	disabled=1
+	id=72
+	loop=0
+	t0=30
+	x0=300
+	y0=0
+}
+tile(MovingBlock,1100,400){
+	MovingPosCount=1
+	disabled=1
+	id=116
+	loop=0
+	t0=50
+	x0=500
+	y0=0
+}
+tile(MovingBlock,1100,350){
+	MovingPosCount=1
+	disabled=1
+	id=71
+	loop=0
+	t0=30
+	x0=300
+	y0=0
+}
+tile(MovingBlock,1100,300){
+	MovingPosCount=1
+	disabled=1
+	id=74
+	loop=0
+	t0=45
+	x0=450
+	y0=50
+}
+tile(MovingBlock,1100,250){
+	MovingPosCount=1
+	disabled=1
+	id=76
+	loop=0
+	t0=25
+	x0=250
+	y0=50
+}
+tile(MovingBlock,1150,250){
+	MovingPosCount=1
+	disabled=1
+	id=77
+	loop=0
+	t0=25
+	x0=250
+	y0=50
+}
+tile(MovingBlock,1200,250){
+	MovingPosCount=1
+	disabled=1
+	id=78
+	loop=0
+	t0=25
+	x0=250
+	y0=50
+}
+tile(MovingBlock,1100,450){
+	MovingPosCount=1
+	disabled=1
+	id=66
+	loop=0
+	t0=35
+	x0=350
+	y0=-50
+}
+tile(MovingBlock,1150,450){
+	MovingPosCount=1
+	disabled=1
+	id=67
+	loop=0
+	t0=35
+	x0=350
+	y0=-50
+}
+tile(MovingBlock,1200,450){
+	MovingPosCount=1
+	disabled=1
+	id=68
+	loop=0
+	t0=35
+	x0=350
+	y0=-50
+}
+tile(MovingBlock,1200,500){
+	MovingPosCount=1
+	disabled=1
+	id=65
+	loop=0
+	t0=22
+	x0=200
+	y0=-100
+}
+tile(MovingBlock,1150,500){
+	MovingPosCount=1
+	disabled=1
+	id=64
+	loop=0
+	t0=22
+	x0=200
+	y0=-100
+}
+tile(MovingBlock,1100,500){
+	MovingPosCount=1
+	disabled=1
+	id=47
+	loop=0
+	t0=22
+	x0=200
+	y0=-100
+}
+tile(MovingBlock,1100,200){
+	MovingPosCount=1
+	disabled=1
+	id=79
+	loop=0
+	t0=41
+	x0=400
+	y0=100
+}
+tile(MovingBlock,1150,200){
+	MovingPosCount=1
+	disabled=1
+	id=80
+	loop=0
+	t0=41
+	x0=400
+	y0=100
+}
+tile(MovingBlock,1200,200){
+	MovingPosCount=1
+	disabled=1
+	id=81
+	loop=0
+	t0=41
+	x0=400
+	y0=100
+}
+tile(Fragile,1250,550){
+	state=0
+}
+tile(Fragile,1250,500){
+	state=0
+}
+tile(Fragile,1250,450){
+	state=0
+}
+tile(Fragile,1250,400){
+	state=0
+}
+tile(Fragile,1250,350){
+	state=0
+}
+tile(Fragile,1250,300){
+	state=0
+}
+tile(Fragile,1300,150){
+	state=0
+}
+tile(Fragile,1350,150){
+	state=0
+}
+tile(Fragile,1400,150){
+	state=0
+}
+tile(Fragile,1450,150){
+	state=0
+}
+tile(Fragile,1500,150){
+	state=0
+}
+tile(Fragile,1550,150){
+	state=0
+}
+tile(Fragile,1600,150){
+	state=0
+}
+tile(Fragile,1650,550){
+	state=0
+}
+tile(Fragile,1650,500){
+	state=0
+}
+tile(Fragile,1650,450){
+	state=0
+}
+tile(Fragile,1650,400){
+	state=0
+}
+tile(Fragile,1650,350){
+	state=0
+}
+tile(Fragile,1650,300){
+	state=0
+}
+tile(Fragile,1650,250){
+	state=0
+}
+tile(Fragile,1650,200){
+	state=0
+}
+tile(Fragile,1650,150){
+	state=0
+}
+tile(Block,2150,700)
+tile(Block,2150,600)
+tile(Block,2150,500)
+tile(Block,2150,400)
+tile(Block,2150,300)
+tile(Block,2150,200)
+tile(Block,2150,100)
+tile(Block,2150,0)
+tile(Checkpoint,2100,550)
+tile(Checkpoint,2100,450)
+tile(Checkpoint,2100,350)
+tile(Checkpoint,2100,250)
+tile(Checkpoint,2100,150)
+tile(Checkpoint,2100,50)
+tile(PlayerStart,2050,50)
+tile(Fragile,1300,550){
+	state=0
+}
+tile(Fragile,1350,550){
+	state=0
+}
+tile(Fragile,1400,550){
+	state=0
+}
+tile(Fragile,1450,550){
+	state=0
+}
+tile(Fragile,1500,550){
+	state=0
+}
+tile(Fragile,1550,550){
+	state=0
+}
+tile(Fragile,1600,550){
+	state=0
+}
+tile(Fragile,1250,250){
+	state=0
+}
+tile(Fragile,1250,200){
+	state=0
+}
+tile(Fragile,1250,150){
+	state=0
+}
+tile(MovingSpikes,2100,800){
+	MovingPosCount=1
+	disabled=1
+	id=60
+	loop=0
+	t0=5
+	x0=50
+	y0=0
+}
+tile(MovingSpikes,2100,850){
+	MovingPosCount=1
+	disabled=1
+	id=117
+	loop=0
+	t0=5
+	x0=50
+	y0=0
+}
+tile(MovingSpikes,2100,900){
+	MovingPosCount=1
+	disabled=1
+	id=64
+	loop=0
+	t0=5
+	x0=50
+	y0=0
+}
+tile(MovingSpikes,2100,950){
+	MovingPosCount=1
+	disabled=1
+	id=68
+	loop=0
+	t0=5
+	x0=50
+	y0=0
+}
+tile(MovingSpikes,2100,1000){
+	MovingPosCount=1
+	disabled=1
+	id=70
+	loop=0
+	t0=5
+	x0=50
+	y0=0
+}
+tile(MovingSpikes,2100,1050){
+	MovingPosCount=1
+	disabled=1
+	id=74
+	loop=0
+	t0=5
+	x0=50
+	y0=0
+}
+tile(MovingSpikes,2100,1100){
+	MovingPosCount=1
+	disabled=1
+	id=82
+	loop=0
+	t0=5
+	x0=50
+	y0=0
+}
+tile(MovingSpikes,2100,1150){
+	MovingPosCount=1
+	disabled=1
+	id=83
+	loop=0
+	t0=5
+	x0=50
+	y0=0
+}
+tile(MovingSpikes,2100,1200){
+	MovingPosCount=1
+	disabled=1
+	id=85
+	loop=0
+	t0=5
+	x0=50
+	y0=0
+}
+tile(MovingSpikes,2100,1250){
+	MovingPosCount=1
+	disabled=1
+	id=86
+	loop=0
+	t0=5
+	x0=50
+	y0=0
+}
+tile(MovingSpikes,2000,800){
+	MovingPosCount=1
+	disabled=1
+	id=45
+	loop=0
+	t0=10
+	x0=100
+	y0=0
+}
+tile(MovingSpikes,2000,850){
+	MovingPosCount=1
+	disabled=1
+	id=57
+	loop=0
+	t0=10
+	x0=100
+	y0=0
+}
+tile(MovingSpikes,2000,900){
+	MovingPosCount=1
+	disabled=1
+	id=62
+	loop=0
+	t0=10
+	x0=100
+	y0=0
+}
+tile(MovingSpikes,2000,950){
+	MovingPosCount=1
+	disabled=1
+	id=46
+	loop=0
+	t0=10
+	x0=100
+	y0=0
+}
+tile(MovingSpikes,2000,1000){
+	MovingPosCount=1
+	disabled=1
+	id=93
+	loop=0
+	t0=10
+	x0=100
+	y0=0
+}
+tile(MovingSpikes,2000,1050){
+	MovingPosCount=1
+	disabled=1
+	id=116
+	loop=0
+	t0=10
+	x0=100
+	y0=0
+}
+tile(MovingSpikes,2000,1100){
+	MovingPosCount=1
+	disabled=1
+	id=72
+	loop=0
+	t0=10
+	x0=100
+	y0=0
+}
+tile(MovingSpikes,2000,1150){
+	MovingPosCount=1
+	disabled=1
+	id=48
+	loop=0
+	t0=10
+	x0=100
+	y0=0
+}
+tile(MovingSpikes,2000,1200){
+	MovingPosCount=1
+	disabled=1
+	id=79
+	loop=0
+	t0=10
+	x0=100
+	y0=0
+}
+tile(MovingSpikes,2000,1250){
+	MovingPosCount=1
+	disabled=1
+	id=50
+	loop=0
+	t0=10
+	x0=100
+	y0=0
+}
+tile(MovingBlock,2100,700){
+	MovingPosCount=1
+	disabled=1
+	id=118
+	loop=0
+	t0=5
+	x0=50
+	y0=0
+}
+tile(Block,2150,750)
+tile(Block,2150,800)
+tile(Block,2150,850)
+tile(Block,2150,950)
+tile(Block,2150,900)
+tile(Block,2150,1000)
+tile(Block,2150,1050)
+tile(Block,2150,1100)
+tile(Block,2150,1150)
+tile(Block,2150,1200)
+tile(Block,2150,1250)
+tile(Exit,2100,1300)
+tile(Block,2050,1300)
+tile(Block,2050,1350)
+tile(Block,2100,1350)
+tile(Block,2150,1350)
+tile(Block,2150,1300)
+tile(Block,2050,1250)
+tile(Block,2050,1200)
+tile(Block,2050,1150)
+tile(Block,2050,1100)
+tile(Block,2050,1050)
+tile(Block,2050,1000)
+tile(Block,2050,950)
+tile(Block,2050,900)
+tile(Block,2050,850)
+tile(Block,2050,800)
+tile(Block,2000,750)
+tile(Swap,2100,650)
+tile(ShadowBlock,50,200)
+tile(ShadowBlock,100,200)
+tile(ShadowBlock,150,200)
+tile(ShadowBlock,200,200)
+tile(ShadowBlock,250,200)
+tile(ShadowBlock,300,200)
+tile(ShadowBlock,350,200)
+tile(ShadowBlock,400,250)
+tile(ShadowBlock,400,300)
+tile(ShadowBlock,400,350)
+tile(ShadowBlock,400,400)
+tile(ShadowBlock,400,450)
+tile(ShadowBlock,400,500)
+tile(ShadowBlock,400,550)
+tile(ShadowBlock,350,600)
+tile(ShadowBlock,300,600)
+tile(ShadowBlock,250,600)
+tile(ShadowBlock,200,600)
+tile(ShadowBlock,150,600)
+tile(ShadowBlock,100,600)
+tile(ShadowBlock,50,600)
+tile(ShadowBlock,0,550)
+tile(ShadowBlock,0,500)
+tile(ShadowBlock,0,450)
+tile(ShadowBlock,0,400)
+tile(ShadowBlock,0,350)
+tile(ShadowBlock,0,300)
+tile(ShadowBlock,0,250)
+tile(ShadowBlock,0,200)
+tile(ShadowBlock,400,200)
+tile(ShadowBlock,400,600)
+tile(ShadowBlock,0,600)
+tile(ShadowBlock,150,500)
+tile(ShadowBlock,200,500)
+tile(ShadowBlock,250,500)
+tile(ShadowBlock,300,450)
+tile(ShadowBlock,300,400)
+tile(ShadowBlock,100,450)
+tile(ShadowBlock,100,400)
+tile(ShadowBlock,100,300)
+tile(ShadowBlock,150,300)
+tile(ShadowBlock,250,300)
+tile(ShadowBlock,300,300)
+tile(ShadowStart,200,150)
+tile(MovingSpikes,1950,800){
+	MovingPosCount=1
+	disabled=1
+	id=52
+	loop=0
+	t0=15
+	x0=150
+	y0=0
+}
+tile(MovingSpikes,1950,850){
+	MovingPosCount=1
+	disabled=1
+	id=53
+	loop=0
+	t0=15
+	x0=150
+	y0=0
+}
+tile(MovingSpikes,1950,900){
+	MovingPosCount=1
+	disabled=1
+	id=54
+	loop=0
+	t0=15
+	x0=150
+	y0=0
+}
+tile(MovingSpikes,1950,950){
+	MovingPosCount=1
+	disabled=1
+	id=55
+	loop=0
+	t0=15
+	x0=150
+	y0=0
+}
+tile(MovingSpikes,1950,1000){
+	MovingPosCount=1
+	disabled=1
+	id=56
+	loop=0
+	t0=15
+	x0=150
+	y0=0
+}
+tile(MovingSpikes,1950,1050){
+	MovingPosCount=1
+	disabled=1
+	id=58
+	loop=0
+	t0=15
+	x0=150
+	y0=0
+}
+tile(MovingSpikes,1950,1100){
+	MovingPosCount=1
+	disabled=1
+	id=63
+	loop=0
+	t0=15
+	x0=150
+	y0=0
+}
+tile(MovingSpikes,1950,1150){
+	MovingPosCount=1
+	disabled=1
+	id=47
+	loop=0
+	t0=15
+	x0=150
+	y0=0
+}
+tile(MovingSpikes,1950,1200){
+	MovingPosCount=1
+	disabled=1
+	id=65
+	loop=0
+	t0=15
+	x0=150
+	y0=0
+}
+tile(MovingSpikes,1950,1250){
+	MovingPosCount=1
+	disabled=1
+	id=66
+	loop=0
+	t0=15
+	x0=150
+	y0=0
+}
+tile(MovingSpikes,1900,1250){
+	MovingPosCount=1
+	disabled=1
+	id=81
+	loop=0
+	t0=20
+	x0=200
+	y0=0
+}
+tile(MovingSpikes,1900,1200){
+	MovingPosCount=1
+	disabled=1
+	id=80
+	loop=0
+	t0=20
+	x0=200
+	y0=0
+}
+tile(MovingSpikes,1900,1150){
+	MovingPosCount=1
+	disabled=1
+	id=78
+	loop=0
+	t0=20
+	x0=200
+	y0=0
+}
+tile(MovingSpikes,1900,1100){
+	MovingPosCount=1
+	disabled=1
+	id=77
+	loop=0
+	t0=20
+	x0=200
+	y0=0
+}
+tile(MovingSpikes,1900,1050){
+	MovingPosCount=1
+	disabled=1
+	id=76
+	loop=0
+	t0=20
+	x0=200
+	y0=0
+}
+tile(MovingSpikes,1900,1000){
+	MovingPosCount=1
+	disabled=1
+	id=49
+	loop=0
+	t0=20
+	x0=200
+	y0=0
+}
+tile(MovingSpikes,1900,950){
+	MovingPosCount=1
+	disabled=1
+	id=75
+	loop=0
+	t0=20
+	x0=200
+	y0=0
+}
+tile(MovingSpikes,1900,900){
+	MovingPosCount=1
+	disabled=1
+	id=73
+	loop=0
+	t0=20
+	x0=200
+	y0=0
+}
+tile(MovingSpikes,1900,850){
+	MovingPosCount=1
+	disabled=1
+	id=71
+	loop=0
+	t0=20
+	x0=200
+	y0=0
+}
+tile(MovingSpikes,1900,800){
+	MovingPosCount=1
+	disabled=1
+	id=67
+	loop=0
+	t0=20
+	x0=200
+	y0=0
+}
+tile(MovingSpikes,1850,1250){
+	MovingPosCount=0
+	disabled=0
+	id=149
+	loop=1
+}
+tile(MovingSpikes,1850,1150){
+	MovingPosCount=1
+	disabled=1
+	id=92
+	loop=0
+	t0=25
+	x0=250
+	y0=0
+}
+tile(MovingSpikes,1850,1100){
+	MovingPosCount=1
+	disabled=1
+	id=91
+	loop=0
+	t0=25
+	x0=250
+	y0=0
+}
+tile(MovingSpikes,1850,1050){
+	MovingPosCount=1
+	disabled=1
+	id=90
+	loop=0
+	t0=25
+	x0=250
+	y0=0
+}
+tile(MovingSpikes,1850,1000){
+	MovingPosCount=1
+	disabled=1
+	id=89
+	loop=0
+	t0=25
+	x0=250
+	y0=0
+}
+tile(MovingSpikes,1850,950){
+	MovingPosCount=1
+	disabled=1
+	id=88
+	loop=0
+	t0=25
+	x0=250
+	y0=0
+}
+tile(MovingSpikes,1850,900){
+	MovingPosCount=1
+	disabled=1
+	id=51
+	loop=0
+	t0=25
+	x0=250
+	y0=0
+}
+tile(MovingSpikes,1850,850){
+	MovingPosCount=1
+	disabled=1
+	id=87
+	loop=0
+	t0=25
+	x0=250
+	y0=0
+}
+tile(MovingSpikes,1850,800){
+	MovingPosCount=1
+	disabled=1
+	id=84
+	loop=0
+	t0=25
+	x0=250
+	y0=0
+}
+tile(MovingSpikes,1850,1200){
+	MovingPosCount=0
+	disabled=0
+	id=150
+	loop=1
+}
