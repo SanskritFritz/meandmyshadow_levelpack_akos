@@ -156,8 +156,8 @@ tile(Button,1800,550){
 }
 tile(MovingSpikes,1300,750){
 	MovingPosCount=1
-	disabled=0
-	id=7
+	disabled=1
+	id=11
 	loop=0
 	t0=500
 	x0=0
@@ -189,7 +189,7 @@ tile(MovingBlock,50,250){
 	y1=250
 }
 tile(Switch,50,450){
-	behaviour=toggle
+	behaviour=on
 	id=11
 }
 tile(ConveyorBelt,550,550){

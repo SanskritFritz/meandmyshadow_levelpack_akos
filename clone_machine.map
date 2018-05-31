@@ -1,0 +1,900 @@
+name="Clone machine"
+size=3650,1300
+tile(ConveyorBelt,0,250){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,50,250){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,100,250){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,150,250){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,200,250){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,300,250){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,350,250){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,400,250){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,450,250){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,500,250){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,550,250){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,600,250){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,650,250){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,700,250){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,750,250){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,250,350){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,350,350){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,300,350){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,400,350){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,450,350){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,500,350){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,550,350){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,600,350){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,650,350){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,700,350){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,750,350){
+	disabled=0
+	speed=2
+}
+tile(ShadowConveyorBelt,250,250){
+	disabled=0
+	speed=2
+}
+tile(Button,800,550){
+	behaviour=on
+	id=0
+}
+tile(MovingBlock,750,500){
+	MovingPosCount=1
+	disabled=1
+	id=0
+	loop=0
+	t0=50
+	x0=50
+	y0=0
+}
+tile(Block,850,550)
+tile(Teleporter,850,500){
+	automatic=1
+	destination=5
+	id=2
+}
+tile(MovingBlock,750,450){
+	MovingPosCount=1
+	disabled=1
+	id=0
+	loop=0
+	t0=50
+	x0=50
+	y0=0
+}
+tile(MovingBlock,750,400){
+	MovingPosCount=1
+	disabled=1
+	id=0
+	loop=0
+	t0=50
+	x0=50
+	y0=0
+}
+tile(Teleporter,200,450){
+	automatic=0
+	id=5
+}
+tile(Block,250,500)
+tile(Block,300,500)
+tile(Button,200,500){
+	behaviour=on
+	id=6
+}
+tile(Block,350,500)
+tile(Block,400,500)
+tile(Block,450,500)
+tile(MovingBlock,0,450){
+	MovingPosCount=1
+	disabled=1
+	id=6
+	loop=0
+	t0=400
+	x0=400
+	y0=0
+}
+tile(MovingBlock,0,400){
+	MovingPosCount=1
+	disabled=1
+	id=6
+	loop=0
+	t0=400
+	x0=400
+	y0=0
+}
+tile(Block,500,500)
+tile(Block,500,450)
+tile(Block,500,400)
+tile(Block,150,500)
+tile(Block,150,450)
+tile(Block,150,400)
+tile(Block,150,350)
+tile(Block,200,350)
+tile(Teleporter,450,450){
+	automatic=1
+	destination=33
+	id=9
+}
+tile(MovingShadowBlock,700,1150){
+	MovingPosCount=0
+	disabled=0
+	id=10
+	loop=1
+}
+tile(MovingShadowBlock,650,1150){
+	MovingPosCount=0
+	disabled=0
+	id=11
+	loop=1
+}
+tile(MovingShadowBlock,600,1150){
+	MovingPosCount=0
+	disabled=0
+	id=12
+	loop=1
+}
+tile(MovingShadowBlock,550,1150){
+	MovingPosCount=0
+	disabled=0
+	id=13
+	loop=1
+}
+tile(MovingShadowBlock,700,1100){
+	MovingPosCount=1
+	disabled=1
+	id=45
+	loop=0
+	t0=70
+	x0=0
+	y0=-700
+}
+tile(MovingShadowBlock,650,1100){
+	MovingPosCount=1
+	disabled=1
+	id=34
+	loop=0
+	t0=70
+	x0=0
+	y0=-700
+}
+tile(MovingShadowBlock,600,1100){
+	MovingPosCount=1
+	disabled=1
+	id=28
+	loop=0
+	t0=70
+	x0=0
+	y0=-700
+}
+tile(MovingShadowBlock,550,1100){
+	MovingPosCount=1
+	disabled=1
+	id=6
+	loop=0
+	t0=70
+	x0=0
+	y0=-700
+}
+tile(MovingShadowBlock,550,1200){
+	MovingPosCount=0
+	disabled=0
+	id=18
+	loop=1
+}
+tile(MovingShadowBlock,600,1200){
+	MovingPosCount=0
+	disabled=0
+	id=19
+	loop=1
+}
+tile(MovingShadowBlock,650,1200){
+	MovingPosCount=0
+	disabled=0
+	id=20
+	loop=1
+}
+tile(MovingShadowBlock,700,1200){
+	MovingPosCount=0
+	disabled=0
+	id=21
+	loop=1
+}
+tile(ConveyorBelt,1100,250){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,1150,250){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,1200,250){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,1300,250){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,1350,250){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,1400,250){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,1250,350){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,1300,350){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,1350,350){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,1400,350){
+	disabled=0
+	speed=2
+}
+tile(MovingBlock,1400,400){
+	MovingPosCount=1
+	disabled=1
+	id=26
+	loop=0
+	t0=100
+	x0=100
+	y0=0
+}
+tile(MovingBlock,1400,450){
+	MovingPosCount=1
+	disabled=1
+	id=26
+	loop=0
+	t0=100
+	x0=100
+	y0=0
+}
+tile(Button,1450,500){
+	behaviour=on
+	id=26
+}
+tile(Block,1500,500)
+tile(Teleporter,1500,450){
+	automatic=1
+	destination=29
+	id=27
+}
+tile(Block,1300,450)
+tile(Block,1250,450)
+tile(Block,1200,450)
+tile(Block,1300,400)
+tile(Block,1100,450)
+tile(Block,1100,400)
+tile(Block,1100,350)
+tile(Block,1150,350)
+tile(Block,1200,350)
+tile(Button,1150,450){
+	behaviour=on
+	id=28
+}
+tile(Teleporter,1150,400){
+	automatic=0
+	id=29
+}
+tile(Teleporter,1250,400){
+	automatic=1
+	destination=59
+	id=30
+}
+tile(MovingBlock,1050,400){
+	MovingPosCount=1
+	disabled=1
+	id=28
+	loop=0
+	t0=150
+	x0=150
+	y0=0
+}
+tile(ShadowConveyorBelt,1250,250){
+	disabled=0
+	speed=3
+}
+tile(Teleporter,1100,150){
+	automatic=0
+	id=33
+}
+tile(Block,1850,350)
+tile(Block,1800,350)
+tile(Block,1750,350)
+tile(Block,1750,400)
+tile(Block,1750,450)
+tile(Block,1850,450)
+tile(Block,1900,450)
+tile(Block,1950,450)
+tile(Block,1950,400)
+tile(Button,1800,450){
+	behaviour=on
+	id=34
+}
+tile(ConveyorBelt,1900,350){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,1950,350){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,2000,350){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,2050,350){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,2050,250){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,2000,250){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,1950,250){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,1850,250){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,1800,250){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,1750,250){
+	disabled=0
+	speed=2
+}
+tile(MovingBlock,1700,400){
+	MovingPosCount=1
+	disabled=1
+	id=34
+	loop=0
+	t0=150
+	x0=150
+	y0=0
+}
+tile(MovingBlock,2050,400){
+	MovingPosCount=1
+	disabled=1
+	id=38
+	loop=0
+	t0=100
+	x0=100
+	y0=0
+}
+tile(MovingBlock,2050,450){
+	MovingPosCount=1
+	disabled=1
+	id=38
+	loop=0
+	t0=100
+	x0=100
+	y0=0
+}
+tile(Button,2100,500){
+	behaviour=on
+	id=38
+}
+tile(Block,2150,500)
+tile(ShadowConveyorBelt,1900,250){
+	disabled=0
+	speed=3
+}
+tile(Teleporter,1800,400){
+	automatic=0
+	id=39
+}
+tile(Teleporter,1900,400){
+	automatic=1
+	destination=59
+	id=40
+}
+tile(Teleporter,1750,150){
+	automatic=0
+	id=41
+}
+tile(Teleporter,2150,450){
+	automatic=1
+	destination=39
+	id=42
+}
+tile(ConveyorBelt,2400,250){
+	disabled=0
+	speed=2
+}
+tile(Teleporter,2400,150){
+	automatic=0
+	id=43
+}
+tile(ShadowConveyorBelt,1420,300){
+	disabled=0
+	speed=3
+}
+tile(ShadowConveyorBelt,2069,300){
+	disabled=0
+	speed=3
+}
+tile(ConveyorBelt,2450,250){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,2500,250){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,2600,250){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,2650,250){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,2700,250){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,2550,350){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,2600,350){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,2650,350){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,2700,350){
+	disabled=0
+	speed=2
+}
+tile(Block,2800,500)
+tile(Block,2600,400)
+tile(Block,2600,450)
+tile(Block,2550,450)
+tile(Block,2500,450)
+tile(Block,2400,450)
+tile(Block,2400,400)
+tile(Block,2400,350)
+tile(Block,2500,350)
+tile(Block,2450,350)
+tile(Button,2750,500){
+	behaviour=on
+	id=44
+}
+tile(Button,2450,450){
+	behaviour=on
+	id=45
+}
+tile(ShadowConveyorBelt,2550,250){
+	disabled=0
+	speed=3
+}
+tile(ShadowConveyorBelt,2719,300){
+	disabled=0
+	speed=3
+}
+tile(Teleporter,2800,450){
+	automatic=1
+	destination=48
+	id=46
+}
+tile(Teleporter,2550,400){
+	automatic=1
+	destination=59
+	id=47
+}
+tile(Teleporter,2450,400){
+	automatic=0
+	id=48
+}
+tile(MovingBlock,2350,400){
+	MovingPosCount=1
+	disabled=1
+	id=45
+	loop=0
+	t0=150
+	x0=150
+	y0=0
+}
+tile(MovingBlock,2700,450){
+	MovingPosCount=1
+	disabled=1
+	id=44
+	loop=0
+	t0=100
+	x0=100
+	y0=0
+}
+tile(MovingBlock,2700,400){
+	MovingPosCount=1
+	disabled=1
+	id=44
+	loop=0
+	t0=100
+	x0=100
+	y0=0
+}
+tile(ConveyorBelt,3050,250){
+	disabled=0
+	speed=2
+}
+tile(Teleporter,3050,150){
+	automatic=0
+	id=52
+}
+tile(Block,600,750)
+tile(Block,650,750)
+tile(Block,700,750)
+tile(Block,750,750)
+tile(Block,850,750)
+tile(Block,800,750)
+tile(Block,900,750)
+tile(Block,950,750)
+tile(Block,1000,750)
+tile(Block,1050,750)
+tile(Block,1100,750)
+tile(Block,1150,750)
+tile(Block,1200,750)
+tile(Block,1250,750)
+tile(MovingBlock,600,800){
+	MovingPosCount=5
+	disabled=1
+	id=28
+	loop=0
+	t0=100
+	t1=100
+	t2=10
+	t3=20
+	t4=30
+	x0=0
+	x1=0
+	x2=0
+	x3=100
+	x4=100
+	y0=-50
+	y1=-150
+	y2=-200
+	y3=-200
+	y4=-50
+}
+tile(MovingBlock,600,850){
+	MovingPosCount=5
+	disabled=1
+	id=34
+	loop=0
+	t0=166
+	t1=100
+	t2=10
+	t3=30
+	t4=30
+	x0=0
+	x1=0
+	x2=0
+	x3=150
+	x4=150
+	y0=-100
+	y1=-200
+	y2=-250
+	y3=-250
+	y4=-100
+}
+tile(MovingBlock,600,900){
+	MovingPosCount=7
+	disabled=1
+	id=45
+	loop=0
+	t0=214
+	t1=100
+	t2=10
+	t3=30
+	t4=10
+	t5=10
+	t6=20
+	x0=0
+	x1=0
+	x2=0
+	x3=150
+	x4=150
+	x5=200
+	x6=200
+	y0=-150
+	y1=-250
+	y2=-300
+	y3=-300
+	y4=-250
+	y5=-250
+	y6=-150
+}
+tile(MovingBlock,600,950){
+	MovingPosCount=0
+	disabled=0
+	id=56
+	loop=1
+}
+tile(MovingBlock,600,1000){
+	MovingPosCount=0
+	disabled=0
+	id=57
+	loop=1
+}
+tile(MovingBlock,600,1050){
+	MovingPosCount=0
+	disabled=0
+	id=58
+	loop=1
+}
+tile(Teleporter,600,700){
+	automatic=0
+	id=59
+}
+tile(Teleporter,700,700){
+	automatic=1
+	destination=41
+	id=61
+}
+tile(Teleporter,750,700){
+	automatic=1
+	destination=43
+	id=62
+}
+tile(Teleporter,800,700){
+	automatic=1
+	destination=52
+	id=63
+}
+tile(Teleporter,850,700){
+	automatic=0
+	id=64
+}
+tile(Teleporter,900,700){
+	automatic=0
+	id=65
+}
+tile(Teleporter,950,700){
+	automatic=0
+	id=66
+}
+tile(Teleporter,1000,700){
+	automatic=0
+	id=67
+}
+tile(Teleporter,1050,700){
+	automatic=0
+	id=68
+}
+tile(Teleporter,1100,700){
+	automatic=0
+	id=69
+}
+tile(Teleporter,1150,700){
+	automatic=0
+	id=70
+}
+tile(Teleporter,1200,700){
+	automatic=0
+	id=71
+}
+tile(Teleporter,1250,700){
+	automatic=0
+	id=72
+}
+tile(Block,650,700)
+tile(Block,650,650)
+tile(ConveyorBelt,3100,250){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,3150,250){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,3250,250){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,3300,250){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,3350,250){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,3200,350){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,3250,350){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,3300,350){
+	disabled=0
+	speed=2
+}
+tile(ConveyorBelt,3350,350){
+	disabled=0
+	speed=2
+}
+tile(ShadowConveyorBelt,3200,250){
+	disabled=0
+	speed=3
+}
+tile(ShadowConveyorBelt,3370,300){
+	disabled=0
+	speed=3
+}
+tile(Block,3150,350)
+tile(Block,3100,350)
+tile(Block,3050,350)
+tile(Block,3050,400)
+tile(Block,3050,450)
+tile(Block,3250,450)
+tile(Block,3250,400)
+tile(Block,3200,450)
+tile(Block,3150,450)
+tile(Block,3450,500)
+tile(MovingBlock,3350,450){
+	MovingPosCount=1
+	disabled=1
+	id=77
+	loop=0
+	t0=100
+	x0=100
+	y0=0
+}
+tile(MovingBlock,3350,400){
+	MovingPosCount=1
+	disabled=1
+	id=77
+	loop=0
+	t0=100
+	x0=100
+	y0=0
+}
+tile(Button,3100,450){
+	behaviour=toggle
+	id=76
+}
+tile(Button,3400,500){
+	behaviour=on
+	id=77
+}
+tile(MovingBlock,3000,400){
+	MovingPosCount=0
+	disabled=0
+	id=78
+	loop=1
+}
+tile(Teleporter,3450,450){
+	automatic=0
+	id=79
+}
+tile(Teleporter,3200,400){
+	automatic=0
+	id=80
+}
+tile(Exit,3500,1200)
+tile(Block,3450,1100)
+tile(Block,3450,1150)
+tile(Block,3450,1200)
+tile(Block,3450,1250)
+tile(Block,3500,1250)
+tile(Block,3550,1250)
+tile(Block,3550,1200)
+tile(Block,3550,1150)
+tile(Block,3550,1100)
+tile(MovingBlock,3500,1150){
+	MovingPosCount=1
+	disabled=1
+	id=82
+	loop=0
+	t0=10
+	x0=0
+	y0=100
+}
+tile(NotificationBlock,3500,1100){
+	message="bored eh ?"
+}
+tile(Switch,3500,1050){
+	behaviour=toggle
+	id=82
+}
+tile(Block,3450,1050)
+tile(Block,3550,1050)
+tile(Collectable,2650,300)
+tile(Collectable,2000,300)
+tile(Collectable,3300,300)
+tile(Collectable,1350,300)

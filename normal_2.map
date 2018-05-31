@@ -1,0 +1,297 @@
+name="Normal 2"
+size=3000,1850
+tile(Spikes,750,1150)
+tile(Spikes,800,1150)
+tile(Spikes,850,1150)
+tile(Spikes,900,1150)
+tile(Spikes,950,1150)
+tile(Block,1000,1150)
+tile(Block,1050,1150)
+tile(Block,1100,1150)
+tile(Block,1150,1150)
+tile(Block,1200,1150)
+tile(Block,1250,1150)
+tile(Block,1300,1100)
+tile(Block,1350,1050)
+tile(Block,1325,1050)
+tile(Block,1350,1000)
+tile(Block,1400,950)
+tile(Block,1450,900)
+tile(Block,1500,850)
+tile(Block,1550,800)
+tile(Block,1600,750)
+tile(Block,1600,800)
+tile(Block,1600,850)
+tile(Block,1600,900)
+tile(Block,1550,900)
+tile(Block,1500,900)
+tile(Block,1550,850)
+tile(Block,1400,1000)
+tile(Block,1400,1050)
+tile(Block,1450,1050)
+tile(Block,1500,1050)
+tile(Block,1550,1050)
+tile(Block,1600,1050)
+tile(Block,1650,1050)
+tile(Block,1700,1050)
+tile(Block,1750,1050)
+tile(Block,1800,1050)
+tile(Block,1700,1000)
+tile(Block,1800,1000)
+tile(Block,1800,950)
+tile(MovingBlock,1300,1050){
+	MovingPosCount=1
+	disabled=1
+	id=10
+	loop=0
+	t0=20
+	x0=50
+	y0=0
+}
+tile(MovingBlock,1250,1050){
+	MovingPosCount=1
+	disabled=1
+	id=10
+	loop=0
+	t0=20
+	x0=-50
+	y0=0
+}
+tile(MovingBlock,1700,950){
+	MovingPosCount=1
+	disabled=1
+	id=11
+	loop=0
+	t0=5
+	x0=0
+	y0=-50
+}
+tile(MovingBlock,1550,750){
+	MovingPosCount=1
+	disabled=1
+	id=10
+	loop=0
+	t0=60
+	x0=0
+	y0=150
+}
+tile(MovingBlock,1550,700){
+	MovingPosCount=1
+	disabled=1
+	id=10
+	loop=0
+	t0=60
+	x0=0
+	y0=150
+}
+tile(Button,1650,750){
+	behaviour=toggle
+	id=5
+}
+tile(ConveyorBelt,1000,1100){
+	disabled=0
+	speed=-1
+}
+tile(MovingShadowBlock,1050,1050){
+	MovingPosCount=2
+	disabled=0
+	id=6
+	loop=1
+	t0=16
+	t1=16
+	x0=-50
+	x1=0
+	y0=0
+	y1=0
+}
+tile(Spikes,1050,950)
+tile(Spikes,950,950)
+tile(Spikes,950,900)
+tile(Spikes,950,850)
+tile(Spikes,950,800)
+tile(ShadowConveyorBelt,1050,900){
+	disabled=0
+	speed=3
+}
+tile(ShadowBlock,1000,850)
+tile(Collectable,1000,950)
+tile(Collectable,1750,1000)
+tile(ConveyorBelt,1750,900){
+	disabled=0
+	speed=10
+}
+tile(ConveyorBelt,1800,900){
+	disabled=0
+	speed=10
+}
+tile(Block,1200,1050)
+tile(Block,1100,1050)
+tile(MovingBlock,1150,1050){
+	MovingPosCount=1
+	disabled=1
+	id=10
+	loop=0
+	t0=80
+	x0=0
+	y0=-200
+}
+tile(Block,1100,1000)
+tile(Block,1100,950)
+tile(Block,1100,900)
+tile(Block,1100,850)
+tile(Block,1100,750)
+tile(Block,1000,750)
+tile(Block,1000,700)
+tile(Block,1000,650)
+tile(Block,1000,600)
+tile(Block,1050,600)
+tile(Block,1100,600)
+tile(Block,1150,600)
+tile(Block,1050,550)
+tile(Block,1100,550)
+tile(ShadowBlock,1100,800)
+tile(ShadowBlock,1150,750)
+tile(ShadowBlock,1200,750)
+tile(ShadowBlock,1250,750)
+tile(ShadowBlock,1300,750)
+tile(ShadowBlock,1350,800)
+tile(ShadowBlock,1400,800)
+tile(ShadowBlock,1450,750)
+tile(ShadowBlock,1200,600)
+tile(ShadowBlock,1250,600)
+tile(ShadowBlock,1300,600)
+tile(ShadowBlock,1350,600)
+tile(ShadowBlock,1300,550)
+tile(ShadowBlock,1250,550)
+tile(Spikes,1200,700)
+tile(Spikes,1200,650)
+tile(Swap,1300,700)
+tile(Block,1200,1000)
+tile(Block,1200,950)
+tile(ConveyorBelt,1200,900){
+	disabled=0
+	speed=-3
+}
+tile(MovingBlock,1450,1000){
+	MovingPosCount=1
+	disabled=1
+	id=11
+	loop=0
+	t0=200
+	x0=200
+	y0=0
+}
+tile(MovingBlock,1450,950){
+	MovingPosCount=1
+	disabled=1
+	id=11
+	loop=0
+	t0=200
+	x0=200
+	y0=0
+}
+tile(Switch,1150,1000){
+	behaviour=on
+	id=10
+}
+tile(Switch,1500,1000){
+	behaviour=on
+	id=11
+}
+tile(Spikes,1850,900)
+tile(Spikes,1900,900)
+tile(Spikes,1950,900)
+tile(Spikes,2000,900)
+tile(Block,2000,850)
+tile(Block,2000,800)
+tile(Block,2000,750)
+tile(Exit,2000,700)
+tile(MovingBlock,2050,750){
+	MovingPosCount=1
+	disabled=1
+	id=11
+	loop=0
+	t0=100
+	x0=-100
+	y0=0
+}
+tile(MovingBlock,2100,750){
+	MovingPosCount=1
+	disabled=1
+	id=11
+	loop=0
+	t0=100
+	x0=-200
+	y0=0
+}
+tile(MovingBlock,2150,750){
+	MovingPosCount=1
+	disabled=1
+	id=11
+	loop=0
+	t0=100
+	x0=-300
+	y0=0
+}
+tile(MovingBlock,2200,750){
+	MovingPosCount=1
+	disabled=1
+	id=11
+	loop=0
+	t0=100
+	x0=-400
+	y0=0
+}
+tile(MovingBlock,2250,750){
+	MovingPosCount=1
+	disabled=1
+	id=11
+	loop=0
+	t0=100
+	x0=-500
+	y0=0
+}
+tile(MovingBlock,2300,750){
+	MovingPosCount=1
+	disabled=1
+	id=11
+	loop=0
+	t0=100
+	x0=-600
+	y0=0
+}
+tile(MovingBlock,2200,700){
+	MovingPosCount=1
+	disabled=1
+	id=5
+	loop=0
+	t0=200
+	x0=-200
+	y0=0
+}
+tile(Spikes,2000,650)
+tile(Spikes,2000,600)
+tile(Spikes,2000,550)
+tile(PlayerStart,1250,1000)
+tile(ShadowStart,1300,1000)
+tile(MovingBlock,1550,650){
+	MovingPosCount=1
+	disabled=1
+	id=10
+	loop=0
+	t0=60
+	x0=0
+	y0=150
+}
+tile(MovingSpikes,1700,900){
+	MovingPosCount=1
+	disabled=1
+	id=11
+	loop=0
+	t0=15
+	x0=150
+	y0=0
+}
+tile(NotificationBlock,1600,700){
+	message="do not step on that -->"
+}
